@@ -1,0 +1,136 @@
+running simulation
+24 cores
+dim: (28, 28, 28)
+initialization done in 0.311922 seconds
+HPX Simulation finished in 47.2191 seconds
+ GFLOPS: 658.097 min: 655.054 max: 655.765 mean: 655.405
+
+                      min            max            mean           stddev         
+Simulation Time       47.387         47.4385        47.413         0.0160222      
+Compute Time Inner    15.8301        17.8349        16.8693        0.596257       
+Compute Time Ghost    9.57019        10.5604        9.97916        0.322309       
+PatchProviders Time   10.3046        11.5919        10.9685        0.409719       
+PatchAccepters Time   9.04702        10.2741        9.6368         0.471529       
+----------------------------------------------------------------------
+/agas{locality#0/total}/count/allocate,1,47.592766,[s],21
+/agas{locality#0/total}/count/begin_migration,1,47.592613,[s],0
+/agas{locality#0/total}/count/bind,1,47.592491,[s],117
+/agas{locality#0/total}/count/bind_gid,1,47.592422,[s],30
+/agas{locality#0/total}/count/cache/erase_entry,1,47.593417,[s],0
+/agas{locality#0/total}/count/cache/evictions,1,47.592798,[s],0
+/agas{locality#0/total}/count/cache/get_entry,1,47.593182,[s],35278
+/agas{locality#0/total}/count/cache/hits,1,47.592441,[s],0
+/agas{locality#0/total}/count/cache/insert_entry,1,47.593421,[s],0
+/agas{locality#0/total}/count/cache/insertions,1,47.592727,[s],0
+/agas{locality#0/total}/count/cache/misses,1,47.592736,[s],35291
+/agas{locality#0/total}/count/cache/update_entry,1,47.592991,[s],0
+/agas{locality#0/total}/count/decrement_credit,1,47.592682,[s],11908
+/agas{locality#0/total}/count/end_migration,1,47.593395,[s],0
+/agas{locality#0/total}/count/increment_credit,1,47.593039,[s],0
+/agas{locality#0/total}/count/iterate_names,1,47.592829,[s],0
+/agas{locality#0/total}/count/resolve,1,47.593046,[s],217
+/agas{locality#0/total}/count/resolve_gid,1,47.593655,[s],23397
+/agas{locality#0/total}/count/route,1,47.593082,[s],0
+/agas{locality#0/total}/count/unbind,1,47.592853,[s],0
+/agas{locality#0/total}/count/unbind_gid,1,47.593053,[s],5
+/agas{locality#0/total}/primary/count,1,47.592683,[s],35376
+/agas{locality#0/total}/primary/time,1,47.592973,[s],3.34921e+08,[ns]
+/agas{locality#0/total}/symbol/count,1,47.592936,[s],334
+/agas{locality#0/total}/symbol/time,1,47.592841,[s],1.65632e+06,[ns]
+/agas{locality#0/total}/time/allocate,1,47.593010,[s],30353,[ns]
+/agas{locality#0/total}/time/begin_migration,1,47.593041,[s],0,[ns]
+/agas{locality#0/total}/time/bind,1,47.593834,[s],942263,[ns]
+/agas{locality#0/total}/time/bind_gid,1,47.593262,[s],236343,[ns]
+/agas{locality#0/total}/time/cache/erase_entry,1,47.593587,[s],0,[ns]
+/agas{locality#0/total}/time/cache/get_entry,1,47.593733,[s],35351,[ns]
+/agas{locality#0/total}/time/cache/insert_entry,1,47.593454,[s],0,[ns]
+/agas{locality#0/total}/time/cache/update_entry,1,47.593081,[s],0,[ns]
+/agas{locality#0/total}/time/decrement_credit,1,47.593687,[s],9.4355e+07,[ns]
+/agas{locality#0/total}/time/end_migration,1,47.593214,[s],0,[ns]
+/agas{locality#0/total}/time/increment_credit,1,47.593891,[s],0,[ns]
+/agas{locality#0/total}/time/iterate_names,1,47.593004,[s],0,[ns]
+/agas{locality#0/total}/time/resolve,1,47.593540,[s],714054,[ns]
+/agas{locality#0/total}/time/resolve_gid,1,47.593346,[s],2.40538e+08,[ns]
+/agas{locality#0/total}/time/route,1,47.593107,[s],0,[ns]
+/agas{locality#0/total}/time/unbind,1,47.593793,[s],0,[ns]
+/agas{locality#0/total}/time/unbind_gid,1,47.594046,[s],64745,[ns]
+/agas{locality#0/total}/count/bind_name,1,47.593399,[s],13
+/agas{locality#0/total}/count/bind_prefix,1,47.593802,[s],32
+/agas{locality#0/total}/count/free,1,47.593865,[s],0
+/agas{locality#0/total}/count/get_component_typename,1,47.593511,[s],0
+/agas{locality#0/total}/count/iterate_types,1,47.594122,[s],0
+/agas{locality#0/total}/count/localities,1,47.593390,[s],2
+/agas{locality#0/total}/count/num_localities,1,47.593309,[s],178
+/agas{locality#0/total}/count/num_localities_type,1,47.593543,[s],0
+/agas{locality#0/total}/count/num_threads,1,47.594179,[s],3
+/agas{locality#0/total}/count/resolve_id,1,47.594038,[s],1
+/agas{locality#0/total}/count/resolve_locality,1,47.593738,[s],0
+/agas{locality#0/total}/count/resolved_localities,1,47.594004,[s],0
+/agas{locality#0/total}/count/unbind_name,1,47.593701,[s],0
+/agas{locality#0/total}/component/count,1,47.593824,[s],46
+/agas{locality#0/total}/component/time,1,47.593631,[s],113679,[ns]
+/agas{locality#0/total}/time/bind_name,1,47.594072,[s],21432,[ns]
+/agas{locality#0/total}/time/bind_prefix,1,47.594170,[s],87247,[ns]
+/agas{locality#0/total}/time/free,1,47.593774,[s],0,[ns]
+/agas{locality#0/total}/time/get_component_typename,1,47.593640,[s],0,[ns]
+/agas{locality#0/total}/time/iterate_types,1,47.594352,[s],0,[ns]
+/agas{locality#0/total}/time/localities,1,47.594340,[s],7834,[ns]
+/agas{locality#0/total}/time/num_localities,1,47.594282,[s],122778,[ns]
+/agas{locality#0/total}/time/num_localities_type,1,47.593921,[s],0,[ns]
+/agas{locality#0/total}/time/num_threads,1,47.593686,[s],5156,[ns]
+/agas{locality#0/total}/time/resolve_id,1,47.594127,[s],5000,[ns]
+/agas{locality#0/total}/time/resolve_locality,1,47.593781,[s],0,[ns]
+/agas{locality#0/total}/time/resolved_localities,1,47.594017,[s],0,[ns]
+/agas{locality#0/total}/time/unbind_name,1,47.593582,[s],0,[ns]
+/data{locality#0/total}/count/mpi/received,1,47.594417,[s],0,[bytes]
+/data{locality#0/total}/count/mpi/sent,1,47.593533,[s],0,[bytes]
+/data{locality#0/total}/time/mpi/received,1,47.594287,[s],0,[ns]
+/data{locality#0/total}/time/mpi/sent,1,47.593693,[s],0,[ns]
+/messages{locality#0/total}/count/mpi/received,1,47.593494,[s],0
+/messages{locality#0/total}/count/mpi/sent,1,47.594562,[s],0
+/parcelport{locality#0/total}/count/mpi/cache-evictions,1,47.594230,[s],0
+/parcelport{locality#0/total}/count/mpi/cache-hits,1,47.594593,[s],0
+/parcelport{locality#0/total}/count/mpi/cache-insertions,1,47.594050,[s],0
+/parcelport{locality#0/total}/count/mpi/cache-misses,1,47.594008,[s],0
+/parcelport{locality#0/total}/count/mpi/cache-reclaims,1,47.594614,[s],0
+/parcels{locality#0/total}/count/mpi/received,1,47.594090,[s],0
+/parcels{locality#0/total}/count/mpi/sent,1,47.594659,[s],0
+/parcels{locality#0/total}/time/mpi/buffer_allocate/received,1,47.594208,[s],4.69126e+13,[ns]
+/parcels{locality#0/total}/time/mpi/buffer_allocate/sent,1,47.593770,[s],4.16612e+13,[ns]
+/serialize{locality#0/total}/count/mpi/received,1,47.593701,[s],0,[bytes]
+/serialize{locality#0/total}/count/mpi/sent,1,47.594077,[s],0,[bytes]
+/serialize{locality#0/total}/time/mpi/received,1,47.594617,[s],0,[ns]
+/serialize{locality#0/total}/time/mpi/sent,1,47.593802,[s],0,[ns]
+/threads{locality#0/total}/count/objects,1,47.594398,[s],350
+/threads{locality#0/total}/count/cumulative,1,47.594628,[s],120269
+/threads{locality#0/total}/count/cumulative-phases,1,47.594027,[s],133630
+/threads{locality#0/total}/count/pending-accesses,1,47.594118,[s],792125
+/threads{locality#0/total}/count/pending-misses,1,47.594369,[s],674049
+/threads{locality#0/total}/count/stolen-from-pending,1,47.594063,[s],15542
+/threads{locality#0/total}/count/stolen-from-staged,1,47.594245,[s],3621
+/threads{locality#0/total}/count/stolen-to-pending,1,47.594198,[s],15545
+/threads{locality#0/total}/count/stolen-to-staged,1,47.594419,[s],3621
+/threads{locality#0/total}/time/average,1,47.594567,[s],9.41239e+06,[ns]
+/threads{locality#0/total}/time/average-overhead,1,47.594318,[s],29881,[ns]
+/threads{locality#0/total}/time/average-phase,1,47.594374,[s],8.47084e+06,[ns]
+/threads{locality#0/total}/time/average-phase-overhead,1,47.594486,[s],26892,[ns]
+/threads{locality#0/total}/idle-rate,1,47.593972,[s],31,[0.01%]
+Application 11510529 resources: utime ~1138s, stime ~3s, Rss ~248100, inblocks ~4676, outblocks ~19089
+
+ + --------------------------------------------------------------------------
+ +        Job name: nbody_weak_1
+ +          Job Id: 2671554.edique02
+ +          System: edison
+ +     Queued Time: Sat Apr  4 13:56:22 2015
+ +      Start Time: Sat Apr  4 13:56:46 2015
+ + Completion Time: Sat Apr  4 13:57:41 2015
+ +            User: pagrubel
+ +        MOM Host: nid02048
+ +           Queue: debug
+ +  Req. Resources: mppnodect=1,mppnppn=24,mppwidth=24,walltime=00:10:00
+ +  Used Resources: cput=00:00:00,energy_used=0,mem=10760kb,vmem=92044kb,walltime=00:00:57
+ +     Acct String: xpress
+ +   PBS_O_WORKDIR: /global/u1/p/pagrubel/nbody_demo/edison/experiments_1
+ +     Submit Args: ../run_nbody_weak_hpx_1.job
+ + --------------------------------------------------------------------------
+

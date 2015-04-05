@@ -1,0 +1,5 @@
+TracingWriter::initialized()
+  time: 2015-Apr-05 00:50:02.411659
+TracingWriter::allDone()
+  total time: 00:00:57.276882
+  time: 2015-Apr-05 00:50:59.688059
