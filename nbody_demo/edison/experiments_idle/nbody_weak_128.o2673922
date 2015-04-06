@@ -1,0 +1,21 @@
+Application 11533157 exit codes: 134
+Application 11533157 exit signals: Killed
+Application 11533157 resources: utime ~1907s, stime ~249s, Rss ~37516, inblocks ~703847, outblocks ~2441660
+
+ + --------------------------------------------------------------------------
+ +        Job name: nbody_weak_128
+ +          Job Id: 2673922.edique02
+ +          System: edison
+ +     Queued Time: Sun Apr  5 11:14:55 2015
+ +      Start Time: Sun Apr  5 11:20:50 2015
+ + Completion Time: Sun Apr  5 11:21:14 2015
+ +            User: pagrubel
+ +        MOM Host: nid00899
+ +           Queue: reg_small
+ +  Req. Resources: mppnodect=128,mppnppn=24,mppwidth=3072,walltime=00:10:00
+ +  Used Resources: cput=00:00:00,energy_used=0,mem=0kb,vmem=0kb,walltime=00:00:26
+ +     Acct String: xpress
+ +   PBS_O_WORKDIR: /global/u1/p/pagrubel/nbody_demo/edison/experiments_idle
+ +     Submit Args: ../run_nbody_weak_hpx_128.job
+ + --------------------------------------------------------------------------
+

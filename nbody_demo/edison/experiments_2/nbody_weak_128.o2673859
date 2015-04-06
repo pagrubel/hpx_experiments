@@ -1,0 +1,35 @@
+running simulation
+3072 cores
+dim: (145, 145, 145)
+initialization done in 16.414 seconds
+HPX Simulation finished in 111.025 seconds
+ GFLOPS: 38870.1 min: 39493.8 max: 42640.8 mean: 41045.9
+
+                      min            max            mean           stddev         
+Simulation Time       101.207        109.272        105.14         2.0992         
+Compute Time Inner    6.73014        21.0375        10.1043        1.79948        
+Compute Time Ghost    3.51878        16.5987        6.77795        1.94622        
+PatchProviders Time   11.2679        94.1443        72.1879        10.7987        
+PatchAccepters Time   0.391882       55.9214        16.1232        7.89362        
+----------------------------------------------------------------------
+Application 11532876 exit codes: 134
+Application 11532876 exit signals: Killed
+Application 11532876 resources: utime ~80941s, stime ~2159s, Rss ~481440, inblocks ~70260922, outblocks ~2474750
+
+ + --------------------------------------------------------------------------
+ +        Job name: nbody_weak_128
+ +          Job Id: 2673859.edique02
+ +          System: edison
+ +     Queued Time: Sun Apr  5 10:46:55 2015
+ +      Start Time: Sun Apr  5 11:00:17 2015
+ + Completion Time: Sun Apr  5 11:02:53 2015
+ +            User: pagrubel
+ +        MOM Host: nid00899
+ +           Queue: reg_small
+ +  Req. Resources: mppnodect=128,mppnppn=24,mppwidth=3072,walltime=00:10:00
+ +  Used Resources: cput=00:00:00,energy_used=0,mem=10756kb,vmem=157388kb,walltime=00:02:38
+ +     Acct String: xpress
+ +   PBS_O_WORKDIR: /global/u1/p/pagrubel/nbody_demo/edison/experiments_2
+ +     Submit Args: ../run_nbody_weak_hpx_128.job
+ + --------------------------------------------------------------------------
+

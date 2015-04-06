@@ -1,0 +1,625 @@
+
+{stack-trace}: 4 frames:
+0x2aaaaaed3890  : hpx::detail::backtrace(unsigned long) + 0x80 in /global/homes/s/sithhell/project/hpx/edison/hpx-release/lib/libhpx.so.0
+0x2aaaaaed98bf  : void hpx::detail::throw_exception<hpx::exception>(hpx::exception const&, std::string const&, std::string const&, long) + 0x36f in /global/homes/s/sithhell/project/hpx/edison/hpx-release/lib/libhpx.so.0
+0x2aaaabb0815c  : ??? + 0x2aaaabb0815c in /global/homes/s/sithhell/project/hpx/edison/hpx-release/lib/libhpx.so.0
+0x2aaaaba6faf2  : hpx::performance_counters::discover_counter_type(std::string const&, hpx::util::function<bool (hpx::performance_counters::counter_info const&, hpx::error_code&), void, void> const&, hpx::performance_counters::discover_counters_mode, hpx::error_code&) + 0x72 in /global/homes/s/sithhell/project/hpx/edison/hpx-release/lib/libhpx.so.0
+{env}: 337 entries:
+  ALPS_APP_DEPTH=24
+  ALPS_APP_ID=11533162
+  ALPS_APP_PE=0
+  ALTD_ON=1
+  ALTD_PATH=/usr/common/usg/altd/2.0
+  ALTD_SELECT_ON=0
+  ALTD_VERBOSE=0
+  ALTD_WORKDIR=/scratch1/altd/logs
+  ALT_LINKER=/usr/common/usg/altd/2.0/bin/ld
+  ATP_HOME=/opt/cray/atp/1.7.5
+  ATP_MRNET_COMM_PATH=/opt/cray/atp/1.7.5/bin/atp_mrnet_commnode_wrapper
+  ATP_POST_LINK_OPTS=-Wl,-L/opt/cray/atp/1.7.5/lib/ 
+  BASH_ENV=/global/homes/p/pagrubel/.bashrc
+  BASH_FUNC_module()=() {  eval `/opt/modules/3.2.10.2/bin/modulecmd bash $*`
+}
+  BOOST_DIR=/usr/common/usg/boost/1.54/intel
+  BOOST_LIB=/usr/common/usg/boost/1.54/intel/lib
+  BOOST_ROOT=/usr/common/usg/boost/1.54/intel
+  COLORTERM=1
+  CPU=x86_64
+  CRAYOS_VERSION=5.2.40
+  CRAYPE_DIR=/opt/cray/craype/2.2.1
+  CRAYPE_NETWORK_TARGET=aries
+  CRAYPE_VERSION=2.2.1
+  CRAY_ALPS_INCLUDE_OPTS=-I/opt/cray/alps/5.2.1-2.0502.9072.13.1.ari/include
+  CRAY_ALPS_POST_LINK_OPTS=-L/opt/cray/alps/5.2.1-2.0502.9072.13.1.ari/lib64
+  CRAY_CPU_TARGET=sandybridge
+  CRAY_DMAPP_INCLUDE_OPTS=-I/opt/cray/dmapp/7.0.1-1.0502.9501.5.219.ari/include -I/opt/cray/gni-headers/3.0-1.0502.9684.5.2.ari/include 
+  CRAY_DMAPP_POST_LINK_OPTS=-L/opt/cray/dmapp/7.0.1-1.0502.9501.5.219.ari/lib64
+  CRAY_GNI_HEADERS_INCLUDE_OPTS=-I/opt/cray/gni-headers/3.0-1.0502.9684.5.2.ari/include
+  CRAY_LD_LIBRARY_PATH=/opt/cray/mpt/7.1.1/gni/mpich2-intel/140/lib:/opt/cray/mpt/7.1.1/gni/sma/lib64:/opt/cray/mpt/7.1.1/gni/sma64/lib64:/opt/cray/pmi/5.0.6-1.0000.10439.140.2.ari/lib64:/opt/cray/libsci/13.0.1/INTEL/140/x86_64/lib:/opt/cray/xpmem/0.1-2.0502.55507.3.2.ari/lib64:/opt/cray/dmapp/7.0.1-1.0502.9501.5.219.ari/lib64:/opt/cray/ugni/5.0-1.0502.9685.4.24.ari/lib64:/opt/cray/udreg/2.3.2-1.0502.9275.1.12.ari/lib64:/opt/cray/alps/5.2.1-2.0502.9072.13.1.ari/lib64
+  CRAY_LIBSCI_BASE_DIR=/opt/cray/libsci/13.0.1
+  CRAY_LIBSCI_DIR=/opt/cray/libsci/13.0.1
+  CRAY_LIBSCI_PREFIX_DIR=/opt/cray/libsci/13.0.1/INTEL/140/x86_64
+  CRAY_LIBSCI_VERSION=13.0.1
+  CRAY_LLM_DIR=/opt/cray/llm/default
+  CRAY_MPICH2_BASEDIR=/opt/cray/mpt/7.1.1/gni
+  CRAY_MPICH2_DIR=/opt/cray/mpt/7.1.1/gni/mpich2-intel/140
+  CRAY_MPICH2_ROOTDIR=/opt/cray/mpt/7.1.1
+  CRAY_MPICH2_VER=7.1.1
+  CRAY_PMI_INCLUDE_OPTS=-I/opt/cray/pmi/5.0.6-1.0000.10439.140.2.ari/include
+  CRAY_PMI_POST_LINK_OPTS=-L/opt/cray/pmi/5.0.6-1.0000.10439.140.2.ari/lib64
+  CRAY_PORTALS_USE_BLOCKING_POLL=no
+  CRAY_PRE_COMPILE_OPTS=-hnetwork=aries
+  CRAY_PRGENVINTEL=loaded
+  CRAY_SHMEM_BASEDIR=/opt/cray/mpt/7.1.1/gni
+  CRAY_SHMEM_DIR=/opt/cray/mpt/7.1.1/gni/sma
+  CRAY_SHMEM_ROOTDIR=/opt/cray/mpt/7.1.1
+  CRAY_SHMEM_VER=7.1.1
+  CRAY_SITE_LIST_DIR=/etc/opt/cray/modules
+  CRAY_UDREG_INCLUDE_OPTS=-I/opt/cray/udreg/2.3.2-1.0502.9275.1.12.ari/include
+  CRAY_UDREG_POST_LINK_OPTS=-L/opt/cray/udreg/2.3.2-1.0502.9275.1.12.ari/lib64
+  CRAY_UGNI_INCLUDE_OPTS=-I/opt/cray/ugni/5.0-1.0502.9685.4.24.ari/include
+  CRAY_UGNI_POST_LINK_OPTS=-L/opt/cray/ugni/5.0-1.0502.9685.4.24.ari/lib64
+  CRAY_XPMEM_INCLUDE_OPTS=-I/opt/cray/xpmem/0.1-2.0502.55507.3.2.ari/include
+  CRAY_XPMEM_POST_LINK_OPTS=-L/opt/cray/xpmem/0.1-2.0502.55507.3.2.ari/lib64
+  CSHEDIT=emacs
+  CVS_RSH=ssh
+  DMAPP_ABORT_ON_ERROR=1
+  DVS_MAXNODES=1__
+  ENV=/etc/bash.bashrc
+  ENVIRONMENT=BATCH
+  FFTW_SYSTEM_WISDOM_DIR=/opt/cray/libsci/13.0.1
+  FORT_BUFFERED=yes
+  FROM_HEADER=
+  GCC_PATH=/opt/gcc/4.9.2
+  GCC_VERSION=4.9.2
+  GNU_VERSION=4.9.2
+  GSCRATCH2=/global/scratch2/sd/pagrubel
+  GSCRATCH=/global/scratch2/sd/pagrubel
+  G_BROKEN_FILENAMES=1
+  G_FILENAME_ENCODING=@locale,UTF-8,ISO-8859-15,CP1252
+  HISTSIZE=1000
+  HOME=/global/homes/p/pagrubel
+  HOST=nid00897
+  HOSTNAME=nid00897
+  HOSTTYPE=x86_64
+  INCLUDE=/opt/intel/composer_xe_2015.1.133/mkl/include
+  INFODIR=/usr/local/info:/usr/share/info:/usr/info
+  INFOPATH=/opt/gcc/4.9.2/snos/share/info:/opt/intel/composer_xe_2015.1.133/debugger/gdb/intel64/share/info/:/usr/local/info:/usr/share/info:/usr/info
+  INPUTRC=/etc/inputrc
+  INTEL_MAJOR_VERSION=15.0
+  INTEL_MINOR_VERSION=1.133
+  INTEL_PATH=/opt/intel/composer_xe_2015
+  INTEL_VERSION=15.0.1.133
+  JAVA_BINDIR=/usr/lib64/jvm/java/bin
+  JAVA_HOME=/usr/lib64/jvm/java
+  JAVA_ROOT=/usr/lib64/jvm/java
+  JDK_HOME=/usr/lib64/jvm/java
+  JRE_HOME=/usr/lib64/jvm/java/jre
+  LANG=en_US.UTF-8
+  LD_LIBRARY_PATH=/usr/common/usg/boost/1.54/intel/lib:/opt/gcc/4.9.2/snos/lib64:/usr/common/usg/darshan/2.3.0/lib:/opt/intel/composer_xe_2015.1.133/compiler/lib/intel64:/opt/intel/composer_xe_2015.1.133/mpirt/lib/intel64:/opt/intel/composer_xe_2015.1.133/mkl/lib/intel64:/usr/syscom/nsg/lib
+  LESS=-M -I
+  LESSCLOSE=lessclose.sh %s %s
+  LESSKEY=/etc/lesskey.bin
+  LESSOPEN=lessopen.sh %s
+  LESS_ADVANCED_PREPROCESSOR=no
+  LIBGL_ALWAYS_INDIRECT=1
+  LIBRARYMODULES=/opt/modules/3.2.10.2/init/.librarymodules:acml:alps:cray-dwarf:cray-fftw:cray-ga:cray-hdf5:cray-hdf5-parallel:cray-libsci:cray-libsci_acc:cray-mpich:cray-mpich2:cray-mpich-abi:cray-netcdf:cray-netcdf-hdf5parallel:cray-parallel-netcdf:cray-petsc:cray-petsc-complex:cray-shmem:cray-tpsl:cray-trilinos:cudatoolkit:fftw:ga:hdf5:hdf5-parallel:iobuf:libfast:netcdf:netcdf-hdf5parallel:ntk:onesided:papi:petsc:petsc-complex:pmi:tpsl:trilinos:xt-libsci:xt-mpich2:xt-mpt:xt-papi:/etc/opt/cray/modules/site_librarymodules
+  LIBRARY_PATH=/opt/intel/composer_xe_2015.1.133/compiler/lib/intel64
+  LIBSCI_BASE_DIR=/opt/cray/libsci/13.0.1
+  LIBSCI_VERSION=13.0.1
+  LOADEDMODULES=modules/3.2.10.2:nsg/1.2.0:hss-llm/7.2.0:nodestat/2.2-1.0502.53712.3.109.ari:sdb/1.0-1.0502.55976.5.27.ari:alps/5.2.1-2.0502.9072.13.1.ari:lustre-cray_ari_s/2.5_3.0.101_0.31.1_1.0502.8394.10.1-1.0502.17198.8.51:udreg/2.3.2-1.0502.9275.1.12.ari:ugni/5.0-1.0502.9685.4.24.ari:gni-headers/3.0-1.0502.9684.5.2.ari:dmapp/7.0.1-1.0502.9501.5.219.ari:xpmem/0.1-2.0502.55507.3.2.ari:Base-opts/1.0.2-1.0502.53325.1.2.ari:craype-network-aries:craype/2.2.1:intel/15.0.1.133:cray-libsci/13.0.1:pmi/5.0.6-1.0000.10439.140.2.ari:atp/1.7.5:PrgEnv-intel/5.2.40:craype-ivybridge:cray-shmem/7.1.1:cray-mpich/7.1.1:torque/5.0.1:moab/8.0.1-2014110616-5c7a394-sles11:altd/2.0:darshan/2.3.0:usg-default-modules/1.1:gcc/4.9.2:boost/1.54
+  LOGNAME=pagrubel
+  LS_COLORS=
+  LS_OPTIONS=-N --color=none -T 0
+  MACHTYPE=x86_64-suse-linux
+  MAIL=/var/spool/mail/pagrubel
+  MANPATH=/opt/gcc/4.9.2/snos/share/man:/usr/common/usg/man:/usr/common/mss/man:/usr/common/nsg/man:/opt/moab/8.0.1/share/man/:/opt/torque/5.0.1/share/man:/opt/cray/mpt/7.1.1/gni/man/mpich2:/opt/cray/mpt/7.1.1/gni/man/shmem:/opt/cray/atp/1.7.5/man:/opt/cray/libsci/13.0.1/man:/opt/intel/composer_xe_2015.1.133/man/en_US:/opt/cray/craype/2.2.1/man:/opt/cray/lustre-cray_ari_s/2.5_3.0.101_0.31.1_1.0502.8394.10.1-1.0502.17198.8.51/man:/opt/cray/alps/5.2.1-2.0502.9072.13.1.ari/man:/opt/cray/llm/default/man:/usr/syscom/nsg/man:/opt/modules/3.2.10.2/share/man:/usr/local/man:/usr/local/share/man:/usr/share/man:/usr/man:/opt/cray/share/man
+  MAN_POSIXLY_CORRECT=1
+  MINICOM=-c on
+  MKLROOT=/opt/intel/composer_xe_2015.1.133/mkl
+  MOABHOMEDIR=/var/spool/moab
+  MODULEPATH=/opt/cray/craype/default/modulefiles:/opt/cray/ari/modulefiles:/opt/cray/modulefiles:/opt/modulefiles:/usr/common/usg/Modules/modulefiles:/usr/syscom/nsg/modulefiles:/usr/syscom/nsg/opt/modulefiles:/usr/common/das/Modules/modulefiles:/usr/common/ftg/Modules/modulefiles:/usr/common/graphics/Modules/modulefiles:/usr/common/jgi/Modules/modulefiles:/usr/common/tig/Modules/modulefiles
+  MODULESHOME=/opt/modules/3.2.10.2
+  MODULE_VERSION=3.2.10.2
+  MODULE_VERSION_STACK=3.2.10.2
+  MORE=-sl
+  MPICH_ABORT_ON_ERROR=1
+  MPICH_DIR=/opt/cray/mpt/7.1.1/gni/mpich2-intel/140
+  MPICH_MPIIO_DVS_MAXNODES=14
+  NERSC_HOST=edison
+  NLSPATH=/opt/intel/composer_xe_2015.1.133/compiler/lib/intel64/locale/%l_%t/%N
+  NNTPSERVER=news
+  NSG_HOME=/usr/syscom/nsg
+  OSTYPE=linux
+  PAGER=less
+  PATH=/opt/gcc/4.9.2/bin:/usr/common/usg/darshan/2.3.0/bin:/usr/common/usg/altd/2.0/bin:/usr/common/usg/bin:/usr/common/mss/bin:/usr/common/nsg/bin:/opt/moab/8.0.1/bin:/opt/moab/8.0.1/sbin:/opt/torque/5.0.1/sbin:/opt/torque/5.0.1/bin:/opt/cray/mpt/7.1.1/gni/bin:/opt/cray/atp/1.7.5/bin:/opt/cray/pmi/5.0.6-1.0000.10439.140.2.ari/bin:/opt/intel/composer_xe_2015.1.133/bin/intel64:/opt/cray/craype/2.2.1/bin:/opt/cray/xpmem/0.1-2.0502.55507.3.2.ari/bin:/opt/cray/dmapp/7.0.1-1.0502.9501.5.219.ari/bin:/opt/cray/ugni/5.0-1.0502.9685.4.24.ari/bin:/opt/cray/udreg/2.3.2-1.0502.9275.1.12.ari/bin:/opt/cray/lustre-cray_ari_s/2.5_3.0.101_0.31.1_1.0502.8394.10.1-1.0502.17198.8.51/sbin:/opt/cray/lustre-cray_ari_s/2.5_3.0.101_0.31.1_1.0502.8394.10.1-1.0502.17198.8.51/bin:/opt/cray/alps/5.2.1-2.0502.9072.13.1.ari/sbin:/opt/cray/alps/5.2.1-2.0502.9072.13.1.ari/bin:/opt/cray/sdb/1.0-1.0502.55976.5.27.ari/bin:/opt/cray/nodestat/2.2-1.0502.53712.3.109.ari/bin:/opt/cray/llm/default/bin:/opt/cray/llm/default/etc:/usr/syscom/nsg/sbin:/usr/syscom/nsg/bin:/opt/modules/3.2.10.2/bin:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/X11R6/bin:/usr/games:/usr/lib/mit/bin:/usr/lib/mit/sbin:/usr/lib/qt3/bin:/opt/cray/bin
+  PBSCOREDUMP=True
+  PBS_ENVIRONMENT=PBS_BATCH
+  PBS_GPUFILE=/var/spool/torque/aux//2673925.edique02gpu
+  PBS_JOBCOOKIE=C34DEB123E824625CF4BBB92A15C42B6
+  PBS_JOBID=2673925.edique02
+  PBS_JOBNAME=nbody_weak_128
+  PBS_MICFILE=/var/spool/torque/aux//2673925.edique02mic
+  PBS_MOMPORT=15003
+  PBS_NODEFILE=/var/spool/torque/aux//2673925.edique02
+  PBS_NODENUM=0
+  PBS_NP=3072
+  PBS_NUM_NODES=1
+  PBS_NUM_PPN=1
+  PBS_O_HOME=/global/homes/p/pagrubel
+  PBS_O_HOST=edison06
+  PBS_O_LANG=en_US.UTF-8
+  PBS_O_LOGNAME=pagrubel
+  PBS_O_MAIL=/var/mail/pagrubel
+  PBS_O_PATH=/usr/common/usg/darshan/2.3.0/bin:/usr/common/usg/altd/2.0/bin:/usr/common/usg/bin:/usr/common/mss/bin:/usr/common/nsg/bin:/opt/moab/8.0.1/bin:/opt/moab/8.0.1/sbin:/opt/torque/5.0.1/sbin:/opt/torque/5.0.1/bin:/opt/cray/mpt/7.1.1/gni/bin:/opt/cray/atp/1.7.5/bin:/opt/cray/rca/1.0.0-2.0502.53711.3.127.ari/bin:/opt/cray/alps/5.2.1-2.0502.9041.11.6.ari/sbin:/opt/cray/alps/5.2.1-2.0502.9041.11.6.ari/bin:/opt/cray/dvs/2.5_0.9.0-1.0502.1873.1.145.ari/bin:/opt/cray/xpmem/0.1-2.0502.55507.3.2.ari/bin:/opt/cray/dmapp/7.0.1-1.0502.9501.5.219.ari/bin:/opt/cray/pmi/5.0.6-1.0000.10439.140.2.ari/bin:/opt/cray/ugni/5.0-1.0502.9685.4.24.ari/bin:/opt/cray/udreg/2.3.2-1.0502.9275.1.12.ari/bin:/opt/intel/composer_xe_2015.1.133/bin/intel64:/opt/cray/craype/2.2.1/bin:/opt/cray/switch/1.0-1.0502.54233.2.96.ari/bin:/opt/cray/eslogin/eswrap/1.1.0-1.020200.1130.0/bin:/usr/syscom/nsg/sbin:/usr/syscom/nsg/bin:/opt/modules/3.2.10.2/bin:/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/X11R6/bin:/usr/games:/usr/lib/mit/bin:/usr/lib/mit/sbin:/usr/lib/qt3/bin:/opt/cray/bin
+  PBS_O_QUEUE=regular
+  PBS_O_SERVER=edique02
+  PBS_O_SHELL=/bin/bash
+  PBS_O_SUBMIT_FILTER=/usr/syscom/nsg/sbin/submit_filter
+  PBS_O_WORKDIR=/global/u1/p/pagrubel/nbody_demo/edison/experiments_old
+  PBS_QUEUE=reg_small
+  PBS_TASKNUM=1
+  PBS_VERSION=TORQUE-5.0.1
+  PBS_VNODENUM=0
+  PBS_WALLTIME=600
+  PELOCAL_PRGENV=true
+  PE_CRAY_DEFAULT_FIXED_PKGCONFIG_PATH=/opt/cray/ga/5.3.0.1/CRAY/83/lib/pkgconfig:/opt/cray/hdf5-parallel/1.8.13/CRAY/83/lib/pkgconfig:/opt/cray/netcdf/4.3.2/CRAY/83/lib/pkgconfig:/opt/cray/netcdf-hdf5parallel/4.3.2/CRAY/83/lib/pkgconfig:/opt/cray/parallel-netcdf/1.5.0/CRAY/83/lib/pkgconfig:/opt/cray/hdf5/1.8.13/CRAY/83/lib/pkgconfig
+  PE_CXX_PKGCONFIG_LIBS=mpichcxx
+  PE_ENV=INTEL
+  PE_FFTW_DEFAULT_REQUIRED_PRODUCTS=PE_MPICH
+  PE_FFTW_DEFAULT_TARGET_haswell=haswell
+  PE_FFTW_DEFAULT_TARGET_interlagos=interlagos
+  PE_FFTW_DEFAULT_TARGET_sandybridge=sandybridge
+  PE_FFTW_DEFAULT_TARGET_x86_64=x86_64
+  PE_FFTW_DEFAULT_VOLATILE_PKGCONFIG_PATH=/opt/cray/fftw/3.3.4.1/@PE_FFTW_DEFAULT_TARGET@/lib/pkgconfig
+  PE_FORTRAN_PKGCONFIG_LIBS=mpichf90
+  PE_GA_DEFAULT_FIXED_PRGENV=CRAY INTEL
+  PE_GA_DEFAULT_GENCOMPS_GNU=49 48
+  PE_GA_DEFAULT_VOLATILE_PKGCONFIG_PATH=/opt/cray/ga/5.3.0.1/@PRGENV@/@PE_GA_DEFAULT_GENCOMPS@/lib/pkgconfig
+  PE_GA_DEFAULT_VOLATILE_PRGENV=GNU
+  PE_HDF5_DEFAULT_FIXED_PRGENV=CRAY INTEL
+  PE_HDF5_DEFAULT_GENCOMPS_GNU=49 48
+  PE_HDF5_DEFAULT_VOLATILE_PKGCONFIG_PATH=/opt/cray/hdf5/1.8.13/@PRGENV@/@PE_HDF5_DEFAULT_GENCOMPS@/lib/pkgconfig
+  PE_HDF5_DEFAULT_VOLATILE_PRGENV=GNU
+  PE_HDF5_PARALLEL_DEFAULT_FIXED_PRGENV=CRAY INTEL
+  PE_HDF5_PARALLEL_DEFAULT_GENCOMPS_GNU=49 48
+  PE_HDF5_PARALLEL_DEFAULT_REQUIRED_PRODUCTS=PE_MPICH
+  PE_HDF5_PARALLEL_DEFAULT_VOLATILE_PKGCONFIG_PATH=/opt/cray/hdf5-parallel/1.8.13/@PRGENV@/@PE_HDF5_PARALLEL_DEFAULT_GENCOMPS@/lib/pkgconfig
+  PE_HDF5_PARALLEL_DEFAULT_VOLATILE_PRGENV=GNU
+  PE_INTEL_DEFAULT_FIXED_PKGCONFIG_PATH=/opt/cray/ga/5.3.0.1/INTEL/140/lib/pkgconfig:/opt/cray/hdf5-parallel/1.8.13/INTEL/140/lib/pkgconfig:/opt/cray/mpt/7.1.1/gni/mpich2-intel/140/lib/pkgconfig:/opt/cray/netcdf/4.3.2/INTEL/140/lib/pkgconfig:/opt/cray/netcdf-hdf5parallel/4.3.2/INTEL/140/lib/pkgconfig:/opt/cray/parallel-netcdf/1.5.0/INTEL/140/lib/pkgconfig:/opt/cray/hdf5/1.8.13/INTEL/140/lib/pkgconfig
+  PE_INTEL_FIXED_PKGCONFIG_PATH=/opt/cray/mpt/7.1.1/gni/mpich2-intel/140/lib/pkgconfig
+  PE_LIBSCI_DEFAULT_GENCOMPS_CRAY_haswell=83
+  PE_LIBSCI_DEFAULT_GENCOMPS_CRAY_interlagos=83
+  PE_LIBSCI_DEFAULT_GENCOMPS_CRAY_sandybridge=83
+  PE_LIBSCI_DEFAULT_GENCOMPS_CRAY_x86_64=83
+  PE_LIBSCI_DEFAULT_GENCOMPS_GNU_haswell=49 48
+  PE_LIBSCI_DEFAULT_GENCOMPS_GNU_interlagos=49 48
+  PE_LIBSCI_DEFAULT_GENCOMPS_GNU_sandybridge=49 48
+  PE_LIBSCI_DEFAULT_GENCOMPS_GNU_x86_64=49 48
+  PE_LIBSCI_DEFAULT_GENCOMPS_INTEL_haswell=140
+  PE_LIBSCI_DEFAULT_GENCOMPS_INTEL_interlagos=140
+  PE_LIBSCI_DEFAULT_GENCOMPS_INTEL_sandybridge=140
+  PE_LIBSCI_DEFAULT_GENCOMPS_INTEL_x86_64=140
+  PE_LIBSCI_DEFAULT_OMP_REQUIRES_openmp=_mp
+  PE_LIBSCI_DEFAULT_PKGCONFIG_VARIABLES=PE_LIBSCI_DEFAULT_OMP_REQUIRES_@openmp@
+  PE_LIBSCI_DEFAULT_REQUIRED_PRODUCTS=PE_MPICH
+  PE_LIBSCI_DEFAULT_VOLATILE_PKGCONFIG_PATH=/opt/cray/libsci/13.0.1/@PRGENV@/@PE_LIBSCI_DEFAULT_GENCOMPS@/@PE_LIBSCI_DEFAULT_TARGET@/lib/pkgconfig
+  PE_LIBSCI_DEFAULT_VOLATILE_PRGENV=CRAY GNU INTEL
+  PE_LIBSCI_GENCOMPS_CRAY_haswell=83
+  PE_LIBSCI_GENCOMPS_CRAY_interlagos=83
+  PE_LIBSCI_GENCOMPS_CRAY_sandybridge=83
+  PE_LIBSCI_GENCOMPS_CRAY_x86_64=83
+  PE_LIBSCI_GENCOMPS_GNU_haswell=49 48
+  PE_LIBSCI_GENCOMPS_GNU_interlagos=49 48
+  PE_LIBSCI_GENCOMPS_GNU_sandybridge=49 48
+  PE_LIBSCI_GENCOMPS_GNU_x86_64=49 48
+  PE_LIBSCI_GENCOMPS_INTEL_haswell=140
+  PE_LIBSCI_GENCOMPS_INTEL_interlagos=140
+  PE_LIBSCI_GENCOMPS_INTEL_sandybridge=140
+  PE_LIBSCI_GENCOMPS_INTEL_x86_64=140
+  PE_LIBSCI_MODULE_NAME=cray-libsci/13.0.1
+  PE_LIBSCI_OMP_REQUIRES_openmp=_mp
+  PE_LIBSCI_PKGCONFIG_LIBS=libsci_mpi:libsci
+  PE_LIBSCI_PKGCONFIG_VARIABLES=PE_LIBSCI_OMP_REQUIRES_@openmp@
+  PE_LIBSCI_REQUIRED_PRODUCTS=PE_MPICH
+  PE_LIBSCI_VOLATILE_PKGCONFIG_PATH=/opt/cray/libsci/13.0.1/@PRGENV@/@PE_LIBSCI_GENCOMPS@/@PE_LIBSCI_TARGET@/lib/pkgconfig
+  PE_LIBSCI_VOLATILE_PRGENV=CRAY GNU INTEL
+  PE_MPICH_DEFAULT_DIR_CRAY_DEFAULT64=64
+  PE_MPICH_DEFAULT_FIXED_PRGENV=INTEL
+  PE_MPICH_DEFAULT_GENCOMPS_CRAY=83
+  PE_MPICH_DEFAULT_GENCOMPS_GNU=49 48
+  PE_MPICH_DEFAULT_VOLATILE_PKGCONFIG_PATH=/opt/cray/mpt/7.1.1/gni/mpich2-@PRGENV@@PE_MPICH_DEFAULT_DIR_DEFAULT64@/@PE_MPICH_DEFAULT_GENCOMPS@/lib/pkgconfig
+  PE_MPICH_DEFAULT_VOLATILE_PRGENV=CRAY GNU
+  PE_MPICH_DIR_CRAY_DEFAULT64=64
+  PE_MPICH_FIXED_PRGENV=INTEL
+  PE_MPICH_GENCOMPS_CRAY=83
+  PE_MPICH_GENCOMPS_GNU=49 48
+  PE_MPICH_MODULE_NAME=cray-mpich
+  PE_MPICH_MULTITHREADED_LIBS_multithreaded=_mt
+  PE_MPICH_NV_LIBS_nvidia20=-lcudart
+  PE_MPICH_NV_LIBS_nvidia35=-lcudart
+  PE_MPICH_PKGCONFIG_VARIABLES=PE_MPICH_NV_LIBS_@accelerator@:PE_MPICH_MULTITHREADED_LIBS_@multithreaded@
+  PE_MPICH_TARGET_VAR_nvidia20=-lcudart
+  PE_MPICH_TARGET_VAR_nvidia35=-lcudart
+  PE_MPICH_VOLATILE_PKGCONFIG_PATH=/opt/cray/mpt/7.1.1/gni/mpich2-@PRGENV@@PE_MPICH_DIR_DEFAULT64@/@PE_MPICH_GENCOMPS@/lib/pkgconfig
+  PE_MPICH_VOLATILE_PRGENV=CRAY GNU
+  PE_NETCDF_DEFAULT_FIXED_PRGENV=CRAY INTEL
+  PE_NETCDF_DEFAULT_GENCOMPS_GNU=49 48
+  PE_NETCDF_DEFAULT_REQUIRED_PRODUCTS=PE_HDF5
+  PE_NETCDF_DEFAULT_VOLATILE_PKGCONFIG_PATH=/opt/cray/netcdf/4.3.2/@PRGENV@/@PE_NETCDF_DEFAULT_GENCOMPS@/lib/pkgconfig
+  PE_NETCDF_DEFAULT_VOLATILE_PRGENV=GNU
+  PE_NETCDF_HDF5PARALLEL_DEFAULT_FIXED_PRGENV=CRAY INTEL
+  PE_NETCDF_HDF5PARALLEL_DEFAULT_GENCOMPS_GNU=49 48
+  PE_NETCDF_HDF5PARALLEL_DEFAULT_REQUIRED_PRODUCTS=PE_HDF5_PARALLEL PE_MPICH
+  PE_NETCDF_HDF5PARALLEL_DEFAULT_VOLATILE_PKGCONFIG_PATH=/opt/cray/netcdf-hdf5parallel/4.3.2/@PRGENV@/@PE_NETCDF_HDF5PARALLEL_DEFAULT_GENCOMPS@/lib/pkgconfig
+  PE_NETCDF_HDF5PARALLEL_DEFAULT_VOLATILE_PRGENV=GNU
+  PE_PAPI_DEFAULT_ACCEL_LIBS_nvidia35=,-lcupti,-lcudart,-lcuda
+  PE_PAPI_DEFAULT_PKGCONFIG_VARIABLES=PE_PAPI_ACCEL_LIBS_@accelerator@
+  PE_PAPI_DEFAULT_TARGET_VAR_nvidia35=,-lcupti,-lcudart,-lcuda
+  PE_PARALLEL_NETCDF_DEFAULT_FIXED_PRGENV=CRAY INTEL
+  PE_PARALLEL_NETCDF_DEFAULT_GENCOMPS_GNU=49 48
+  PE_PARALLEL_NETCDF_DEFAULT_VOLATILE_PKGCONFIG_PATH=/opt/cray/parallel-netcdf/1.5.0/@PRGENV@/@PE_PARALLEL_NETCDF_DEFAULT_GENCOMPS@/lib/pkgconfig
+  PE_PARALLEL_NETCDF_DEFAULT_VOLATILE_PRGENV=GNU
+  PE_PETSC_DEFAULT_GENCOMPS_CRAY_haswell=83
+  PE_PETSC_DEFAULT_GENCOMPS_CRAY_interlagos=83
+  PE_PETSC_DEFAULT_GENCOMPS_CRAY_sandybridge=83
+  PE_PETSC_DEFAULT_GENCOMPS_CRAY_x86_64=83
+  PE_PETSC_DEFAULT_GENCOMPS_GNU_haswell=49 48
+  PE_PETSC_DEFAULT_GENCOMPS_GNU_interlagos=49 48
+  PE_PETSC_DEFAULT_GENCOMPS_GNU_sandybridge=49 48
+  PE_PETSC_DEFAULT_GENCOMPS_GNU_x86_64=49 48
+  PE_PETSC_DEFAULT_GENCOMPS_INTEL_haswell=140
+  PE_PETSC_DEFAULT_GENCOMPS_INTEL_sandybridge=140
+  PE_PETSC_DEFAULT_GENCOMPS_INTEL_x86_64=140
+  PE_PETSC_DEFAULT_REQUIRED_PRODUCTS=PE_MPICH:PE_LIBSCI:PE_TPSL
+  PE_PETSC_DEFAULT_VOLATILE_PKGCONFIG_PATH=/opt/cray/petsc/3.5.2.1/complex/@PRGENV@/@PE_PETSC_DEFAULT_GENCOMPS@/@PE_PETSC_DEFAULT_TARGET@/lib/pkgconfig
+  PE_PETSC_DEFAULT_VOLATILE_PRGENV=CRAY GNU INTEL
+  PE_PKGCONFIG_DEFAULT_PRODUCTS=PE_LIBSCI:PE_GA:PE_HDF5_PARALLEL:PE_TPSL:PE_MPICH:PE_NETCDF:PE_PETSC:PE_TRILINOS:PE_NETCDF_HDF5PARALLEL:PE_FFTW:PE_PARALLEL_NETCDF:PE_HDF5
+  PE_PKGCONFIG_LIBS=darshan-runtime:mpich:sma:AtpSigHandler:libsci_mpi:libsci
+  PE_PKGCONFIG_PRODUCTS=PE_MPICH:PE_SMA:PE_LIBSCI
+  PE_PKGCONFIG_PRODUCTS_DEFAULT=PE_PAPI
+  PE_PRODUCT_LIST=CRAYPE_IVYBRIDGE:CRAY_PMI:CRAY_LIBSCI:CRAYPE:INTEL:CRAY_XPMEM:CRAY_DMAPP:CRAY_UGNI:CRAY_UDREG:CRAY_ALPS:CRAY_LLM
+  PE_SMA_DIR_CRAY_DEFAULT64=64
+  PE_SMA_DIR_PGI_DEFAULT64=64
+  PE_SMA_MODULE_NAME=cray-shmem
+  PE_SMA_VOLATILE_PKGCONFIG_PATH=/opt/cray/mpt/7.1.1/gni/sma@PE_SMA_DIR_DEFAULT64@/lib64/pkgconfig
+  PE_TPSL_DEFAULT_GENCOMPS_CRAY_haswell=83
+  PE_TPSL_DEFAULT_GENCOMPS_CRAY_interlagos=83
+  PE_TPSL_DEFAULT_GENCOMPS_CRAY_sandybridge=83
+  PE_TPSL_DEFAULT_GENCOMPS_CRAY_x86_64=83
+  PE_TPSL_DEFAULT_GENCOMPS_GNU_haswell=49 48
+  PE_TPSL_DEFAULT_GENCOMPS_GNU_interlagos=49 48
+  PE_TPSL_DEFAULT_GENCOMPS_GNU_sandybridge=49 48
+  PE_TPSL_DEFAULT_GENCOMPS_GNU_x86_64=49 48
+  PE_TPSL_DEFAULT_GENCOMPS_INTEL_haswell=140
+  PE_TPSL_DEFAULT_GENCOMPS_INTEL_interlagos=140
+  PE_TPSL_DEFAULT_GENCOMPS_INTEL_sandybridge=140
+  PE_TPSL_DEFAULT_GENCOMPS_INTEL_x86_64=140
+  PE_TPSL_DEFAULT_REQUIRED_PRODUCTS=PE_MPICH:PE_LIBSCI
+  PE_TPSL_DEFAULT_VOLATILE_PKGCONFIG_PATH=/opt/cray/tpsl/1.4.3/@PRGENV@/@PE_TPSL_DEFAULT_GENCOMPS@/@PE_TPSL_DEFAULT_TARGET@/lib/pkgconfig
+  PE_TPSL_DEFAULT_VOLATILE_PRGENV=CRAY GNU INTEL
+  PE_TRILINOS_DEFAULT_GENCOMPS_CRAY_x86_64=83
+  PE_TRILINOS_DEFAULT_GENCOMPS_GNU_x86_64=49 48
+  PE_TRILINOS_DEFAULT_GENCOMPS_INTEL_x86_64=140
+  PE_TRILINOS_DEFAULT_REQUIRED_PRODUCTS=PE_MPICH:PE_HDF5_PARALLEL:PE_NETCDF_HDF5PARALLEL:PE_LIBSCI:PE_TPSL
+  PE_TRILINOS_DEFAULT_VOLATILE_PKGCONFIG_PATH=/opt/cray/trilinos/11.12.1.0/@PRGENV@/@PE_TRILINOS_DEFAULT_GENCOMPS@/@PE_TRILINOS_DEFAULT_TARGET@/lib/pkgconfig
+  PE_TRILINOS_DEFAULT_VOLATILE_PRGENV=CRAY GNU INTEL
+  PKGCONFIG_ENABLED=1
+  PKG_CONFIG_PATH=/usr/common/usg/darshan/2.3.0/lib/pkgconfig:/opt/cray/pmi/5.0.6-1.0000.10439.140.2.ari/lib64/pkgconfig:/opt/cray/craype/2.2.1/pkg-config:/opt/cray/iobuf/2.0.5/lib/pkgconfig:/opt/cray/xpmem/0.1-2.0502.55507.3.2.ari/lib64/pkgconfig:/opt/cray/dmapp/7.0.1-1.0502.9501.5.219.ari/lib64/pkgconfig:/opt/cray/gni-headers/3.0-1.0502.9684.5.2.ari/lib64/pkgconfig:/opt/cray/ugni/5.0-1.0502.9685.4.24.ari/lib64/pkgconfig:/opt/cray/udreg/2.3.2-1.0502.9275.1.12.ari/lib64/pkgconfig:/opt/cray/alps/5.2.1-2.0502.9072.13.1.ari/lib64/pkgconfig:/opt/cray/atp/1.7.5/lib/pkgconfig
+  PKG_CONFIG_PATH_DEFAULT=/opt/cray/papi/5.3.2.1/lib64/pkgconfig
+  PMI_FORK_RANK=0
+  PMI_GNI_COOKIE=2754740224:2754805760
+  PMI_GNI_DEV_ID=0
+  PMI_GNI_LOC_ADDR=1050:1050
+  PMI_GNI_PTAG=8:9
+  PRGENVMODULES=/opt/modules/3.2.10.2/init/.prgenvmodules:PrgEnv-cray:PrgEnv-gnu:PrgEnv-intel:PrgEnv-pathscale:PrgEnv-pgi
+  PROFILEREAD=true
+  PROJECT=/project/projectdirs/m1881/hpx
+  PWD=/global/u1/p/pagrubel
+  PYTHONPATH=/usr/common/usg/altd/2.0/lib64/python2.6/site-packages:/opt/cray/sdb/1.0-1.0502.55976.5.27.ari/lib64/py
+  PYTHONSTARTUP=/etc/pythonstart
+  QTDIR=/usr/lib/qt3
+  QT_SYSTEM_DIR=/usr/share/desktop-data
+  RCLOCAL_BASEOPTS=true
+  RCLOCAL_PRGENV=true
+  SCRATCH=/scratch2/scratchdirs/pagrubel
+  SDK_HOME=/usr/lib64/jvm/java
+  SHELL=/bin/bash
+  SHLVL=2
+  SHMEM_ABORT_ON_ERROR=1
+  TARGETMODULES=/opt/modules/3.2.10.2/init/.targetmodules:craype-abudhabi:craype-abudhabi-cu:craype-accel-host:craype-accel-nvidia20:craype-accel-nvidia30:craype-accel-nvidia35:craype-barcelona:craype-broadwell:craype-haswell:craype-hugepages128K:craype-hugepages128M:craype-hugepages16M:craype-hugepages256M:craype-hugepages2M:craype-hugepages32M:craype-hugepages4M:craype-hugepages512K:craype-hugepages512M:craype-hugepages64M:craype-hugepages8M:craype-intel-knc:craype-interlagos:craype-interlagos-cu:craype-istanbul:craype-ivybridge:craype-mc12:craype-mc8:craype-mic-knl:craype-network-aries:craype-network-gemini:craype-network-infiniband:craype-network-none:craype-network-seastar:craype-sandybridge:craype-shanghai:craype-target-compute_node:craype-target-local_host:craype-target-native:craype-xeon:xtpe-barcelona:xtpe-interlagos:xtpe-interlagos-cu:xtpe-istanbul:xtpe-mc12:xtpe-mc8:xtpe-network-gemini:xtpe-network-seastar:xtpe-shanghai:xtpe-target-native:xtpe-xeon:/etc/opt/cray/modules/site_targetmodules
+  TMPDIR=/scratch2/scratchdirs/pagrubel
+  TOOLMODULES=/opt/modules/3.2.10.2/init/.toolmodules:apprentice:apprentice2:atp:chapel:cray-lgdb:craypat:craypkg-gen:cray-snplauncher:ddt:gdb:iobuf:papi:perftools:perftools-lite:stat:totalview:xt-craypat:xt-lgdb:xt-papi:xt-totalview:/etc/opt/cray/modules/site_toolmodules
+  USER=pagrubel
+  USERMODULES=/opt/modules/3.2.10.2/init/.usermodules:acml:alps:apprentice:apprentice2:atp:blcr:cce:chapel:cray-ccdb:cray-fftw:cray-ga:cray-hdf5:cray-hdf5-parallel:cray-lgdb:cray-libsci:cray-libsci_acc:cray-mpich:cray-mpich2:cray-mpich-compat:cray-netcdf:cray-netcdf-hdf5parallel:cray-parallel-netcdf:craypat:craype:cray-petsc:cray-petsc-complex:craypkg-gen:cray-shmem:cray-snplauncher:cray-tpsl:cray-trilinos:cudatoolkit:ddt:fftw:ga:gcc:hdf5:hdf5-parallel:intel:iobuf:java:lgdb:libfast:libsci_acc:mpich1:netcdf:netcdf-hdf5parallel:netcdf-nofsync:netcdf-nofsync-hdf5parallel:ntk:onesided:papi:parallel-netcdf:pathscale:perftools:perftools-lite:petsc:petsc-complex:pgi:pmi:PrgEnv-cray:PrgEnv-gnu:PrgEnv-intel:PrgEnv-pathscale:PrgEnv-pgi:stat:totalview:tpsl:trilinos:xt-asyncpe:xt-craypat:xt-lgdb:xt-libsci:xt-mpich2:xt-mpt:xt-papi:xt-shmem:xt-totalview:/etc/opt/cray/modules/site_usermodules
+  WINDOWMANAGER=
+  XCURSOR_THEME=crystalwhite
+  XDG_CONFIG_DIRS=/etc/xdg
+  XDG_DATA_DIRS=/usr/share:/etc/opt/kde3/share:/opt/kde3/share
+  XKEYSYMDB=/usr/share/X11/XKeysymDB
+  XNLSPATH=/usr/share/X11/nls
+  XTOS_VERSION=5.2.40
+  XTPE_NETWORK_TARGET=aries
+  _=/usr/common/usg/altd/2.0/bin/aprun
+  _DMAPPI_RESERVED_MDDS=1
+  _LMFILES_=/opt/modulefiles/modules/3.2.10.2:/usr/syscom/nsg/modulefiles/nsg/1.2.0:/opt/modulefiles/hss-llm/7.2.0:/opt/cray/ari/modulefiles/nodestat/2.2-1.0502.53712.3.109.ari:/opt/cray/ari/modulefiles/sdb/1.0-1.0502.55976.5.27.ari:/opt/cray/ari/modulefiles/alps/5.2.1-2.0502.9072.13.1.ari:/opt/cray/modulefiles/lustre-cray_ari_s/2.5_3.0.101_0.31.1_1.0502.8394.10.1-1.0502.17198.8.51:/opt/cray/ari/modulefiles/udreg/2.3.2-1.0502.9275.1.12.ari:/opt/cray/ari/modulefiles/ugni/5.0-1.0502.9685.4.24.ari:/opt/cray/ari/modulefiles/gni-headers/3.0-1.0502.9684.5.2.ari:/opt/cray/ari/modulefiles/dmapp/7.0.1-1.0502.9501.5.219.ari:/opt/cray/ari/modulefiles/xpmem/0.1-2.0502.55507.3.2.ari:/opt/modulefiles/Base-opts/1.0.2-1.0502.53325.1.2.ari:/opt/cray/craype/default/modulefiles/craype-network-aries:/opt/cray/modulefiles/craype/2.2.1:/opt/modulefiles/intel/15.0.1.133:/opt/cray/modulefiles/cray-libsci/13.0.1:/opt/cray/ari/modulefiles/pmi/5.0.6-1.0000.10439.140.2.ari:/opt/cray/modulefiles/atp/1.7.5:/opt/cray/modulefiles/PrgEnv-intel/5.2.40:/opt/cray/craype/default/modulefiles/craype-ivybridge:/opt/cray/modulefiles/cray-shmem/7.1.1:/opt/cray/modulefiles/cray-mpich/7.1.1:/opt/modulefiles/torque/5.0.1:/opt/modulefiles/moab/8.0.1-2014110616-5c7a394-sles11:/usr/common/usg/Modules/modulefiles/altd/2.0:/usr/common/usg/Modules/modulefiles/darshan/2.3.0:/usr/common/usg/Modules/modulefiles/usg-default-modules/1.1:/opt/modulefiles/gcc/4.9.2:/usr/common/usg/Modules/modulefiles/boost/1.54
+{locality-id}: 0
+{hostname}: [ (mpi:0) ]
+{process-id}: 43367
+{function}: registry::discover_counter_type
+{file}: /project/projectdirs/m1881/hpx/source/src/performance_counters/registry.cpp
+{line}: 206
+{os-thread}: 9, worker-thread#9
+{thread-id}: 00002aaac7029700
+{thread-description}: <unknown>
+{state}: startup
+{auxinfo}: 
+{config}:
+  HPX_HAVE_NATIVE_TLS=ON
+  HPX_HAVE_STACKTRACES=ON
+  HPX_HAVE_COMPRESSION_BZIP2=OFF
+  HPX_HAVE_COMPRESSION_SNAPPY=OFF
+  HPX_HAVE_COMPRESSION_ZLIB=OFF
+  HPX_HAVE_PARCEL_COALESCING=ON
+  HPX_PARCELPORT_TCP=OFF
+  HPX_PARCELPORT_MPI=ON (MPICH V3.1.2, MPI V3.0)
+  HPX_PARCELPORT_IPC=OFF
+  HPX_PARCELPORT_IBVERBS=OFF
+  HPX_HAVE_VERIFY_LOCKS=OFF
+  HPX_HAVE_HWLOC=ON
+  HPX_HAVE_ITTNOTIFY=OFF
+  HPX_RUN_MAIN_EVERYWHERE=OFF
+  HPX_LIMIT=5
+  HPX_PARCEL_MAX_CONNECTIONS=512
+  HPX_PARCEL_MAX_CONNECTIONS_PER_LOCALITY=4
+  HPX_INITIAL_AGAS_LOCAL_CACHE_SIZE=256
+  HPX_AGAS_LOCAL_CACHE_SIZE_PER_THREAD=32
+  HPX_PREFIX (configured)=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+  HPX_PREFIX=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+{version}: V0.9.10 (AGAS: V3.0), Git: 8a99361e2696cf8b2de903f3fc6b05dcad613979
+{boost}: V1.56.0
+{build-type}: release
+{date}: Mar 31 2015 03:39:25
+{platform}: linux
+{compiler}: Intel C++ C++0x mode version 1500
+{stdlib}: GNU libstdc++ version 20141030
+{what}: unknown counter type: /agas/count/cache_erase_entry, known counter types: 
+  /agas/component/count
+  /agas/component/time
+  /agas/count/allocate
+  /agas/count/begin_migration
+  /agas/count/bind
+  /agas/count/bind_gid
+  /agas/count/bind_name
+  /agas/count/bind_prefix
+  /agas/count/cache/erase_entry
+  /agas/count/cache/evictions
+  /agas/count/cache/get_entry
+  /agas/count/cache/hits
+  /agas/count/cache/insert_entry
+  /agas/count/cache/insertions
+  /agas/count/cache/misses
+  /agas/count/cache/update_entry
+  /agas/count/decrement_credit
+  /agas/count/end_migration
+  /agas/count/free
+  /agas/count/get_component_typename
+  /agas/count/increment_credit
+  /agas/count/iterate_names
+  /agas/count/iterate_types
+  /agas/count/localities
+  /agas/count/num_localities
+  /agas/count/num_localities_type
+  /agas/count/num_threads
+  /agas/count/on_symbol_namespace_event
+  /agas/count/resolve
+  /agas/count/resolve_gid
+  /agas/count/resolve_id
+  /agas/count/resolve_locality
+  /agas/count/resolved_localities
+  /agas/count/route
+  /agas/count/unbind
+  /agas/count/unbind_gid
+  /agas/count/unbind_name
+  /agas/locality/count
+  /agas/locality/time
+  /agas/primary/count
+  /agas/primary/time
+  /agas/symbol/count
+  /agas/symbol/time
+  /agas/time/allocate
+  /agas/time/begin_migration
+  /agas/time/bind
+  /agas/time/bind_gid
+  /agas/time/bind_name
+  /agas/time/bind_prefix
+  /agas/time/cache/erase_entry
+  /agas/time/cache/get_entry
+  /agas/time/cache/insert_entry
+  /agas/time/cache/update_entry
+  /agas/time/decrement_credit
+  /agas/time/end_migration
+  /agas/time/free
+  /agas/time/get_component_typename
+  /agas/time/increment_credit
+  /agas/time/iterate_names
+  /agas/time/iterate_types
+  /agas/time/localities
+  /agas/time/num_localities
+  /agas/time/num_localities_type
+  /agas/time/num_threads
+  /agas/time/on_symbol_namespace_event
+  /agas/time/resolve
+  /agas/time/resolve_gid
+  /agas/time/resolve_id
+  /agas/time/resolve_locality
+  /agas/time/resolved_localities
+  /agas/time/route
+  /agas/time/unbind
+  /agas/time/unbind_gid
+  /agas/time/unbind_name
+  /arithmetics/add
+  /arithmetics/divide
+  /arithmetics/multiply
+  /arithmetics/subtract
+  /data/count/mpi/received
+  /data/count/mpi/sent
+  /data/time/mpi/received
+  /data/time/mpi/sent
+  /full_empty/count/constructed
+  /full_empty/count/destructed
+  /full_empty/count/fired
+  /full_empty/count/read_dequeued
+  /full_empty/count/read_enqueued
+  /messages/count/mpi/received
+  /messages/count/mpi/sent
+  /parcelport/count/mpi/cache-evictions
+  /parcelport/count/mpi/cache-hits
+  /parcelport/count/mpi/cache-insertions
+  /parcelport/count/mpi/cache-misses
+  /parcelport/count/mpi/cache-reclaims
+  /parcelqueue/length/receive
+  /parcelqueue/length/send
+  /parcels/count/mpi/received
+  /parcels/count/mpi/sent
+  /parcels/count/routed
+  /parcels/time/mpi/buffer_allocate/received
+  /parcels/time/mpi/buffer_allocate/sent
+  /runtime/count/component
+  /runtime/memory/resident
+  /runtime/memory/virtual
+  /runtime/uptime
+  /serialize/count/mpi/received
+  /serialize/count/mpi/sent
+  /serialize/time/mpi/received
+  /serialize/time/mpi/sent
+  /statistics/average
+  /statistics/max
+  /statistics/median
+  /statistics/min
+  /statistics/rolling_average
+  /statistics/stddev
+  /threadqueue/length
+  /threads/count/cumulative
+  /threads/count/cumulative-phases
+  /threads/count/instantaneous/active
+  /threads/count/instantaneous/all
+  /threads/count/instantaneous/pending
+  /threads/count/instantaneous/staged
+  /threads/count/instantaneous/suspended
+  /threads/count/instantaneous/terminated
+  /threads/count/objects
+  /threads/count/pending-accesses
+  /threads/count/pending-misses
+  /threads/count/stack-recycles
+  /threads/count/stack-unbinds
+  /threads/count/stolen-from-pending
+  /threads/count/stolen-from-staged
+  /threads/count/stolen-to-pending
+  /threads/count/stolen-to-staged
+  /threads/idle-rate
+  /threads/time/average
+  /threads/time/average-overhead
+  /threads/time/average-phase
+  /threads/time/average-phase-overhead
+: HPX(bad_parameter)
+_pmiu_daemon(SIGCHLD): [NID 02061] [c2-1c2s3n1] [Sun Apr  5 11:21:29 2015] PE RANK 123 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 02053] [c2-1c2s1n1] [Sun Apr  5 11:21:29 2015] PE RANK 115 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 02056] [c2-1c2s2n0] [Sun Apr  5 11:21:29 2015] PE RANK 118 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 02040] [c2-1c1s14n0] [Sun Apr  5 11:21:29 2015] PE RANK 106 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 02044] [c2-1c1s15n0] [Sun Apr  5 11:21:29 2015] PE RANK 110 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 02006] [c2-1c1s5n2] [Sun Apr  5 11:21:29 2015] PE RANK 72 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 02032] [c2-1c1s12n0] [Sun Apr  5 11:21:29 2015] PE RANK 98 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 01999] [c2-1c1s3n3] [Sun Apr  5 11:21:29 2015] PE RANK 65 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 02022] [c2-1c1s9n2] [Sun Apr  5 11:21:29 2015] PE RANK 88 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 02007] [c2-1c1s5n3] [Sun Apr  5 11:21:29 2015] PE RANK 73 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 02024] [c2-1c1s10n0] [Sun Apr  5 11:21:29 2015] PE RANK 90 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 02029] [c2-1c1s11n1] [Sun Apr  5 11:21:29 2015] PE RANK 95 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 02037] [c2-1c1s13n1] [Sun Apr  5 11:21:29 2015] PE RANK 103 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 02927] [c7-1c0s11n3] [Sun Apr  5 11:21:29 2015] PE RANK 127 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 01970] [c2-1c0s12n2] [Sun Apr  5 11:21:29 2015] PE RANK 40 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 01963] [c2-1c0s10n3] [Sun Apr  5 11:21:29 2015] PE RANK 33 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 01994] [c2-1c1s2n2] [Sun Apr  5 11:21:29 2015] PE RANK 60 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 01997] [c2-1c1s3n1] [Sun Apr  5 11:21:29 2015] PE RANK 63 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 02018] [c2-1c1s8n2] [Sun Apr  5 11:21:29 2015] PE RANK 84 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 01986] [c2-1c1s0n2] [Sun Apr  5 11:21:29 2015] PE RANK 56 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 01976] [c2-1c0s14n0] [Sun Apr  5 11:21:29 2015] PE RANK 46 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 01972] [c2-1c0s13n0] [Sun Apr  5 11:21:29 2015] PE RANK 42 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 01961] [c2-1c0s10n1] [Sun Apr  5 11:21:29 2015] PE RANK 31 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 01954] [c2-1c0s8n2] [Sun Apr  5 11:21:29 2015] PE RANK 25 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 02013] [c2-1c1s7n1] [Sun Apr  5 11:21:29 2015] PE RANK 79 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 01981] [c2-1c0s15n1] [Sun Apr  5 11:21:29 2015] PE RANK 51 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 01014] [c5-0c0s13n2] [Sun Apr  5 11:21:29 2015] PE RANK 14 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 01018] [c5-0c0s14n2] [Sun Apr  5 11:21:29 2015] PE RANK 18 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 01072] [c5-0c1s12n0] [Sun Apr  5 11:21:29 2015] PE RANK 21 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 01002] [c5-0c0s10n2] [Sun Apr  5 11:21:29 2015] PE RANK 2 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 01006] [c5-0c0s11n2] [Sun Apr  5 11:21:29 2015] PE RANK 6 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 01007] [c5-0c0s11n3] [Sun Apr  5 11:21:29 2015] PE RANK 7 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 01008] [c5-0c0s12n0] [Sun Apr  5 11:21:29 2015] PE RANK 8 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 02059] [c2-1c2s2n3] [Sun Apr  5 11:21:29 2015] PE RANK 121 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 02060] [c2-1c2s3n0] [Sun Apr  5 11:21:29 2015] PE RANK 122 exit signal Aborted
+[NID 02059] 2015-04-05 11:21:29 Apid 11533162: initiated application termination
+_pmiu_daemon(SIGCHLD): [NID 02062] [c2-1c2s3n2] [Sun Apr  5 11:21:29 2015] PE RANK 124 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 02063] [c2-1c2s3n3] [Sun Apr  5 11:21:29 2015] PE RANK 125 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 02057] [c2-1c2s2n1] [Sun Apr  5 11:21:29 2015] PE RANK 119 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 02047] [c2-1c1s15n3] [Sun Apr  5 11:21:29 2015] PE RANK 113 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 02046] [c2-1c1s15n2] [Sun Apr  5 11:21:29 2015] PE RANK 112 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 02042] [c2-1c1s14n2] [Sun Apr  5 11:21:29 2015] PE RANK 108 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 02035] [c2-1c1s12n3] [Sun Apr  5 11:21:29 2015] PE RANK 101 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 02031] [c2-1c1s11n3] [Sun Apr  5 11:21:29 2015] PE RANK 97 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 02030] [c2-1c1s11n2] [Sun Apr  5 11:21:29 2015] PE RANK 96 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 02026] [c2-1c1s10n2] [Sun Apr  5 11:21:29 2015] PE RANK 92 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 02019] [c2-1c1s8n3] [Sun Apr  5 11:21:29 2015] PE RANK 85 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 02015] [c2-1c1s7n3] [Sun Apr  5 11:21:29 2015] PE RANK 81 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 02014] [c2-1c1s7n2] [Sun Apr  5 11:21:29 2015] PE RANK 80 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 02009] [c2-1c1s6n1] [Sun Apr  5 11:21:29 2015] PE RANK 75 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 02005] [c2-1c1s5n1] [Sun Apr  5 11:21:29 2015] PE RANK 71 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 01998] [c2-1c1s3n2] [Sun Apr  5 11:21:29 2015] PE RANK 64 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 01987] [c2-1c1s0n3] [Sun Apr  5 11:21:29 2015] PE RANK 57 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 01983] [c2-1c0s15n3] [Sun Apr  5 11:21:29 2015] PE RANK 53 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 01982] [c2-1c0s15n2] [Sun Apr  5 11:21:29 2015] PE RANK 52 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 01977] [c2-1c0s14n1] [Sun Apr  5 11:21:29 2015] PE RANK 47 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 01973] [c2-1c0s13n1] [Sun Apr  5 11:21:29 2015] PE RANK 43 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 01968] [c2-1c0s12n0] [Sun Apr  5 11:21:29 2015] PE RANK 38 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 01964] [c2-1c0s11n0] [Sun Apr  5 11:21:29 2015] PE RANK 34 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 01962] [c2-1c0s10n2] [Sun Apr  5 11:21:29 2015] PE RANK 32 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 01956] [c2-1c0s9n0] [Sun Apr  5 11:21:29 2015] PE RANK 27 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 01953] [c2-1c0s8n1] [Sun Apr  5 11:21:29 2015] PE RANK 24 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 01071] [c5-0c1s11n3] [Sun Apr  5 11:21:29 2015] PE RANK 20 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 01016] [c5-0c0s14n0] [Sun Apr  5 11:21:29 2015] PE RANK 16 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 01004] [c5-0c0s11n0] [Sun Apr  5 11:21:29 2015] PE RANK 4 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 01955] [c2-1c0s8n3] [Sun Apr  5 11:21:29 2015] PE RANK 26 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 01958] [c2-1c0s9n2] [Sun Apr  5 11:21:29 2015] PE RANK 29 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 01965] [c2-1c0s11n1] [Sun Apr  5 11:21:29 2015] PE RANK 35 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 01978] [c2-1c0s14n2] [Sun Apr  5 11:21:29 2015] PE RANK 48 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 01984] [c2-1c1s0n0] [Sun Apr  5 11:21:29 2015] PE RANK 54 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 01992] [c2-1c1s2n0] [Sun Apr  5 11:21:29 2015] PE RANK 58 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 01996] [c2-1c1s3n0] [Sun Apr  5 11:21:29 2015] PE RANK 62 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 02003] [c2-1c1s4n3] [Sun Apr  5 11:21:29 2015] PE RANK 69 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 02008] [c2-1c1s6n0] [Sun Apr  5 11:21:29 2015] PE RANK 74 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 02017] [c2-1c1s8n1] [Sun Apr  5 11:21:29 2015] PE RANK 83 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 02020] [c2-1c1s9n0] [Sun Apr  5 11:21:29 2015] PE RANK 86 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 02023] [c2-1c1s9n3] [Sun Apr  5 11:21:29 2015] PE RANK 89 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 02027] [c2-1c1s10n3] [Sun Apr  5 11:21:29 2015] PE RANK 93 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 02036] [c2-1c1s13n0] [Sun Apr  5 11:21:29 2015] PE RANK 102 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 02039] [c2-1c1s13n3] [Sun Apr  5 11:21:29 2015] PE RANK 105 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 02045] [c2-1c1s15n1] [Sun Apr  5 11:21:29 2015] PE RANK 111 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 02054] [c2-1c2s1n2] [Sun Apr  5 11:21:29 2015] PE RANK 116 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 02058] [c2-1c2s2n2] [Sun Apr  5 11:21:29 2015] PE RANK 120 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 02055] [c2-1c2s1n3] [Sun Apr  5 11:21:29 2015] PE RANK 117 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 02052] [c2-1c2s1n0] [Sun Apr  5 11:21:29 2015] PE RANK 114 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 02041] [c2-1c1s14n1] [Sun Apr  5 11:21:29 2015] PE RANK 107 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 02038] [c2-1c1s13n2] [Sun Apr  5 11:21:29 2015] PE RANK 104 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 02033] [c2-1c1s12n1] [Sun Apr  5 11:21:29 2015] PE RANK 99 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 02025] [c2-1c1s10n1] [Sun Apr  5 11:21:29 2015] PE RANK 91 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 01995] [c2-1c1s2n3] [Sun Apr  5 11:21:29 2015] PE RANK 61 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 01993] [c2-1c1s2n1] [Sun Apr  5 11:21:29 2015] PE RANK 59 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 01975] [c2-1c0s13n3] [Sun Apr  5 11:21:29 2015] PE RANK 45 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 01966] [c2-1c0s11n2] [Sun Apr  5 11:21:29 2015] PE RANK 36 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 02004] [c2-1c1s5n0] [Sun Apr  5 11:21:29 2015] PE RANK 70 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 02021] [c2-1c1s9n1] [Sun Apr  5 11:21:29 2015] PE RANK 87 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 02028] [c2-1c1s11n0] [Sun Apr  5 11:21:29 2015] PE RANK 94 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 02034] [c2-1c1s12n2] [Sun Apr  5 11:21:29 2015] PE RANK 100 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 01952] [c2-1c0s8n0] [Sun Apr  5 11:21:29 2015] PE RANK 23 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 01985] [c2-1c1s0n1] [Sun Apr  5 11:21:29 2015] PE RANK 55 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 01960] [c2-1c0s10n0] [Sun Apr  5 11:21:29 2015] PE RANK 30 exit signal Aborted

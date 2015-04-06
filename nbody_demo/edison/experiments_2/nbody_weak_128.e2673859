@@ -1,0 +1,255 @@
+TracingWriter::initialized()
+  time: 2015-Apr-05 11:00:48.278379
+TracingWriter::allDone()
+  total time: 00:02:00.288402
+  time: 2015-Apr-05 11:02:48.566244
+
+{os-thread}: worker-thread#5
+{config}:
+  HPX_HAVE_NATIVE_TLS=ON
+  HPX_HAVE_STACKTRACES=ON
+  HPX_HAVE_COMPRESSION_BZIP2=OFF
+  HPX_HAVE_COMPRESSION_SNAPPY=OFF
+  HPX_HAVE_COMPRESSION_ZLIB=OFF
+  HPX_HAVE_PARCEL_COALESCING=ON
+  HPX_PARCELPORT_TCP=OFF
+  HPX_PARCELPORT_MPI=ON (MPICH V3.1.2, MPI V3.0)
+  HPX_PARCELPORT_IPC=OFF
+  HPX_PARCELPORT_IBVERBS=OFF
+  HPX_HAVE_VERIFY_LOCKS=OFF
+  HPX_HAVE_HWLOC=ON
+  HPX_HAVE_ITTNOTIFY=OFF
+  HPX_RUN_MAIN_EVERYWHERE=OFF
+  HPX_LIMIT=5
+  HPX_PARCEL_MAX_CONNECTIONS=512
+  HPX_PARCEL_MAX_CONNECTIONS_PER_LOCALITY=4
+  HPX_INITIAL_AGAS_LOCAL_CACHE_SIZE=256
+  HPX_AGAS_LOCAL_CACHE_SIZE_PER_THREAD=32
+  HPX_PREFIX (configured)=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+  HPX_PREFIX=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+{version}: V0.9.10 (AGAS: V3.0), Git: 8a99361e2696cf8b2de903f3fc6b05dcad613979
+{boost}: V1.56.0
+{build-type}: release
+{date}: Mar 31 2015 03:39:25
+{platform}: linux
+{compiler}: Intel C++ C++0x mode version 1500
+{stdlib}: GNU libstdc++ version 20141030
+{what}: boost unique_lock doesn't own the mutex: Operation not permitted
+
+
+{locality-id}: 0
+{function}: 
+{file}: 
+{line}: 0
+{os-thread}: 0, worker-thread#23
+{state}: 
+{auxinfo}: 
+{config}:
+  HPX_HAVE_NATIVE_TLS=ON
+  HPX_HAVE_STACKTRACES=ON
+  HPX_HAVE_COMPRESSION_BZIP2=OFF
+  HPX_HAVE_COMPRESSION_SNAPPY=OFF
+  HPX_HAVE_COMPRESSION_ZLIB=OFF
+  HPX_HAVE_PARCEL_COALESCING=ON
+  HPX_PARCELPORT_TCP=OFF
+  HPX_PARCELPORT_MPI=ON (MPICH V3.1.2, MPI V3.0)
+  HPX_PARCELPORT_IPC=OFF
+  HPX_PARCELPORT_IBVERBS=OFF
+  HPX_HAVE_VERIFY_LOCKS=OFF
+  HPX_HAVE_HWLOC=ON
+  HPX_HAVE_ITTNOTIFY=OFF
+  HPX_RUN_MAIN_EVERYWHERE=OFF
+  HPX_LIMIT=5
+  HPX_PARCEL_MAX_CONNECTIONS=512
+  HPX_PARCEL_MAX_CONNECTIONS_PER_LOCALITY=4
+  HPX_INITIAL_AGAS_LOCAL_CACHE_SIZE=256
+  HPX_AGAS_LOCAL_CACHE_SIZE_PER_THREAD=32
+  HPX_PREFIX (configured)=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+  HPX_PREFIX=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+{version}: V0.9.10 (AGAS: V3.0), Git: 8a99361e2696cf8b2de903f3fc6b05dcad613979
+{boost}: V1.56.0
+{build-type}: release
+{date}: Mar 31 2015 03:39:25
+{platform}: linux
+{compiler}: Intel C++ C++0x mode version 1500
+{stdlib}: GNU libstdc++ version 20141030
+{what}: Operation not permitted: Operation not permitted
+
+
+{locality-id}: 0
+{function}: 
+{file}: 
+{line}: 0
+{os-thread}: 0, worker-thread#12
+{state}: 
+{auxinfo}: 
+{config}:
+  HPX_HAVE_NATIVE_TLS=ON
+  HPX_HAVE_STACKTRACES=ON
+  HPX_HAVE_COMPRESSION_BZIP2=OFF
+  HPX_HAVE_COMPRESSION_SNAPPY=OFF
+  HPX_HAVE_COMPRESSION_ZLIB=OFF
+  HPX_HAVE_PARCEL_COALESCING=ON
+  HPX_PARCELPORT_TCP=OFF
+  HPX_PARCELPORT_MPI=ON (MPICH V3.1.2, MPI V3.0)
+  HPX_PARCELPORT_IPC=OFF
+  HPX_PARCELPORT_IBVERBS=OFF
+  HPX_HAVE_VERIFY_LOCKS=OFF
+  HPX_HAVE_HWLOC=ON
+  HPX_HAVE_ITTNOTIFY=OFF
+  HPX_RUN_MAIN_EVERYWHERE=OFF
+  HPX_LIMIT=5
+  HPX_PARCEL_MAX_CONNECTIONS=512
+  HPX_PARCEL_MAX_CONNECTIONS_PER_LOCALITY=4
+  HPX_INITIAL_AGAS_LOCAL_CACHE_SIZE=256
+  HPX_AGAS_LOCAL_CACHE_SIZE_PER_THREAD=32
+  HPX_PREFIX (configured)=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+  HPX_PREFIX=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+{version}: V0.9.10 (AGAS: V3.0), Git: 8a99361e2696cf8b2de903f3fc6b05dcad613979
+{boost}: V1.56.0
+{build-type}: release
+{date}: Mar 31 2015 03:39:25
+{platform}: linux
+{compiler}: Intel C++ C++0x mode version 1500
+{stdlib}: GNU libstdc++ version 20141030
+{what}: Operation not permitted: Operation not permitted
+
+
+{locality-id}: 0
+{function}: 
+{file}: 
+{line}: 0
+{os-thread}: 0, worker-thread#16
+{state}: 
+{auxinfo}: 
+{config}:
+  HPX_HAVE_NATIVE_TLS=ON
+  HPX_HAVE_STACKTRACES=ON
+  HPX_HAVE_COMPRESSION_BZIP2=OFF
+  HPX_HAVE_COMPRESSION_SNAPPY=OFF
+  HPX_HAVE_COMPRESSION_ZLIB=OFF
+  HPX_HAVE_PARCEL_COALESCING=ON
+  HPX_PARCELPORT_TCP=OFF
+  HPX_PARCELPORT_MPI=ON (MPICH V3.1.2, MPI V3.0)
+  HPX_PARCELPORT_IPC=OFF
+  HPX_PARCELPORT_IBVERBS=OFF
+  HPX_HAVE_VERIFY_LOCKS=OFF
+  HPX_HAVE_HWLOC=ON
+  HPX_HAVE_ITTNOTIFY=OFF
+  HPX_RUN_MAIN_EVERYWHERE=OFF
+  HPX_LIMIT=5
+  HPX_PARCEL_MAX_CONNECTIONS=512
+  HPX_PARCEL_MAX_CONNECTIONS_PER_LOCALITY=4
+  HPX_INITIAL_AGAS_LOCAL_CACHE_SIZE=256
+  HPX_AGAS_LOCAL_CACHE_SIZE_PER_THREAD=32
+  HPX_PREFIX (configured)=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+  HPX_PREFIX=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+{version}: V0.9.10 (AGAS: V3.0), Git: 8a99361e2696cf8b2de903f3fc6b05dcad613979
+{boost}: V1.56.0
+{build-type}: release
+{date}: Mar 31 2015 03:39:25
+{platform}: linux
+{compiler}: Intel C++ C++0x mode version 1500
+{stdlib}: GNU libstdc++ version 20141030
+{what}: Operation not permitted: Operation not permitted
+
+
+{os-thread}: worker-thread#22
+{config}:
+  HPX_HAVE_NATIVE_TLS=ON
+  HPX_HAVE_STACKTRACES=ON
+  HPX_HAVE_COMPRESSION_BZIP2=OFF
+  HPX_HAVE_COMPRESSION_SNAPPY=OFF
+  HPX_HAVE_COMPRESSION_ZLIB=OFF
+  HPX_HAVE_PARCEL_COALESCING=ON
+  HPX_PARCELPORT_TCP=OFF
+  HPX_PARCELPORT_MPI=ON (MPICH V3.1.2, MPI V3.0)
+  HPX_PARCELPORT_IPC=OFF
+  HPX_PARCELPORT_IBVERBS=OFF
+  HPX_HAVE_VERIFY_LOCKS=OFF
+  HPX_HAVE_HWLOC=ON
+  HPX_HAVE_ITTNOTIFY=OFF
+  HPX_RUN_MAIN_EVERYWHERE=OFF
+  HPX_LIMIT=5
+  HPX_PARCEL_MAX_CONNECTIONS=512
+  HPX_PARCEL_MAX_CONNECTIONS_PER_LOCALITY=4
+  HPX_INITIAL_AGAS_LOCAL_CACHE_SIZE=256
+  HPX_AGAS_LOCAL_CACHE_SIZE_PER_THREAD=32
+  HPX_PREFIX (configured)=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+  HPX_PREFIX=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+{version}: V0.9.10 (AGAS: V3.0), Git: 8a99361e2696cf8b2de903f3fc6b05dcad613979
+{boost}: V1.56.0
+{build-type}: release
+{date}: Mar 31 2015 03:39:25
+{platform}: linux
+{compiler}: Intel C++ C++0x mode version 1500
+{stdlib}: GNU libstdc++ version 20141030
+{what}: boost unique_lock doesn't own the mutex: Operation not permitted
+
+
+{os-thread}: worker-thread#3
+{config}:
+  HPX_HAVE_NATIVE_TLS=ON
+  HPX_HAVE_STACKTRACES=ON
+  HPX_HAVE_COMPRESSION_BZIP2=OFF
+  HPX_HAVE_COMPRESSION_SNAPPY=OFF
+  HPX_HAVE_COMPRESSION_ZLIB=OFF
+  HPX_HAVE_PARCEL_COALESCING=ON
+  HPX_PARCELPORT_TCP=OFF
+  HPX_PARCELPORT_MPI=ON (MPICH V3.1.2, MPI V3.0)
+  HPX_PARCELPORT_IPC=OFF
+  HPX_PARCELPORT_IBVERBS=OFF
+  HPX_HAVE_VERIFY_LOCKS=OFF
+  HPX_HAVE_HWLOC=ON
+  HPX_HAVE_ITTNOTIFY=OFF
+  HPX_RUN_MAIN_EVERYWHERE=OFF
+  HPX_LIMIT=5
+  HPX_PARCEL_MAX_CONNECTIONS=512
+  HPX_PARCEL_MAX_CONNECTIONS_PER_LOCALITY=4
+  HPX_INITIAL_AGAS_LOCAL_CACHE_SIZE=256
+  HPX_AGAS_LOCAL_CACHE_SIZE_PER_THREAD=32
+  HPX_PREFIX (configured)=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+  HPX_PREFIX=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+{version}: V0.9.10 (AGAS: V3.0), Git: 8a99361e2696cf8b2de903f3fc6b05dcad613979
+{boost}: V1.56.0
+{build-type}: release
+{date}: Mar 31 2015 03:39:25
+{platform}: linux
+{compiler}: Intel C++ C++0x mode version 1500
+{stdlib}: GNU libstdc++ version 20141030
+{what}: boost unique_lock doesn't own the mutex: Operation not permitted
+
+_pmiu_daemon(SIGCHLD): [NID 04328] [c6-2c1s10n0] [Sun Apr  5 11:02:52 2015] PE RANK 109 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 04112] [c5-2c1s4n0] [Sun Apr  5 11:02:52 2015] PE RANK 90 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 04120] [c5-2c1s6n0] [Sun Apr  5 11:02:52 2015] PE RANK 95 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05350] [c3-3c2s9n2] [Sun Apr  5 11:02:52 2015] PE RANK 126 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05275] [c3-3c1s6n3] [Sun Apr  5 11:02:52 2015] PE RANK 118 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05373] [c3-3c2s15n1] [Sun Apr  5 11:02:52 2015] PE RANK 127 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 03845] [c4-2c0s1n1] [Sun Apr  5 11:02:52 2015] PE RANK 82 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 04115] [c5-2c1s4n3] [Sun Apr  5 11:02:52 2015] PE RANK 93 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 04589] [c7-2c2s11n1] [Sun Apr  5 11:02:52 2015] PE RANK 113 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05346] [c3-3c2s8n2] [Sun Apr  5 11:02:52 2015] PE RANK 123 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 03808] [c3-2c2s8n0] [Sun Apr  5 11:02:52 2015] PE RANK 73 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05274] [c3-3c1s6n2] [Sun Apr  5 11:02:52 2015] PE RANK 117 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 04109] [c5-2c1s3n1] [Sun Apr  5 11:02:52 2015] PE RANK 87 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 03184] [c0-2c1s12n0] [Sun Apr  5 11:02:52 2015] PE RANK 53 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 03803] [c3-2c2s6n3] [Sun Apr  5 11:02:52 2015] PE RANK 70 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 03550] [c2-2c1s7n2] [Sun Apr  5 11:02:52 2015] PE RANK 62 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 02866] [c6-1c2s12n2] [Sun Apr  5 11:02:52 2015] PE RANK 45 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 03183] [c0-2c1s11n3] [Sun Apr  5 11:02:52 2015] PE RANK 52 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 02938] [c7-1c0s14n2] [Sun Apr  5 11:02:52 2015] PE RANK 50 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 02625] [c5-1c2s0n1] [Sun Apr  5 11:02:52 2015] PE RANK 30 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 02629] [c5-1c2s1n1] [Sun Apr  5 11:02:52 2015] PE RANK 34 exit signal Aborted
+[NID 05274] 2015-04-05 11:02:52 Apid 11532876: initiated application termination
+_pmiu_daemon(SIGCHLD): [NID 02247] [c3-1c2s1n3] [Sun Apr  5 11:02:52 2015] PE RANK 24 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 02623] [c5-1c1s15n3] [Sun Apr  5 11:02:52 2015] PE RANK 28 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 03556] [c2-2c1s9n0] [Sun Apr  5 11:02:52 2015] PE RANK 68 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 03199] [c0-2c1s15n3] [Sun Apr  5 11:02:52 2015] PE RANK 56 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 03844] [c4-2c0s1n0] [Sun Apr  5 11:02:52 2015] PE RANK 81 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 04498] [c7-2c1s4n2] [Sun Apr  5 11:02:52 2015] PE RANK 111 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 04432] [c7-2c0s4n0] [Sun Apr  5 11:02:52 2015] PE RANK 110 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 04499] [c7-2c1s4n3] [Sun Apr  5 11:02:52 2015] PE RANK 112 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 02390] [c4-1c1s5n2] [Sun Apr  5 11:02:52 2015] PE RANK 27 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 03512] [c2-2c0s14n0] [Sun Apr  5 11:02:52 2015] PE RANK 61 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 03554] [c2-2c1s8n2] [Sun Apr  5 11:02:52 2015] PE RANK 66 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 04113] [c5-2c1s4n1] [Sun Apr  5 11:02:52 2015] PE RANK 91 exit signal Aborted

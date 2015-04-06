@@ -1,0 +1,211 @@
+running simulation
+48 cores
+dim: (36, 36, 36)
+initialization done in 0.474166 seconds
+HPX Simulation finished in 52.1781 seconds
+ GFLOPS: 1265.76 min: 1259.7 max: 1267.06 mean: 1262.27
+
+                      min            max            mean           stddev         
+Simulation Time       52.1246        52.4292        52.3225        0.0864625      
+Compute Time Inner    13.7022        18.527         16.3183        1.80203        
+Compute Time Ghost    8.25747        12.6637        10.1749        1.60269        
+PatchProviders Time   9.85076        17.2981        13.6912        2.69898        
+PatchAccepters Time   8.58959        16.0326        12.2008        2.92894        
+----------------------------------------------------------------------
+/agas{locality#0/total}/count/allocate,1,52.845210,[s],18
+/agas{locality#1/total}/count/allocate,1,52.827570,[s],10
+/agas{locality#0/total}/count/begin_migration,1,52.845452,[s],0
+/agas{locality#1/total}/count/begin_migration,1,52.827646,[s],0
+/agas{locality#0/total}/count/bind,1,52.844994,[s],113
+/agas{locality#1/total}/count/bind,1,52.827706,[s],90
+/agas{locality#0/total}/count/bind_gid,1,52.845906,[s],29
+/agas{locality#1/total}/count/bind_gid,1,52.827780,[s],16
+/agas{locality#0/total}/count/cache/erase_entry,1,52.845593,[s],82
+/agas{locality#1/total}/count/cache/erase_entry,1,52.828603,[s],0
+/agas{locality#0/total}/count/cache/evictions,1,52.845888,[s],0
+/agas{locality#1/total}/count/cache/evictions,1,52.827901,[s],0
+/agas{locality#0/total}/count/cache/get_entry,1,52.845550,[s],43367
+/agas{locality#1/total}/count/cache/get_entry,1,52.828333,[s],43165
+/agas{locality#0/total}/count/cache/hits,1,52.845483,[s],8023
+/agas{locality#1/total}/count/cache/hits,1,52.828658,[s],6850
+/agas{locality#0/total}/count/cache/insert_entry,1,52.845630,[s],9
+/agas{locality#1/total}/count/cache/insert_entry,1,52.828240,[s],13
+/agas{locality#0/total}/count/cache/insertions,1,52.845612,[s],9
+/agas{locality#1/total}/count/cache/insertions,1,52.828342,[s],13
+/agas{locality#0/total}/count/cache/misses,1,52.845681,[s],35387
+/agas{locality#1/total}/count/cache/misses,1,52.828347,[s],36372
+/agas{locality#0/total}/count/cache/update_entry,1,52.846006,[s],30
+/agas{locality#1/total}/count/cache/update_entry,1,52.828878,[s],45
+/agas{locality#0/total}/count/decrement_credit,1,52.846568,[s],22245
+/agas{locality#1/total}/count/decrement_credit,1,52.828706,[s],20935
+/agas{locality#0/total}/count/end_migration,1,52.846326,[s],0
+/agas{locality#1/total}/count/end_migration,1,52.829000,[s],0
+/agas{locality#0/total}/count/increment_credit,1,52.846041,[s],0
+/agas{locality#1/total}/count/increment_credit,1,52.829137,[s],0
+/agas{locality#0/total}/count/iterate_names,1,52.846494,[s],0
+/agas{locality#1/total}/count/iterate_names,1,52.829202,[s],0
+/agas{locality#0/total}/count/resolve,1,52.846289,[s],257
+/agas{locality#1/total}/count/resolve,1,52.828843,[s],154
+/agas{locality#0/total}/count/resolve_gid,1,52.846448,[s],23541
+/agas{locality#1/total}/count/resolve_gid,1,52.828646,[s],25037
+/agas{locality#0/total}/count/route,1,52.847077,[s],61
+/agas{locality#1/total}/count/route,1,52.828792,[s],28
+/agas{locality#0/total}/count/unbind,1,52.846830,[s],1
+/agas{locality#1/total}/count/unbind,1,52.828856,[s],0
+/agas{locality#0/total}/count/unbind_gid,1,52.847180,[s],0
+/agas{locality#1/total}/count/unbind_gid,1,52.829124,[s],0
+/agas{locality#0/total}/primary/count,1,52.847320,[s],45942
+/agas{locality#1/total}/primary/count,1,52.829174,[s],46047
+/agas{locality#0/total}/primary/time,1,52.846528,[s],5.86629e+08,[ns]
+/agas{locality#1/total}/primary/time,1,52.829231,[s],4.77916e+08,[ns]
+/agas{locality#0/total}/symbol/count,1,52.847354,[s],371
+/agas{locality#1/total}/symbol/count,1,52.829380,[s],244
+/agas{locality#0/total}/symbol/time,1,52.847425,[s],1.63602e+06,[ns]
+/agas{locality#1/total}/symbol/time,1,52.829362,[s],1.22707e+06,[ns]
+/agas{locality#0/total}/time/allocate,1,52.847446,[s],28054,[ns]
+/agas{locality#1/total}/time/allocate,1,52.829412,[s],24351,[ns]
+/agas{locality#0/total}/time/begin_migration,1,52.847403,[s],0,[ns]
+/agas{locality#1/total}/time/begin_migration,1,52.829736,[s],0,[ns]
+/agas{locality#0/total}/time/bind,1,52.847412,[s],842823,[ns]
+/agas{locality#1/total}/time/bind,1,52.842169,[s],720039,[ns]
+/agas{locality#0/total}/time/bind_gid,1,52.847328,[s],112356,[ns]
+/agas{locality#1/total}/time/bind_gid,1,52.829595,[s],100338,[ns]
+/agas{locality#0/total}/time/cache/erase_entry,1,52.847264,[s],82,[ns]
+/agas{locality#1/total}/time/cache/erase_entry,1,52.829599,[s],0,[ns]
+/agas{locality#0/total}/time/cache/get_entry,1,52.847223,[s],43463,[ns]
+/agas{locality#1/total}/time/cache/get_entry,1,52.830194,[s],43237,[ns]
+/agas{locality#0/total}/time/cache/insert_entry,1,52.847916,[s],9,[ns]
+/agas{locality#1/total}/time/cache/insert_entry,1,52.830247,[s],13,[ns]
+/agas{locality#0/total}/time/cache/update_entry,1,52.847731,[s],30,[ns]
+/agas{locality#1/total}/time/cache/update_entry,1,52.830347,[s],45,[ns]
+/agas{locality#0/total}/time/decrement_credit,1,52.847814,[s],2.29149e+08,[ns]
+/agas{locality#1/total}/time/decrement_credit,1,52.830310,[s],1.32611e+08,[ns]
+/agas{locality#0/total}/time/end_migration,1,52.848156,[s],0,[ns]
+/agas{locality#1/total}/time/end_migration,1,52.830524,[s],0,[ns]
+/agas{locality#0/total}/time/increment_credit,1,52.848078,[s],0,[ns]
+/agas{locality#1/total}/time/increment_credit,1,52.830186,[s],0,[ns]
+/agas{locality#0/total}/time/iterate_names,1,52.848184,[s],0,[ns]
+/agas{locality#1/total}/time/iterate_names,1,52.829885,[s],0,[ns]
+/agas{locality#0/total}/time/resolve,1,52.847716,[s],784979,[ns]
+/agas{locality#1/total}/time/resolve,1,52.830378,[s],507028,[ns]
+/agas{locality#0/total}/time/resolve_gid,1,52.848119,[s],3.55997e+08,[ns]
+/agas{locality#1/total}/time/resolve_gid,1,52.830809,[s],3.43511e+08,[ns]
+/agas{locality#0/total}/time/route,1,52.848455,[s],1.95382e+06,[ns]
+/agas{locality#1/total}/time/route,1,52.830427,[s],1.75415e+06,[ns]
+/agas{locality#0/total}/time/unbind,1,52.848377,[s],8214,[ns]
+/agas{locality#1/total}/time/unbind,1,52.830843,[s],0,[ns]
+/agas{locality#0/total}/time/unbind_gid,1,52.848233,[s],0,[ns]
+/agas{locality#1/total}/time/unbind_gid,1,52.830539,[s],0,[ns]
+/agas{locality#0/total}/count/bind_name,1,52.848622,[s],26
+/agas{locality#0/total}/count/bind_prefix,1,52.847776,[s],64
+/agas{locality#0/total}/count/free,1,52.848310,[s],0
+/agas{locality#0/total}/count/get_component_typename,1,52.848775,[s],0
+/agas{locality#0/total}/count/iterate_types,1,52.848577,[s],0
+/agas{locality#0/total}/count/localities,1,52.848384,[s],2
+/agas{locality#0/total}/count/num_localities,1,52.848762,[s],253
+/agas{locality#0/total}/count/num_localities_type,1,52.848014,[s],0
+/agas{locality#0/total}/count/num_threads,1,52.848490,[s],4
+/agas{locality#0/total}/count/resolve_id,1,52.848093,[s],1
+/agas{locality#0/total}/count/resolve_locality,1,52.848870,[s],0
+/agas{locality#0/total}/count/resolved_localities,1,52.848909,[s],0
+/agas{locality#0/total}/count/unbind_name,1,52.848803,[s],0
+/agas{locality#0/total}/component/count,1,52.848099,[s],91
+/agas{locality#0/total}/component/time,1,52.848845,[s],439134,[ns]
+/agas{locality#0/total}/time/bind_name,1,52.848762,[s],65571,[ns]
+/agas{locality#0/total}/time/bind_prefix,1,52.848014,[s],368004,[ns]
+/agas{locality#0/total}/time/free,1,52.848976,[s],0,[ns]
+/agas{locality#0/total}/time/get_component_typename,1,52.848502,[s],0,[ns]
+/agas{locality#0/total}/time/iterate_types,1,52.849021,[s],0,[ns]
+/agas{locality#0/total}/time/localities,1,52.848916,[s],9693,[ns]
+/agas{locality#0/total}/time/num_localities,1,52.848722,[s],178357,[ns]
+/agas{locality#0/total}/time/num_localities_type,1,52.849030,[s],0,[ns]
+/agas{locality#0/total}/time/num_threads,1,52.849073,[s],8067,[ns]
+/agas{locality#0/total}/time/resolve_id,1,52.848578,[s],5559,[ns]
+/agas{locality#0/total}/time/resolve_locality,1,52.848777,[s],0,[ns]
+/agas{locality#0/total}/time/resolved_localities,1,52.849187,[s],0,[ns]
+/agas{locality#0/total}/time/unbind_name,1,52.849140,[s],0,[ns]
+/data{locality#0/total}/count/mpi/received,1,52.849137,[s],8.98452e+08,[bytes]
+/data{locality#1/total}/count/mpi/received,1,52.830944,[s],8.98396e+08,[bytes]
+/data{locality#0/total}/count/mpi/sent,1,52.848861,[s],2.33058e+06,[bytes]
+/data{locality#1/total}/count/mpi/sent,1,52.830994,[s],2.38653e+06,[bytes]
+/data{locality#0/total}/time/mpi/received,1,52.848951,[s],2.06196e+10,[ns]
+/data{locality#1/total}/time/mpi/received,1,52.831042,[s],2.49655e+10,[ns]
+/data{locality#0/total}/time/mpi/sent,1,52.849057,[s],1.24765e+11,[ns]
+/data{locality#1/total}/time/mpi/sent,1,52.831696,[s],1.1896e+11,[ns]
+/messages{locality#0/total}/count/mpi/received,1,52.848665,[s],8452
+/messages{locality#1/total}/count/mpi/received,1,52.831840,[s],8124
+/messages{locality#0/total}/count/mpi/sent,1,52.849531,[s],8124
+/messages{locality#1/total}/count/mpi/sent,1,52.831363,[s],8456
+/parcelport{locality#0/total}/count/mpi/cache-evictions,1,52.848756,[s],0
+/parcelport{locality#1/total}/count/mpi/cache-evictions,1,52.844057,[s],0
+/parcelport{locality#0/total}/count/mpi/cache-hits,1,52.849390,[s],0
+/parcelport{locality#1/total}/count/mpi/cache-hits,1,52.831544,[s],0
+/parcelport{locality#0/total}/count/mpi/cache-insertions,1,52.848750,[s],0
+/parcelport{locality#1/total}/count/mpi/cache-insertions,1,52.831870,[s],0
+/parcelport{locality#0/total}/count/mpi/cache-misses,1,52.848808,[s],0
+/parcelport{locality#1/total}/count/mpi/cache-misses,1,52.831762,[s],0
+/parcelport{locality#0/total}/count/mpi/cache-reclaims,1,52.849504,[s],0
+/parcelport{locality#1/total}/count/mpi/cache-reclaims,1,52.831854,[s],0
+/parcels{locality#0/total}/count/mpi/received,1,52.849833,[s],8465
+/parcels{locality#1/total}/count/mpi/received,1,52.831975,[s],8131
+/parcels{locality#0/total}/count/mpi/sent,1,52.849995,[s],8131
+/parcels{locality#1/total}/count/mpi/sent,1,52.831630,[s],8470
+/parcels{locality#0/total}/time/mpi/buffer_allocate/received,1,52.849049,[s],4.69126e+13,[ns]
+/parcels{locality#1/total}/time/mpi/buffer_allocate/received,1,52.831680,[s],4.69126e+13,[ns]
+/parcels{locality#0/total}/time/mpi/buffer_allocate/sent,1,52.849854,[s],4.16612e+13,[ns]
+/parcels{locality#1/total}/time/mpi/buffer_allocate/sent,1,52.831845,[s],4.16612e+13,[ns]
+/serialize{locality#0/total}/count/mpi/received,1,52.849959,[s],0,[bytes]
+/serialize{locality#1/total}/count/mpi/received,1,52.831792,[s],0,[bytes]
+/serialize{locality#0/total}/count/mpi/sent,1,52.849769,[s],8.984e+08,[bytes]
+/serialize{locality#1/total}/count/mpi/sent,1,52.832114,[s],8.98463e+08,[bytes]
+/serialize{locality#0/total}/time/mpi/received,1,52.850175,[s],6.33319e+08,[ns]
+/serialize{locality#1/total}/time/mpi/received,1,52.832176,[s],6.28614e+08,[ns]
+/serialize{locality#0/total}/time/mpi/sent,1,52.850206,[s],1.70536e+08,[ns]
+/serialize{locality#1/total}/time/mpi/sent,1,52.832287,[s],1.18828e+08,[ns]
+/threads{locality#0/total}/count/objects,1,52.850578,[s],353
+/threads{locality#1/total}/count/objects,1,52.832398,[s],342
+/threads{locality#0/total}/count/cumulative,1,52.850028,[s],144745
+/threads{locality#1/total}/count/cumulative,1,52.832448,[s],154648
+/threads{locality#0/total}/count/cumulative-phases,1,52.850725,[s],2.20959e+06
+/threads{locality#1/total}/count/cumulative-phases,1,52.832538,[s],2.19716e+06
+/threads{locality#0/total}/count/pending-accesses,1,52.849837,[s],6.24887e+06
+/threads{locality#1/total}/count/pending-accesses,1,52.832555,[s],6.74166e+06
+/threads{locality#0/total}/count/pending-misses,1,52.850671,[s],4.13562e+06
+/threads{locality#1/total}/count/pending-misses,1,52.832622,[s],4.68838e+06
+/threads{locality#0/total}/count/stolen-from-pending,1,52.850881,[s],96302
+/threads{locality#1/total}/count/stolen-from-pending,1,52.832666,[s],143811
+/threads{locality#0/total}/count/stolen-from-staged,1,52.850186,[s],19159
+/threads{locality#1/total}/count/stolen-from-staged,1,52.832718,[s],21742
+/threads{locality#0/total}/count/stolen-to-pending,1,52.849985,[s],96313
+/threads{locality#1/total}/count/stolen-to-pending,1,52.832959,[s],143818
+/threads{locality#0/total}/count/stolen-to-staged,1,52.850354,[s],19161
+/threads{locality#1/total}/count/stolen-to-staged,1,52.833064,[s],21742
+/threads{locality#0/total}/time/average,1,52.850946,[s],8.42289e+06,[ns]
+/threads{locality#1/total}/time/average,1,52.833015,[s],7.82892e+06,[ns]
+/threads{locality#0/total}/time/average-overhead,1,52.850964,[s],281125,[ns]
+/threads{locality#1/total}/time/average-overhead,1,52.832836,[s],317551,[ns]
+/threads{locality#0/total}/time/average-phase,1,52.851125,[s],551947,[ns]
+/threads{locality#1/total}/time/average-phase,1,52.833436,[s],551112,[ns]
+/threads{locality#0/total}/time/average-phase-overhead,1,52.851321,[s],18424,[ns]
+/threads{locality#1/total}/time/average-phase-overhead,1,52.833218,[s],22356,[ns]
+/threads{locality#0/total}/idle-rate,1,52.851334,[s],323,[0.01%]
+/threads{locality#1/total}/idle-rate,1,52.833675,[s],389,[0.01%]
+Application 11532664 resources: utime ~2489s, stime ~17s, Rss ~310940, inblocks ~1198321, outblocks ~38667
+
+ + --------------------------------------------------------------------------
+ +        Job name: nbody_weak_2
+ +          Job Id: 2673852.edique02
+ +          System: edison
+ +     Queued Time: Sun Apr  5 10:45:49 2015
+ +      Start Time: Sun Apr  5 10:46:08 2015
+ + Completion Time: Sun Apr  5 10:47:12 2015
+ +            User: pagrubel
+ +        MOM Host: nid02051
+ +           Queue: reg_small
+ +  Req. Resources: mppnodect=2,mppnppn=24,mppwidth=48,walltime=00:10:00
+ +  Used Resources: cput=00:00:00,energy_used=0,mem=10756kb,vmem=157388kb,walltime=00:01:06
+ +     Acct String: xpress
+ +   PBS_O_WORKDIR: /global/u1/p/pagrubel/nbody_demo/edison/experiments_2
+ +     Submit Args: ../run_nbody_weak_hpx_2.job
+ + --------------------------------------------------------------------------
+
