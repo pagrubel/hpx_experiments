@@ -1,0 +1,58 @@
+run 0
+Application 11969898 exit codes: 134
+Application 11969898 exit signals: Killed
+Application 11969898 resources: utime ~5s, stime ~1s, Rss ~35660, inblocks ~36722, outblocks ~102912
+run 1
+Application 11969900 exit codes: 134
+Application 11969900 exit signals: Killed
+Application 11969900 resources: utime ~1s, stime ~1s, Rss ~35660, inblocks ~36723, outblocks ~102912
+run 2
+Application 11969901 exit codes: 134
+Application 11969901 exit signals: Killed
+Application 11969901 resources: utime ~1s, stime ~1s, Rss ~35660, inblocks ~36723, outblocks ~102912
+run 3
+Application 11969902 exit codes: 134
+Application 11969902 exit signals: Killed
+Application 11969902 resources: utime ~5s, stime ~1s, Rss ~35660, inblocks ~36723, outblocks ~102912
+run 4
+Application 11969903 exit codes: 134
+Application 11969903 exit signals: Killed
+Application 11969903 resources: utime ~1s, stime ~1s, Rss ~35660, inblocks ~36723, outblocks ~102912
+run 5
+Application 11969904 exit codes: 134
+Application 11969904 exit signals: Killed
+Application 11969904 resources: utime ~5s, stime ~1s, Rss ~35660, inblocks ~36723, outblocks ~102912
+run 6
+Application 11969906 exit codes: 134
+Application 11969906 exit signals: Killed
+Application 11969906 resources: utime ~5s, stime ~1s, Rss ~35660, inblocks ~36723, outblocks ~102912
+run 7
+Application 11969907 exit codes: 134
+Application 11969907 exit signals: Killed
+Application 11969907 resources: utime ~2s, stime ~1s, Rss ~35660, inblocks ~36723, outblocks ~102912
+run 8
+Application 11969909 exit codes: 134
+Application 11969909 exit signals: Killed
+Application 11969909 resources: utime ~5s, stime ~1s, Rss ~35660, inblocks ~36724, outblocks ~102912
+run 9
+Application 11969911 exit codes: 134
+Application 11969911 exit signals: Killed
+Application 11969911 resources: utime ~1s, stime ~1s, Rss ~35660, inblocks ~36723, outblocks ~102912
+
+ + --------------------------------------------------------------------------
+ +        Job name: hello_world_32
+ +          Job Id: 2780955.edique02
+ +          System: edison
+ +     Queued Time: Thu Apr 23 16:56:35 2015
+ +      Start Time: Thu Apr 23 16:56:54 2015
+ + Completion Time: Thu Apr 23 16:58:29 2015
+ +            User: pagrubel
+ +        MOM Host: nid01665
+ +           Queue: debug
+ +  Req. Resources: mppnodect=32,mppnppn=24,mppwidth=768,walltime=00:10:00
+ +  Used Resources: cput=00:00:01,energy_used=0,mem=15808kb,vmem=157420kb,walltime=00:01:37
+ +     Acct String: xpress
+ +   PBS_O_WORKDIR: /global/u1/p/pagrubel/hello_world_experiments/experiments_1
+ +     Submit Args: run_hello_world_32.job
+ + --------------------------------------------------------------------------
+

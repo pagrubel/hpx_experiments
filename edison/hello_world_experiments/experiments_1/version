@@ -1,0 +1,26 @@
+
+HPX - High Performance ParalleX
+A general purpose parallel C++ runtime system for distributed applications
+of any scale.
+
+Copyright (c) 2007-2015, The STE||AR Group,
+http://stellar-group.org, email:hpx-users@stellar.cct.lsu.edu
+
+Distributed under the Boost Software License, Version 1.0. (See accompanying
+file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
+
+Versions:
+  HPX: V0.9.11-trunk (AGAS: V3.0), Git: cae8196cf9
+  Boost: V1.56.0
+  Hwloc: V1.7.0
+  MPI: MPICH V3.1.2, MPI V3.0
+
+Build:
+  Type: release
+  Date: Apr 23 2015 14:55:54
+  Platform: linux
+  Compiler: Intel C++ C++0x mode version 1500
+  Standard Library: GNU libstdc++ version 20141030
+  Allocator: jemalloc
+
+hello world from OS-thread 0 on locality 0

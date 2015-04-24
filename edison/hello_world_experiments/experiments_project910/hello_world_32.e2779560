@@ -1,0 +1,2188 @@
+
+{os-thread}: worker-thread#23
+{config}:
+  HPX_HAVE_NATIVE_TLS=ON
+  HPX_HAVE_STACKTRACES=ON
+  HPX_HAVE_COMPRESSION_BZIP2=OFF
+  HPX_HAVE_COMPRESSION_SNAPPY=OFF
+  HPX_HAVE_COMPRESSION_ZLIB=OFF
+  HPX_HAVE_PARCEL_COALESCING=ON
+  HPX_PARCELPORT_TCP=OFF
+  HPX_PARCELPORT_MPI=ON (MPICH V3.1.2, MPI V3.0)
+  HPX_PARCELPORT_IPC=OFF
+  HPX_PARCELPORT_IBVERBS=OFF
+  HPX_HAVE_VERIFY_LOCKS=OFF
+  HPX_HAVE_HWLOC=ON
+  HPX_HAVE_ITTNOTIFY=OFF
+  HPX_RUN_MAIN_EVERYWHERE=OFF
+  HPX_LIMIT=5
+  HPX_PARCEL_MAX_CONNECTIONS=512
+  HPX_PARCEL_MAX_CONNECTIONS_PER_LOCALITY=4
+  HPX_INITIAL_AGAS_LOCAL_CACHE_SIZE=256
+  HPX_AGAS_LOCAL_CACHE_SIZE_PER_THREAD=32
+  HPX_PREFIX (configured)=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+  HPX_PREFIX=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+{version}: V0.9.10 (AGAS: V3.0), Git: 8a99361e2696cf8b2de903f3fc6b05dcad613979
+{boost}: V1.56.0
+{build-type}: release
+{date}: Mar 31 2015 03:39:25
+{platform}: linux
+{compiler}: Intel C++ C++0x mode version 1500
+{stdlib}: GNU libstdc++ version 20141030
+{what}: boost unique_lock doesn't own the mutex: Operation not permitted
+
+
+{os-thread}: worker-thread#23
+{config}:
+  HPX_HAVE_NATIVE_TLS=ON
+  HPX_HAVE_STACKTRACES=ON
+  HPX_HAVE_COMPRESSION_BZIP2=OFF
+  HPX_HAVE_COMPRESSION_SNAPPY=OFF
+  HPX_HAVE_COMPRESSION_ZLIB=OFF
+  HPX_HAVE_PARCEL_COALESCING=ON
+  HPX_PARCELPORT_TCP=OFF
+  HPX_PARCELPORT_MPI=ON (MPICH V3.1.2, MPI V3.0)
+  HPX_PARCELPORT_IPC=OFF
+  HPX_PARCELPORT_IBVERBS=OFF
+  HPX_HAVE_VERIFY_LOCKS=OFF
+  HPX_HAVE_HWLOC=ON
+  HPX_HAVE_ITTNOTIFY=OFF
+  HPX_RUN_MAIN_EVERYWHERE=OFF
+  HPX_LIMIT=5
+  HPX_PARCEL_MAX_CONNECTIONS=512
+  HPX_PARCEL_MAX_CONNECTIONS_PER_LOCALITY=4
+  HPX_INITIAL_AGAS_LOCAL_CACHE_SIZE=256
+  HPX_AGAS_LOCAL_CACHE_SIZE_PER_THREAD=32
+  HPX_PREFIX (configured)=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+  HPX_PREFIX=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+{version}: V0.9.10 (AGAS: V3.0), Git: 8a99361e2696cf8b2de903f3fc6b05dcad613979
+{boost}: V1.56.0
+{build-type}: release
+{date}: Mar 31 2015 03:39:25
+{platform}: linux
+{compiler}: Intel C++ C++0x mode version 1500
+{stdlib}: GNU libstdc++ version 20141030
+{what}: boost unique_lock doesn't own the mutex: Operation not permitted
+
+
+{os-thread}: worker-thread#16
+{config}:
+  HPX_HAVE_NATIVE_TLS=ON
+  HPX_HAVE_STACKTRACES=ON
+  HPX_HAVE_COMPRESSION_BZIP2=OFF
+  HPX_HAVE_COMPRESSION_SNAPPY=OFF
+  HPX_HAVE_COMPRESSION_ZLIB=OFF
+  HPX_HAVE_PARCEL_COALESCING=ON
+  HPX_PARCELPORT_TCP=OFF
+  HPX_PARCELPORT_MPI=ON (MPICH V3.1.2, MPI V3.0)
+  HPX_PARCELPORT_IPC=OFF
+  HPX_PARCELPORT_IBVERBS=OFF
+  HPX_HAVE_VERIFY_LOCKS=OFF
+  HPX_HAVE_HWLOC=ON
+  HPX_HAVE_ITTNOTIFY=OFF
+  HPX_RUN_MAIN_EVERYWHERE=OFF
+  HPX_LIMIT=5
+  HPX_PARCEL_MAX_CONNECTIONS=512
+  HPX_PARCEL_MAX_CONNECTIONS_PER_LOCALITY=4
+  HPX_INITIAL_AGAS_LOCAL_CACHE_SIZE=256
+  HPX_AGAS_LOCAL_CACHE_SIZE_PER_THREAD=32
+  HPX_PREFIX (configured)=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+  HPX_PREFIX=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+{version}: V0.9.10 (AGAS: V3.0), Git: 8a99361e2696cf8b2de903f3fc6b05dcad613979
+{boost}: V1.56.0
+{build-type}: release
+{date}: Mar 31 2015 03:39:25
+{platform}: linux
+{compiler}: Intel C++ C++0x mode version 1500
+{stdlib}: GNU libstdc++ version 20141030
+{what}: boost unique_lock doesn't own the mutex: Operation not permitted
+
+
+{os-thread}: worker-thread#1
+{config}:
+  HPX_HAVE_NATIVE_TLS=ON
+  HPX_HAVE_STACKTRACES=ON
+  HPX_HAVE_COMPRESSION_BZIP2=OFF
+  HPX_HAVE_COMPRESSION_SNAPPY=OFF
+  HPX_HAVE_COMPRESSION_ZLIB=OFF
+  HPX_HAVE_PARCEL_COALESCING=ON
+  HPX_PARCELPORT_TCP=OFF
+  HPX_PARCELPORT_MPI=ON (MPICH V3.1.2, MPI V3.0)
+  HPX_PARCELPORT_IPC=OFF
+  HPX_PARCELPORT_IBVERBS=OFF
+  HPX_HAVE_VERIFY_LOCKS=OFF
+  HPX_HAVE_HWLOC=ON
+  HPX_HAVE_ITTNOTIFY=OFF
+  HPX_RUN_MAIN_EVERYWHERE=OFF
+  HPX_LIMIT=5
+  HPX_PARCEL_MAX_CONNECTIONS=512
+  HPX_PARCEL_MAX_CONNECTIONS_PER_LOCALITY=4
+  HPX_INITIAL_AGAS_LOCAL_CACHE_SIZE=256
+  HPX_AGAS_LOCAL_CACHE_SIZE_PER_THREAD=32
+  HPX_PREFIX (configured)=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+  HPX_PREFIX=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+{version}: V0.9.10 (AGAS: V3.0), Git: 8a99361e2696cf8b2de903f3fc6b05dcad613979
+{boost}: V1.56.0
+{build-type}: release
+{date}: Mar 31 2015 03:39:25
+{platform}: linux
+{compiler}: Intel C++ C++0x mode version 1500
+{stdlib}: GNU libstdc++ version 20141030
+{what}: boost unique_lock doesn't own the mutex: Operation not permitted
+
+
+{os-thread}: worker-thread#13
+{config}:
+  HPX_HAVE_NATIVE_TLS=ON
+  HPX_HAVE_STACKTRACES=ON
+  HPX_HAVE_COMPRESSION_BZIP2=OFF
+  HPX_HAVE_COMPRESSION_SNAPPY=OFF
+  HPX_HAVE_COMPRESSION_ZLIB=OFF
+  HPX_HAVE_PARCEL_COALESCING=ON
+  HPX_PARCELPORT_TCP=OFF
+  HPX_PARCELPORT_MPI=ON (MPICH V3.1.2, MPI V3.0)
+  HPX_PARCELPORT_IPC=OFF
+  HPX_PARCELPORT_IBVERBS=OFF
+  HPX_HAVE_VERIFY_LOCKS=OFF
+  HPX_HAVE_HWLOC=ON
+  HPX_HAVE_ITTNOTIFY=OFF
+  HPX_RUN_MAIN_EVERYWHERE=OFF
+  HPX_LIMIT=5
+  HPX_PARCEL_MAX_CONNECTIONS=512
+  HPX_PARCEL_MAX_CONNECTIONS_PER_LOCALITY=4
+  HPX_INITIAL_AGAS_LOCAL_CACHE_SIZE=256
+  HPX_AGAS_LOCAL_CACHE_SIZE_PER_THREAD=32
+  HPX_PREFIX (configured)=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+  HPX_PREFIX=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+{version}: V0.9.10 (AGAS: V3.0), Git: 8a99361e2696cf8b2de903f3fc6b05dcad613979
+{boost}: V1.56.0
+{build-type}: release
+{date}: Mar 31 2015 03:39:25
+{platform}: linux
+{compiler}: Intel C++ C++0x mode version 1500
+{stdlib}: GNU libstdc++ version 20141030
+{what}: boost unique_lock doesn't own the mutex: Operation not permitted
+
+
+{os-thread}: worker-thread#13
+{config}:
+  HPX_HAVE_NATIVE_TLS=ON
+  HPX_HAVE_STACKTRACES=ON
+  HPX_HAVE_COMPRESSION_BZIP2=OFF
+  HPX_HAVE_COMPRESSION_SNAPPY=OFF
+  HPX_HAVE_COMPRESSION_ZLIB=OFF
+  HPX_HAVE_PARCEL_COALESCING=ON
+  HPX_PARCELPORT_TCP=OFF
+  HPX_PARCELPORT_MPI=ON (MPICH V3.1.2, MPI V3.0)
+  HPX_PARCELPORT_IPC=OFF
+  HPX_PARCELPORT_IBVERBS=OFF
+  HPX_HAVE_VERIFY_LOCKS=OFF
+  HPX_HAVE_HWLOC=ON
+  HPX_HAVE_ITTNOTIFY=OFF
+  HPX_RUN_MAIN_EVERYWHERE=OFF
+  HPX_LIMIT=5
+  HPX_PARCEL_MAX_CONNECTIONS=512
+  HPX_PARCEL_MAX_CONNECTIONS_PER_LOCALITY=4
+  HPX_INITIAL_AGAS_LOCAL_CACHE_SIZE=256
+  HPX_AGAS_LOCAL_CACHE_SIZE_PER_THREAD=32
+  HPX_PREFIX (configured)=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+  HPX_PREFIX=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+{version}: V0.9.10 (AGAS: V3.0), Git: 8a99361e2696cf8b2de903f3fc6b05dcad613979
+{boost}: V1.56.0
+{build-type}: release
+{date}: Mar 31 2015 03:39:25
+{platform}: linux
+{compiler}: Intel C++ C++0x mode version 1500
+{stdlib}: GNU libstdc++ version 20141030
+{what}: boost unique_lock doesn't own the mutex: Operation not permitted
+
+
+{os-thread}: worker-thread#16
+{config}:
+  HPX_HAVE_NATIVE_TLS=ON
+  HPX_HAVE_STACKTRACES=ON
+  HPX_HAVE_COMPRESSION_BZIP2=OFF
+  HPX_HAVE_COMPRESSION_SNAPPY=OFF
+  HPX_HAVE_COMPRESSION_ZLIB=OFF
+  HPX_HAVE_PARCEL_COALESCING=ON
+  HPX_PARCELPORT_TCP=OFF
+  HPX_PARCELPORT_MPI=ON (MPICH V3.1.2, MPI V3.0)
+  HPX_PARCELPORT_IPC=OFF
+  HPX_PARCELPORT_IBVERBS=OFF
+  HPX_HAVE_VERIFY_LOCKS=OFF
+  HPX_HAVE_HWLOC=ON
+  HPX_HAVE_ITTNOTIFY=OFF
+  HPX_RUN_MAIN_EVERYWHERE=OFF
+  HPX_LIMIT=5
+  HPX_PARCEL_MAX_CONNECTIONS=512
+  HPX_PARCEL_MAX_CONNECTIONS_PER_LOCALITY=4
+  HPX_INITIAL_AGAS_LOCAL_CACHE_SIZE=256
+  HPX_AGAS_LOCAL_CACHE_SIZE_PER_THREAD=32
+  HPX_PREFIX (configured)=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+  HPX_PREFIX=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+{version}: V0.9.10 (AGAS: V3.0), Git: 8a99361e2696cf8b2de903f3fc6b05dcad613979
+{boost}: V1.56.0
+{build-type}: release
+{date}: Mar 31 2015 03:39:25
+{platform}: linux
+{compiler}: Intel C++ C++0x mode version 1500
+{stdlib}: GNU libstdc++ version 20141030
+{what}: boost unique_lock doesn't own the mutex: Operation not permitted
+
+
+{os-thread}: worker-thread#3
+{config}:
+  HPX_HAVE_NATIVE_TLS=ON
+  HPX_HAVE_STACKTRACES=ON
+  HPX_HAVE_COMPRESSION_BZIP2=OFF
+  HPX_HAVE_COMPRESSION_SNAPPY=OFF
+  HPX_HAVE_COMPRESSION_ZLIB=OFF
+  HPX_HAVE_PARCEL_COALESCING=ON
+  HPX_PARCELPORT_TCP=OFF
+  HPX_PARCELPORT_MPI=ON (MPICH V3.1.2, MPI V3.0)
+  HPX_PARCELPORT_IPC=OFF
+  HPX_PARCELPORT_IBVERBS=OFF
+  HPX_HAVE_VERIFY_LOCKS=OFF
+  HPX_HAVE_HWLOC=ON
+  HPX_HAVE_ITTNOTIFY=OFF
+  HPX_RUN_MAIN_EVERYWHERE=OFF
+  HPX_LIMIT=5
+  HPX_PARCEL_MAX_CONNECTIONS=512
+  HPX_PARCEL_MAX_CONNECTIONS_PER_LOCALITY=4
+  HPX_INITIAL_AGAS_LOCAL_CACHE_SIZE=256
+  HPX_AGAS_LOCAL_CACHE_SIZE_PER_THREAD=32
+  HPX_PREFIX (configured)=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+  HPX_PREFIX=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+{version}: V0.9.10 (AGAS: V3.0), Git: 8a99361e2696cf8b2de903f3fc6b05dcad613979
+{boost}: V1.56.0
+{build-type}: release
+{date}: Mar 31 2015 03:39:25
+{platform}: linux
+{compiler}: Intel C++ C++0x mode version 1500
+{stdlib}: GNU libstdc++ version 20141030
+{what}: boost unique_lock doesn't own the mutex: Operation not permitted
+
+
+{os-thread}: worker-thread#6
+{config}:
+  HPX_HAVE_NATIVE_TLS=ON
+  HPX_HAVE_STACKTRACES=ON
+  HPX_HAVE_COMPRESSION_BZIP2=OFF
+  HPX_HAVE_COMPRESSION_SNAPPY=OFF
+  HPX_HAVE_COMPRESSION_ZLIB=OFF
+  HPX_HAVE_PARCEL_COALESCING=ON
+  HPX_PARCELPORT_TCP=OFF
+  HPX_PARCELPORT_MPI=ON (MPICH V3.1.2, MPI V3.0)
+  HPX_PARCELPORT_IPC=OFF
+  HPX_PARCELPORT_IBVERBS=OFF
+  HPX_HAVE_VERIFY_LOCKS=OFF
+  HPX_HAVE_HWLOC=ON
+  HPX_HAVE_ITTNOTIFY=OFF
+  HPX_RUN_MAIN_EVERYWHERE=OFF
+  HPX_LIMIT=5
+  HPX_PARCEL_MAX_CONNECTIONS=512
+  HPX_PARCEL_MAX_CONNECTIONS_PER_LOCALITY=4
+  HPX_INITIAL_AGAS_LOCAL_CACHE_SIZE=256
+  HPX_AGAS_LOCAL_CACHE_SIZE_PER_THREAD=32
+  HPX_PREFIX (configured)=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+  HPX_PREFIX=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+{version}: V0.9.10 (AGAS: V3.0), Git: 8a99361e2696cf8b2de903f3fc6b05dcad613979
+{boost}: V1.56.0
+{build-type}: release
+{date}: Mar 31 2015 03:39:25
+{platform}: linux
+{compiler}: Intel C++ C++0x mode version 1500
+{stdlib}: GNU libstdc++ version 20141030
+{what}: boost unique_lock doesn't own the mutex: Operation not permitted
+
+
+{os-thread}: worker-thread#14
+{config}:
+  HPX_HAVE_NATIVE_TLS=ON
+  HPX_HAVE_STACKTRACES=ON
+  HPX_HAVE_COMPRESSION_BZIP2=OFF
+  HPX_HAVE_COMPRESSION_SNAPPY=OFF
+  HPX_HAVE_COMPRESSION_ZLIB=OFF
+  HPX_HAVE_PARCEL_COALESCING=ON
+  HPX_PARCELPORT_TCP=OFF
+  HPX_PARCELPORT_MPI=ON (MPICH V3.1.2, MPI V3.0)
+  HPX_PARCELPORT_IPC=OFF
+  HPX_PARCELPORT_IBVERBS=OFF
+  HPX_HAVE_VERIFY_LOCKS=OFF
+  HPX_HAVE_HWLOC=ON
+  HPX_HAVE_ITTNOTIFY=OFF
+  HPX_RUN_MAIN_EVERYWHERE=OFF
+  HPX_LIMIT=5
+  HPX_PARCEL_MAX_CONNECTIONS=512
+  HPX_PARCEL_MAX_CONNECTIONS_PER_LOCALITY=4
+  HPX_INITIAL_AGAS_LOCAL_CACHE_SIZE=256
+  HPX_AGAS_LOCAL_CACHE_SIZE_PER_THREAD=32
+  HPX_PREFIX (configured)=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+  HPX_PREFIX=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+{version}: V0.9.10 (AGAS: V3.0), Git: 8a99361e2696cf8b2de903f3fc6b05dcad613979
+{boost}: V1.56.0
+{build-type}: release
+{date}: Mar 31 2015 03:39:25
+{platform}: linux
+{compiler}: Intel C++ C++0x mode version 1500
+{stdlib}: GNU libstdc++ version 20141030
+{what}: boost unique_lock doesn't own the mutex: Operation not permitted
+
+
+{locality-id}: 0
+{function}: 
+{file}: 
+{line}: 0
+{os-thread}: 0, worker-thread#17
+{state}: 
+{auxinfo}: 
+{config}:
+  HPX_HAVE_NATIVE_TLS=ON
+  HPX_HAVE_STACKTRACES=ON
+  HPX_HAVE_COMPRESSION_BZIP2=OFF
+  HPX_HAVE_COMPRESSION_SNAPPY=OFF
+  HPX_HAVE_COMPRESSION_ZLIB=OFF
+  HPX_HAVE_PARCEL_COALESCING=ON
+  HPX_PARCELPORT_TCP=OFF
+  HPX_PARCELPORT_MPI=ON (MPICH V3.1.2, MPI V3.0)
+  HPX_PARCELPORT_IPC=OFF
+  HPX_PARCELPORT_IBVERBS=OFF
+  HPX_HAVE_VERIFY_LOCKS=OFF
+  HPX_HAVE_HWLOC=ON
+  HPX_HAVE_ITTNOTIFY=OFF
+  HPX_RUN_MAIN_EVERYWHERE=OFF
+  HPX_LIMIT=5
+  HPX_PARCEL_MAX_CONNECTIONS=512
+  HPX_PARCEL_MAX_CONNECTIONS_PER_LOCALITY=4
+  HPX_INITIAL_AGAS_LOCAL_CACHE_SIZE=256
+  HPX_AGAS_LOCAL_CACHE_SIZE_PER_THREAD=32
+  HPX_PREFIX (configured)=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+  HPX_PREFIX=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+{version}: V0.9.10 (AGAS: V3.0), Git: 8a99361e2696cf8b2de903f3fc6b05dcad613979
+{boost}: V1.56.0
+{build-type}: release
+{date}: Mar 31 2015 03:39:25
+{platform}: linux
+{compiler}: Intel C++ C++0x mode version 1500
+{stdlib}: GNU libstdc++ version 20141030
+{what}: Operation not permitted: Operation not permitted
+
+
+{locality-id}: 0
+{function}: 
+{file}: 
+{line}: 0
+{os-thread}: 0, worker-thread#18
+{state}: 
+{auxinfo}: 
+{config}:
+  HPX_HAVE_NATIVE_TLS=ON
+  HPX_HAVE_STACKTRACES=ON
+  HPX_HAVE_COMPRESSION_BZIP2=OFF
+  HPX_HAVE_COMPRESSION_SNAPPY=OFF
+  HPX_HAVE_COMPRESSION_ZLIB=OFF
+  HPX_HAVE_PARCEL_COALESCING=ON
+  HPX_PARCELPORT_TCP=OFF
+  HPX_PARCELPORT_MPI=ON (MPICH V3.1.2, MPI V3.0)
+  HPX_PARCELPORT_IPC=OFF
+  HPX_PARCELPORT_IBVERBS=OFF
+  HPX_HAVE_VERIFY_LOCKS=OFF
+  HPX_HAVE_HWLOC=ON
+  HPX_HAVE_ITTNOTIFY=OFF
+  HPX_RUN_MAIN_EVERYWHERE=OFF
+  HPX_LIMIT=5
+  HPX_PARCEL_MAX_CONNECTIONS=512
+  HPX_PARCEL_MAX_CONNECTIONS_PER_LOCALITY=4
+  HPX_INITIAL_AGAS_LOCAL_CACHE_SIZE=256
+  HPX_AGAS_LOCAL_CACHE_SIZE_PER_THREAD=32
+  HPX_PREFIX (configured)=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+  HPX_PREFIX=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+{version}: V0.9.10 (AGAS: V3.0), Git: 8a99361e2696cf8b2de903f3fc6b05dcad613979
+{boost}: V1.56.0
+{build-type}: release
+{date}: Mar 31 2015 03:39:25
+{platform}: linux
+{compiler}: Intel C++ C++0x mode version 1500
+{stdlib}: GNU libstdc++ version 20141030
+{what}: Operation not permitted: Operation not permitted
+
+
+{locality-id}: 0
+{function}: 
+{file}: 
+{line}: 0
+{os-thread}: 0, worker-thread#0
+{state}: 
+{auxinfo}: 
+{config}:
+  HPX_HAVE_NATIVE_TLS=ON
+  HPX_HAVE_STACKTRACES=ON
+  HPX_HAVE_COMPRESSION_BZIP2=OFF
+  HPX_HAVE_COMPRESSION_SNAPPY=OFF
+  HPX_HAVE_COMPRESSION_ZLIB=OFF
+  HPX_HAVE_PARCEL_COALESCING=ON
+  HPX_PARCELPORT_TCP=OFF
+  HPX_PARCELPORT_MPI=ON (MPICH V3.1.2, MPI V3.0)
+  HPX_PARCELPORT_IPC=OFF
+  HPX_PARCELPORT_IBVERBS=OFF
+  HPX_HAVE_VERIFY_LOCKS=OFF
+  HPX_HAVE_HWLOC=ON
+  HPX_HAVE_ITTNOTIFY=OFF
+  HPX_RUN_MAIN_EVERYWHERE=OFF
+  HPX_LIMIT=5
+  HPX_PARCEL_MAX_CONNECTIONS=512
+  HPX_PARCEL_MAX_CONNECTIONS_PER_LOCALITY=4
+  HPX_INITIAL_AGAS_LOCAL_CACHE_SIZE=256
+  HPX_AGAS_LOCAL_CACHE_SIZE_PER_THREAD=32
+  HPX_PREFIX (configured)=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+  HPX_PREFIX=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+{version}: V0.9.10 (AGAS: V3.0), Git: 8a99361e2696cf8b2de903f3fc6b05dcad613979
+{boost}: V1.56.0
+{build-type}: release
+{date}: Mar 31 2015 03:39:25
+{platform}: linux
+{compiler}: Intel C++ C++0x mode version 1500
+{stdlib}: GNU libstdc++ version 20141030
+{what}: Operation not permitted: Operation not permitted
+
+
+{locality-id}: 0
+{function}: 
+{file}: 
+{line}: 0
+{os-thread}: 0, worker-thread#1
+{state}: 
+{auxinfo}: 
+{config}:
+  HPX_HAVE_NATIVE_TLS=ON
+  HPX_HAVE_STACKTRACES=ON
+  HPX_HAVE_COMPRESSION_BZIP2=OFF
+  HPX_HAVE_COMPRESSION_SNAPPY=OFF
+  HPX_HAVE_COMPRESSION_ZLIB=OFF
+  HPX_HAVE_PARCEL_COALESCING=ON
+  HPX_PARCELPORT_TCP=OFF
+  HPX_PARCELPORT_MPI=ON (MPICH V3.1.2, MPI V3.0)
+  HPX_PARCELPORT_IPC=OFF
+  HPX_PARCELPORT_IBVERBS=OFF
+  HPX_HAVE_VERIFY_LOCKS=OFF
+  HPX_HAVE_HWLOC=ON
+  HPX_HAVE_ITTNOTIFY=OFF
+  HPX_RUN_MAIN_EVERYWHERE=OFF
+  HPX_LIMIT=5
+  HPX_PARCEL_MAX_CONNECTIONS=512
+  HPX_PARCEL_MAX_CONNECTIONS_PER_LOCALITY=4
+  HPX_INITIAL_AGAS_LOCAL_CACHE_SIZE=256
+  HPX_AGAS_LOCAL_CACHE_SIZE_PER_THREAD=32
+  HPX_PREFIX (configured)=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+  HPX_PREFIX=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+{version}: V0.9.10 (AGAS: V3.0), Git: 8a99361e2696cf8b2de903f3fc6b05dcad613979
+{boost}: V1.56.0
+{build-type}: release
+{date}: Mar 31 2015 03:39:25
+{platform}: linux
+{compiler}: Intel C++ C++0x mode version 1500
+{stdlib}: GNU libstdc++ version 20141030
+{what}: Operation not permitted: Operation not permitted
+
+
+{locality-id}: 0
+{function}: 
+{file}: 
+{line}: 0
+{os-thread}: 0, worker-thread#3
+{state}: 
+{auxinfo}: 
+{config}:
+  HPX_HAVE_NATIVE_TLS=ON
+  HPX_HAVE_STACKTRACES=ON
+  HPX_HAVE_COMPRESSION_BZIP2=OFF
+  HPX_HAVE_COMPRESSION_SNAPPY=OFF
+  HPX_HAVE_COMPRESSION_ZLIB=OFF
+  HPX_HAVE_PARCEL_COALESCING=ON
+  HPX_PARCELPORT_TCP=OFF
+  HPX_PARCELPORT_MPI=ON (MPICH V3.1.2, MPI V3.0)
+  HPX_PARCELPORT_IPC=OFF
+  HPX_PARCELPORT_IBVERBS=OFF
+  HPX_HAVE_VERIFY_LOCKS=OFF
+  HPX_HAVE_HWLOC=ON
+  HPX_HAVE_ITTNOTIFY=OFF
+  HPX_RUN_MAIN_EVERYWHERE=OFF
+  HPX_LIMIT=5
+  HPX_PARCEL_MAX_CONNECTIONS=512
+  HPX_PARCEL_MAX_CONNECTIONS_PER_LOCALITY=4
+  HPX_INITIAL_AGAS_LOCAL_CACHE_SIZE=256
+  HPX_AGAS_LOCAL_CACHE_SIZE_PER_THREAD=32
+  HPX_PREFIX (configured)=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+  HPX_PREFIX=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+{version}: V0.9.10 (AGAS: V3.0), Git: 8a99361e2696cf8b2de903f3fc6b05dcad613979
+{boost}: V1.56.0
+{build-type}: release
+{date}: Mar 31 2015 03:39:25
+{platform}: linux
+{compiler}: Intel C++ C++0x mode version 1500
+{stdlib}: GNU libstdc++ version 20141030
+{what}: Operation not permitted: Operation not permitted
+
+
+{locality-id}: 0
+{function}: 
+{file}: 
+{line}: 0
+{os-thread}: 0, worker-thread#11
+{state}: 
+{auxinfo}: 
+{config}:
+  HPX_HAVE_NATIVE_TLS=ON
+  HPX_HAVE_STACKTRACES=ON
+  HPX_HAVE_COMPRESSION_BZIP2=OFF
+  HPX_HAVE_COMPRESSION_SNAPPY=OFF
+  HPX_HAVE_COMPRESSION_ZLIB=OFF
+  HPX_HAVE_PARCEL_COALESCING=ON
+  HPX_PARCELPORT_TCP=OFF
+  HPX_PARCELPORT_MPI=ON (MPICH V3.1.2, MPI V3.0)
+  HPX_PARCELPORT_IPC=OFF
+  HPX_PARCELPORT_IBVERBS=OFF
+  HPX_HAVE_VERIFY_LOCKS=OFF
+  HPX_HAVE_HWLOC=ON
+  HPX_HAVE_ITTNOTIFY=OFF
+  HPX_RUN_MAIN_EVERYWHERE=OFF
+  HPX_LIMIT=5
+  HPX_PARCEL_MAX_CONNECTIONS=512
+  HPX_PARCEL_MAX_CONNECTIONS_PER_LOCALITY=4
+  HPX_INITIAL_AGAS_LOCAL_CACHE_SIZE=256
+  HPX_AGAS_LOCAL_CACHE_SIZE_PER_THREAD=32
+  HPX_PREFIX (configured)=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+  HPX_PREFIX=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+{version}: V0.9.10 (AGAS: V3.0), Git: 8a99361e2696cf8b2de903f3fc6b05dcad613979
+{boost}: V1.56.0
+{build-type}: release
+{date}: Mar 31 2015 03:39:25
+{platform}: linux
+{compiler}: Intel C++ C++0x mode version 1500
+{stdlib}: GNU libstdc++ version 20141030
+{what}: Operation not permitted: Operation not permitted
+
+
+{locality-id}: 0
+{function}: 
+{file}: 
+{line}: 0
+{os-thread}: 0, worker-thread#12
+{state}: 
+{auxinfo}: 
+{config}:
+  HPX_HAVE_NATIVE_TLS=ON
+  HPX_HAVE_STACKTRACES=ON
+  HPX_HAVE_COMPRESSION_BZIP2=OFF
+  HPX_HAVE_COMPRESSION_SNAPPY=OFF
+  HPX_HAVE_COMPRESSION_ZLIB=OFF
+  HPX_HAVE_PARCEL_COALESCING=ON
+  HPX_PARCELPORT_TCP=OFF
+  HPX_PARCELPORT_MPI=ON (MPICH V3.1.2, MPI V3.0)
+  HPX_PARCELPORT_IPC=OFF
+  HPX_PARCELPORT_IBVERBS=OFF
+  HPX_HAVE_VERIFY_LOCKS=OFF
+  HPX_HAVE_HWLOC=ON
+  HPX_HAVE_ITTNOTIFY=OFF
+  HPX_RUN_MAIN_EVERYWHERE=OFF
+  HPX_LIMIT=5
+  HPX_PARCEL_MAX_CONNECTIONS=512
+  HPX_PARCEL_MAX_CONNECTIONS_PER_LOCALITY=4
+  HPX_INITIAL_AGAS_LOCAL_CACHE_SIZE=256
+  HPX_AGAS_LOCAL_CACHE_SIZE_PER_THREAD=32
+  HPX_PREFIX (configured)=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+  HPX_PREFIX=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+{version}: V0.9.10 (AGAS: V3.0), Git: 8a99361e2696cf8b2de903f3fc6b05dcad613979
+{boost}: V1.56.0
+{build-type}: release
+{date}: Mar 31 2015 03:39:25
+{platform}: linux
+{compiler}: Intel C++ C++0x mode version 1500
+{stdlib}: GNU libstdc++ version 20141030
+{what}: Operation not permitted: Operation not permitted
+
+
+{locality-id}: 0
+{function}: 
+{file}: 
+{line}: 0
+{os-thread}: 0, worker-thread#16
+{state}: 
+{auxinfo}: 
+{config}:
+  HPX_HAVE_NATIVE_TLS=ON
+  HPX_HAVE_STACKTRACES=ON
+  HPX_HAVE_COMPRESSION_BZIP2=OFF
+  HPX_HAVE_COMPRESSION_SNAPPY=OFF
+  HPX_HAVE_COMPRESSION_ZLIB=OFF
+  HPX_HAVE_PARCEL_COALESCING=ON
+  HPX_PARCELPORT_TCP=OFF
+  HPX_PARCELPORT_MPI=ON (MPICH V3.1.2, MPI V3.0)
+  HPX_PARCELPORT_IPC=OFF
+  HPX_PARCELPORT_IBVERBS=OFF
+  HPX_HAVE_VERIFY_LOCKS=OFF
+  HPX_HAVE_HWLOC=ON
+  HPX_HAVE_ITTNOTIFY=OFF
+  HPX_RUN_MAIN_EVERYWHERE=OFF
+  HPX_LIMIT=5
+  HPX_PARCEL_MAX_CONNECTIONS=512
+  HPX_PARCEL_MAX_CONNECTIONS_PER_LOCALITY=4
+  HPX_INITIAL_AGAS_LOCAL_CACHE_SIZE=256
+  HPX_AGAS_LOCAL_CACHE_SIZE_PER_THREAD=32
+  HPX_PREFIX (configured)=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+  HPX_PREFIX=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+{version}: V0.9.10 (AGAS: V3.0), Git: 8a99361e2696cf8b2de903f3fc6b05dcad613979
+{boost}: V1.56.0
+{build-type}: release
+{date}: Mar 31 2015 03:39:25
+{platform}: linux
+{compiler}: Intel C++ C++0x mode version 1500
+{stdlib}: GNU libstdc++ version 20141030
+{what}: Operation not permitted: Operation not permitted
+
+
+{locality-id}: 0
+{function}: 
+{file}: 
+{line}: 0
+{os-thread}: 0, worker-thread#5
+{state}: 
+{auxinfo}: 
+{config}:
+  HPX_HAVE_NATIVE_TLS=ON
+  HPX_HAVE_STACKTRACES=ON
+  HPX_HAVE_COMPRESSION_BZIP2=OFF
+  HPX_HAVE_COMPRESSION_SNAPPY=OFF
+  HPX_HAVE_COMPRESSION_ZLIB=OFF
+  HPX_HAVE_PARCEL_COALESCING=ON
+  HPX_PARCELPORT_TCP=OFF
+  HPX_PARCELPORT_MPI=ON (MPICH V3.1.2, MPI V3.0)
+  HPX_PARCELPORT_IPC=OFF
+  HPX_PARCELPORT_IBVERBS=OFF
+  HPX_HAVE_VERIFY_LOCKS=OFF
+  HPX_HAVE_HWLOC=ON
+  HPX_HAVE_ITTNOTIFY=OFF
+  HPX_RUN_MAIN_EVERYWHERE=OFF
+  HPX_LIMIT=5
+  HPX_PARCEL_MAX_CONNECTIONS=512
+  HPX_PARCEL_MAX_CONNECTIONS_PER_LOCALITY=4
+  HPX_INITIAL_AGAS_LOCAL_CACHE_SIZE=256
+  HPX_AGAS_LOCAL_CACHE_SIZE_PER_THREAD=32
+  HPX_PREFIX (configured)=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+  HPX_PREFIX=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+{version}: V0.9.10 (AGAS: V3.0), Git: 8a99361e2696cf8b2de903f3fc6b05dcad613979
+{boost}: V1.56.0
+{build-type}: release
+{date}: Mar 31 2015 03:39:25
+{platform}: linux
+{compiler}: Intel C++ C++0x mode version 1500
+{stdlib}: GNU libstdc++ version 20141030
+{what}: Operation not permitted: Operation not permitted
+
+
+{locality-id}: 0
+{function}: 
+{file}: 
+{line}: 0
+{os-thread}: 0, worker-thread#15
+{state}: 
+{auxinfo}: 
+{config}:
+  HPX_HAVE_NATIVE_TLS=ON
+  HPX_HAVE_STACKTRACES=ON
+  HPX_HAVE_COMPRESSION_BZIP2=OFF
+  HPX_HAVE_COMPRESSION_SNAPPY=OFF
+  HPX_HAVE_COMPRESSION_ZLIB=OFF
+  HPX_HAVE_PARCEL_COALESCING=ON
+  HPX_PARCELPORT_TCP=OFF
+  HPX_PARCELPORT_MPI=ON (MPICH V3.1.2, MPI V3.0)
+  HPX_PARCELPORT_IPC=OFF
+  HPX_PARCELPORT_IBVERBS=OFF
+  HPX_HAVE_VERIFY_LOCKS=OFF
+  HPX_HAVE_HWLOC=ON
+  HPX_HAVE_ITTNOTIFY=OFF
+  HPX_RUN_MAIN_EVERYWHERE=OFF
+  HPX_LIMIT=5
+  HPX_PARCEL_MAX_CONNECTIONS=512
+  HPX_PARCEL_MAX_CONNECTIONS_PER_LOCALITY=4
+  HPX_INITIAL_AGAS_LOCAL_CACHE_SIZE=256
+  HPX_AGAS_LOCAL_CACHE_SIZE_PER_THREAD=32
+  HPX_PREFIX (configured)=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+  HPX_PREFIX=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+{version}: V0.9.10 (AGAS: V3.0), Git: 8a99361e2696cf8b2de903f3fc6b05dcad613979
+{boost}: V1.56.0
+{build-type}: release
+{date}: Mar 31 2015 03:39:25
+{platform}: linux
+{compiler}: Intel C++ C++0x mode version 1500
+{stdlib}: GNU libstdc++ version 20141030
+{what}: Operation not permitted: Operation not permitted
+
+_pmiu_daemon(SIGCHLD): [NID 05847] [c6-3c1s5n3] [Thu Apr 23 12:53:26 2015] PE RANK 24 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05843] [c6-3c1s4n3] [Thu Apr 23 12:53:26 2015] PE RANK 20 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05839] [c6-3c1s3n3] [Thu Apr 23 12:53:26 2015] PE RANK 16 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05834] [c6-3c1s2n2] [Thu Apr 23 12:53:26 2015] PE RANK 11 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05836] [c6-3c1s3n0] [Thu Apr 23 12:53:26 2015] PE RANK 13 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05838] [c6-3c1s3n2] [Thu Apr 23 12:53:26 2015] PE RANK 15 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05827] [c6-3c1s0n3] [Thu Apr 23 12:53:26 2015] PE RANK 8 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05837] [c6-3c1s3n1] [Thu Apr 23 12:53:26 2015] PE RANK 14 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05845] [c6-3c1s5n1] [Thu Apr 23 12:53:26 2015] PE RANK 22 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05822] [c6-3c0s15n2] [Thu Apr 23 12:53:26 2015] PE RANK 3 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05823] [c6-3c0s15n3] [Thu Apr 23 12:53:26 2015] PE RANK 4 exit signal Aborted
+[NID 05847] 2015-04-23 12:53:26 Apid 11965848: initiated application termination
+_pmiu_daemon(SIGCHLD): [NID 05826] [c6-3c1s0n2] [Thu Apr 23 12:53:26 2015] PE RANK 7 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05833] [c6-3c1s2n1] [Thu Apr 23 12:53:26 2015] PE RANK 10 exit signal Aborted
+
+{os-thread}: worker-thread#2
+{config}:
+  HPX_HAVE_NATIVE_TLS=ON
+  HPX_HAVE_STACKTRACES=ON
+  HPX_HAVE_COMPRESSION_BZIP2=OFF
+  HPX_HAVE_COMPRESSION_SNAPPY=OFF
+  HPX_HAVE_COMPRESSION_ZLIB=OFF
+  HPX_HAVE_PARCEL_COALESCING=ON
+  HPX_PARCELPORT_TCP=OFF
+  HPX_PARCELPORT_MPI=ON (MPICH V3.1.2, MPI V3.0)
+  HPX_PARCELPORT_IPC=OFF
+  HPX_PARCELPORT_IBVERBS=OFF
+  HPX_HAVE_VERIFY_LOCKS=OFF
+  HPX_HAVE_HWLOC=ON
+  HPX_HAVE_ITTNOTIFY=OFF
+  HPX_RUN_MAIN_EVERYWHERE=OFF
+  HPX_LIMIT=5
+  HPX_PARCEL_MAX_CONNECTIONS=512
+  HPX_PARCEL_MAX_CONNECTIONS_PER_LOCALITY=4
+  HPX_INITIAL_AGAS_LOCAL_CACHE_SIZE=256
+  HPX_AGAS_LOCAL_CACHE_SIZE_PER_THREAD=32
+  HPX_PREFIX (configured)=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+  HPX_PREFIX=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+{version}: V0.9.10 (AGAS: V3.0), Git: 8a99361e2696cf8b2de903f3fc6b05dcad613979
+{boost}: V1.56.0
+{build-type}: release
+{date}: Mar 31 2015 03:39:25
+{platform}: linux
+{compiler}: Intel C++ C++0x mode version 1500
+{stdlib}: GNU libstdc++ version 20141030
+{what}: boost unique_lock doesn't own the mutex: Operation not permitted
+
+
+{os-thread}: worker-thread#19
+{config}:
+  HPX_HAVE_NATIVE_TLS=ON
+  HPX_HAVE_STACKTRACES=ON
+  HPX_HAVE_COMPRESSION_BZIP2=OFF
+  HPX_HAVE_COMPRESSION_SNAPPY=OFF
+  HPX_HAVE_COMPRESSION_ZLIB=OFF
+  HPX_HAVE_PARCEL_COALESCING=ON
+  HPX_PARCELPORT_TCP=OFF
+  HPX_PARCELPORT_MPI=ON (MPICH V3.1.2, MPI V3.0)
+  HPX_PARCELPORT_IPC=OFF
+  HPX_PARCELPORT_IBVERBS=OFF
+  HPX_HAVE_VERIFY_LOCKS=OFF
+  HPX_HAVE_HWLOC=ON
+  HPX_HAVE_ITTNOTIFY=OFF
+  HPX_RUN_MAIN_EVERYWHERE=OFF
+  HPX_LIMIT=5
+  HPX_PARCEL_MAX_CONNECTIONS=512
+  HPX_PARCEL_MAX_CONNECTIONS_PER_LOCALITY=4
+  HPX_INITIAL_AGAS_LOCAL_CACHE_SIZE=256
+  HPX_AGAS_LOCAL_CACHE_SIZE_PER_THREAD=32
+  HPX_PREFIX (configured)=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+  HPX_PREFIX=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+{version}: V0.9.10 (AGAS: V3.0), Git: 8a99361e2696cf8b2de903f3fc6b05dcad613979
+{boost}: V1.56.0
+{build-type}: release
+{date}: Mar 31 2015 03:39:25
+{platform}: linux
+{compiler}: Intel C++ C++0x mode version 1500
+{stdlib}: GNU libstdc++ version 20141030
+{what}: boost unique_lock doesn't own the mutex: Operation not permitted
+
+
+{os-thread}: worker-thread#6
+{config}:
+  HPX_HAVE_NATIVE_TLS=ON
+  HPX_HAVE_STACKTRACES=ON
+  HPX_HAVE_COMPRESSION_BZIP2=OFF
+  HPX_HAVE_COMPRESSION_SNAPPY=OFF
+  HPX_HAVE_COMPRESSION_ZLIB=OFF
+  HPX_HAVE_PARCEL_COALESCING=ON
+  HPX_PARCELPORT_TCP=OFF
+  HPX_PARCELPORT_MPI=ON (MPICH V3.1.2, MPI V3.0)
+  HPX_PARCELPORT_IPC=OFF
+  HPX_PARCELPORT_IBVERBS=OFF
+  HPX_HAVE_VERIFY_LOCKS=OFF
+  HPX_HAVE_HWLOC=ON
+  HPX_HAVE_ITTNOTIFY=OFF
+  HPX_RUN_MAIN_EVERYWHERE=OFF
+  HPX_LIMIT=5
+  HPX_PARCEL_MAX_CONNECTIONS=512
+  HPX_PARCEL_MAX_CONNECTIONS_PER_LOCALITY=4
+  HPX_INITIAL_AGAS_LOCAL_CACHE_SIZE=256
+  HPX_AGAS_LOCAL_CACHE_SIZE_PER_THREAD=32
+  HPX_PREFIX (configured)=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+  HPX_PREFIX=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+{version}: V0.9.10 (AGAS: V3.0), Git: 8a99361e2696cf8b2de903f3fc6b05dcad613979
+{boost}: V1.56.0
+{build-type}: release
+{date}: Mar 31 2015 03:39:25
+{platform}: linux
+{compiler}: Intel C++ C++0x mode version 1500
+{stdlib}: GNU libstdc++ version 20141030
+{what}: boost unique_lock doesn't own the mutex: Operation not permitted
+
+
+{os-thread}: worker-thread#11
+{config}:
+  HPX_HAVE_NATIVE_TLS=ON
+  HPX_HAVE_STACKTRACES=ON
+  HPX_HAVE_COMPRESSION_BZIP2=OFF
+  HPX_HAVE_COMPRESSION_SNAPPY=OFF
+  HPX_HAVE_COMPRESSION_ZLIB=OFF
+  HPX_HAVE_PARCEL_COALESCING=ON
+  HPX_PARCELPORT_TCP=OFF
+  HPX_PARCELPORT_MPI=ON (MPICH V3.1.2, MPI V3.0)
+  HPX_PARCELPORT_IPC=OFF
+  HPX_PARCELPORT_IBVERBS=OFF
+  HPX_HAVE_VERIFY_LOCKS=OFF
+  HPX_HAVE_HWLOC=ON
+  HPX_HAVE_ITTNOTIFY=OFF
+  HPX_RUN_MAIN_EVERYWHERE=OFF
+  HPX_LIMIT=5
+  HPX_PARCEL_MAX_CONNECTIONS=512
+  HPX_PARCEL_MAX_CONNECTIONS_PER_LOCALITY=4
+  HPX_INITIAL_AGAS_LOCAL_CACHE_SIZE=256
+  HPX_AGAS_LOCAL_CACHE_SIZE_PER_THREAD=32
+  HPX_PREFIX (configured)=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+  HPX_PREFIX=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+{version}: V0.9.10 (AGAS: V3.0), Git: 8a99361e2696cf8b2de903f3fc6b05dcad613979
+{boost}: V1.56.0
+{build-type}: release
+{date}: Mar 31 2015 03:39:25
+{platform}: linux
+{compiler}: Intel C++ C++0x mode version 1500
+{stdlib}: GNU libstdc++ version 20141030
+{what}: boost unique_lock doesn't own the mutex: Operation not permitted
+
+
+{os-thread}: worker-thread#19
+{config}:
+  HPX_HAVE_NATIVE_TLS=ON
+  HPX_HAVE_STACKTRACES=ON
+  HPX_HAVE_COMPRESSION_BZIP2=OFF
+  HPX_HAVE_COMPRESSION_SNAPPY=OFF
+  HPX_HAVE_COMPRESSION_ZLIB=OFF
+  HPX_HAVE_PARCEL_COALESCING=ON
+  HPX_PARCELPORT_TCP=OFF
+  HPX_PARCELPORT_MPI=ON (MPICH V3.1.2, MPI V3.0)
+  HPX_PARCELPORT_IPC=OFF
+  HPX_PARCELPORT_IBVERBS=OFF
+  HPX_HAVE_VERIFY_LOCKS=OFF
+  HPX_HAVE_HWLOC=ON
+  HPX_HAVE_ITTNOTIFY=OFF
+  HPX_RUN_MAIN_EVERYWHERE=OFF
+  HPX_LIMIT=5
+  HPX_PARCEL_MAX_CONNECTIONS=512
+  HPX_PARCEL_MAX_CONNECTIONS_PER_LOCALITY=4
+  HPX_INITIAL_AGAS_LOCAL_CACHE_SIZE=256
+  HPX_AGAS_LOCAL_CACHE_SIZE_PER_THREAD=32
+  HPX_PREFIX (configured)=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+  HPX_PREFIX=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+{version}: V0.9.10 (AGAS: V3.0), Git: 8a99361e2696cf8b2de903f3fc6b05dcad613979
+{boost}: V1.56.0
+{build-type}: release
+{date}: Mar 31 2015 03:39:25
+{platform}: linux
+{compiler}: Intel C++ C++0x mode version 1500
+{stdlib}: GNU libstdc++ version 20141030
+{what}: boost unique_lock doesn't own the mutex: Operation not permitted
+
+
+{locality-id}: 0
+{function}: 
+{file}: 
+{line}: 0
+{os-thread}: 0, worker-thread#6
+{state}: 
+{auxinfo}: 
+{config}:
+  HPX_HAVE_NATIVE_TLS=ON
+  HPX_HAVE_STACKTRACES=ON
+  HPX_HAVE_COMPRESSION_BZIP2=OFF
+  HPX_HAVE_COMPRESSION_SNAPPY=OFF
+  HPX_HAVE_COMPRESSION_ZLIB=OFF
+  HPX_HAVE_PARCEL_COALESCING=ON
+  HPX_PARCELPORT_TCP=OFF
+  HPX_PARCELPORT_MPI=ON (MPICH V3.1.2, MPI V3.0)
+  HPX_PARCELPORT_IPC=OFF
+  HPX_PARCELPORT_IBVERBS=OFF
+  HPX_HAVE_VERIFY_LOCKS=OFF
+  HPX_HAVE_HWLOC=ON
+  HPX_HAVE_ITTNOTIFY=OFF
+  HPX_RUN_MAIN_EVERYWHERE=OFF
+  HPX_LIMIT=5
+  HPX_PARCEL_MAX_CONNECTIONS=512
+  HPX_PARCEL_MAX_CONNECTIONS_PER_LOCALITY=4
+  HPX_INITIAL_AGAS_LOCAL_CACHE_SIZE=256
+  HPX_AGAS_LOCAL_CACHE_SIZE_PER_THREAD=32
+  HPX_PREFIX (configured)=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+  HPX_PREFIX=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+{version}: V0.9.10 (AGAS: V3.0), Git: 8a99361e2696cf8b2de903f3fc6b05dcad613979
+{boost}: V1.56.0
+{build-type}: release
+{date}: Mar 31 2015 03:39:25
+{platform}: linux
+{compiler}: Intel C++ C++0x mode version 1500
+{stdlib}: GNU libstdc++ version 20141030
+{what}: Operation not permitted: Operation not permitted
+
+
+{locality-id}: 0
+{function}: 
+{file}: 
+{line}: 0
+{os-thread}: 0, worker-thread#14
+{state}: 
+{auxinfo}: 
+{config}:
+  HPX_HAVE_NATIVE_TLS=ON
+  HPX_HAVE_STACKTRACES=ON
+  HPX_HAVE_COMPRESSION_BZIP2=OFF
+  HPX_HAVE_COMPRESSION_SNAPPY=OFF
+  HPX_HAVE_COMPRESSION_ZLIB=OFF
+  HPX_HAVE_PARCEL_COALESCING=ON
+  HPX_PARCELPORT_TCP=OFF
+  HPX_PARCELPORT_MPI=ON (MPICH V3.1.2, MPI V3.0)
+  HPX_PARCELPORT_IPC=OFF
+  HPX_PARCELPORT_IBVERBS=OFF
+  HPX_HAVE_VERIFY_LOCKS=OFF
+  HPX_HAVE_HWLOC=ON
+  HPX_HAVE_ITTNOTIFY=OFF
+  HPX_RUN_MAIN_EVERYWHERE=OFF
+  HPX_LIMIT=5
+  HPX_PARCEL_MAX_CONNECTIONS=512
+  HPX_PARCEL_MAX_CONNECTIONS_PER_LOCALITY=4
+  HPX_INITIAL_AGAS_LOCAL_CACHE_SIZE=256
+  HPX_AGAS_LOCAL_CACHE_SIZE_PER_THREAD=32
+  HPX_PREFIX (configured)=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+  HPX_PREFIX=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+{version}: V0.9.10 (AGAS: V3.0), Git: 8a99361e2696cf8b2de903f3fc6b05dcad613979
+{boost}: V1.56.0
+{build-type}: release
+{date}: Mar 31 2015 03:39:25
+{platform}: linux
+{compiler}: Intel C++ C++0x mode version 1500
+{stdlib}: GNU libstdc++ version 20141030
+{what}: Operation not permitted: Operation not permitted
+
+
+{locality-id}: 0
+{function}: 
+{file}: 
+{line}: 0
+{os-thread}: 0, worker-thread#13
+{state}: 
+{auxinfo}: 
+{config}:
+  HPX_HAVE_NATIVE_TLS=ON
+  HPX_HAVE_STACKTRACES=ON
+  HPX_HAVE_COMPRESSION_BZIP2=OFF
+  HPX_HAVE_COMPRESSION_SNAPPY=OFF
+  HPX_HAVE_COMPRESSION_ZLIB=OFF
+  HPX_HAVE_PARCEL_COALESCING=ON
+  HPX_PARCELPORT_TCP=OFF
+  HPX_PARCELPORT_MPI=ON (MPICH V3.1.2, MPI V3.0)
+  HPX_PARCELPORT_IPC=OFF
+  HPX_PARCELPORT_IBVERBS=OFF
+  HPX_HAVE_VERIFY_LOCKS=OFF
+  HPX_HAVE_HWLOC=ON
+  HPX_HAVE_ITTNOTIFY=OFF
+  HPX_RUN_MAIN_EVERYWHERE=OFF
+  HPX_LIMIT=5
+  HPX_PARCEL_MAX_CONNECTIONS=512
+  HPX_PARCEL_MAX_CONNECTIONS_PER_LOCALITY=4
+  HPX_INITIAL_AGAS_LOCAL_CACHE_SIZE=256
+  HPX_AGAS_LOCAL_CACHE_SIZE_PER_THREAD=32
+  HPX_PREFIX (configured)=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+  HPX_PREFIX=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+{version}: V0.9.10 (AGAS: V3.0), Git: 8a99361e2696cf8b2de903f3fc6b05dcad613979
+{boost}: V1.56.0
+{build-type}: release
+{date}: Mar 31 2015 03:39:25
+{platform}: linux
+{compiler}: Intel C++ C++0x mode version 1500
+{stdlib}: GNU libstdc++ version 20141030
+{what}: Operation not permitted: Operation not permitted
+
+
+{locality-id}: 0
+{function}: 
+{file}: 
+{line}: 0
+{os-thread}: 0, worker-thread#17
+{state}: 
+{auxinfo}: 
+{config}:
+  HPX_HAVE_NATIVE_TLS=ON
+  HPX_HAVE_STACKTRACES=ON
+  HPX_HAVE_COMPRESSION_BZIP2=OFF
+  HPX_HAVE_COMPRESSION_SNAPPY=OFF
+  HPX_HAVE_COMPRESSION_ZLIB=OFF
+  HPX_HAVE_PARCEL_COALESCING=ON
+  HPX_PARCELPORT_TCP=OFF
+  HPX_PARCELPORT_MPI=ON (MPICH V3.1.2, MPI V3.0)
+  HPX_PARCELPORT_IPC=OFF
+  HPX_PARCELPORT_IBVERBS=OFF
+  HPX_HAVE_VERIFY_LOCKS=OFF
+  HPX_HAVE_HWLOC=ON
+  HPX_HAVE_ITTNOTIFY=OFF
+  HPX_RUN_MAIN_EVERYWHERE=OFF
+  HPX_LIMIT=5
+  HPX_PARCEL_MAX_CONNECTIONS=512
+  HPX_PARCEL_MAX_CONNECTIONS_PER_LOCALITY=4
+  HPX_INITIAL_AGAS_LOCAL_CACHE_SIZE=256
+  HPX_AGAS_LOCAL_CACHE_SIZE_PER_THREAD=32
+  HPX_PREFIX (configured)=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+  HPX_PREFIX=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+{version}: V0.9.10 (AGAS: V3.0), Git: 8a99361e2696cf8b2de903f3fc6b05dcad613979
+{boost}: V1.56.0
+{build-type}: release
+{date}: Mar 31 2015 03:39:25
+{platform}: linux
+{compiler}: Intel C++ C++0x mode version 1500
+{stdlib}: GNU libstdc++ version 20141030
+{what}: Operation not permitted: Operation not permitted
+
+
+{locality-id}: 0
+{function}: 
+{file}: 
+{line}: 0
+{os-thread}: 0, worker-thread#21
+{state}: 
+{auxinfo}: 
+{config}:
+  HPX_HAVE_NATIVE_TLS=ON
+  HPX_HAVE_STACKTRACES=ON
+  HPX_HAVE_COMPRESSION_BZIP2=OFF
+  HPX_HAVE_COMPRESSION_SNAPPY=OFF
+  HPX_HAVE_COMPRESSION_ZLIB=OFF
+  HPX_HAVE_PARCEL_COALESCING=ON
+  HPX_PARCELPORT_TCP=OFF
+  HPX_PARCELPORT_MPI=ON (MPICH V3.1.2, MPI V3.0)
+  HPX_PARCELPORT_IPC=OFF
+  HPX_PARCELPORT_IBVERBS=OFF
+  HPX_HAVE_VERIFY_LOCKS=OFF
+  HPX_HAVE_HWLOC=ON
+  HPX_HAVE_ITTNOTIFY=OFF
+  HPX_RUN_MAIN_EVERYWHERE=OFF
+  HPX_LIMIT=5
+  HPX_PARCEL_MAX_CONNECTIONS=512
+  HPX_PARCEL_MAX_CONNECTIONS_PER_LOCALITY=4
+  HPX_INITIAL_AGAS_LOCAL_CACHE_SIZE=256
+  HPX_AGAS_LOCAL_CACHE_SIZE_PER_THREAD=32
+  HPX_PREFIX (configured)=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+  HPX_PREFIX=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+{version}: V0.9.10 (AGAS: V3.0), Git: 8a99361e2696cf8b2de903f3fc6b05dcad613979
+{boost}: V1.56.0
+{build-type}: release
+{date}: Mar 31 2015 03:39:25
+{platform}: linux
+{compiler}: Intel C++ C++0x mode version 1500
+{stdlib}: GNU libstdc++ version 20141030
+{what}: Operation not permitted: Operation not permitted
+
+_pmiu_daemon(SIGCHLD): [NID 05850] [c6-3c1s6n2] [Thu Apr 23 12:53:54 2015] PE RANK 27 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05836] [c6-3c1s3n0] [Thu Apr 23 12:53:54 2015] PE RANK 13 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05834] [c6-3c1s2n2] [Thu Apr 23 12:53:54 2015] PE RANK 11 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05841] [c6-3c1s4n1] [Thu Apr 23 12:53:54 2015] PE RANK 18 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05837] [c6-3c1s3n1] [Thu Apr 23 12:53:54 2015] PE RANK 14 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05833] [c6-3c1s2n1] [Thu Apr 23 12:53:54 2015] PE RANK 10 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05844] [c6-3c1s5n0] [Thu Apr 23 12:53:54 2015] PE RANK 21 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05843] [c6-3c1s4n3] [Thu Apr 23 12:53:54 2015] PE RANK 20 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05826] [c6-3c1s0n2] [Thu Apr 23 12:53:54 2015] PE RANK 7 exit signal Aborted
+[NID 05850] 2015-04-23 12:53:54 Apid 11965855: initiated application termination
+_pmiu_daemon(SIGCHLD): [NID 05825] [c6-3c1s0n1] [Thu Apr 23 12:53:54 2015] PE RANK 6 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05840] [c6-3c1s4n0] [Thu Apr 23 12:53:54 2015] PE RANK 17 exit signal Aborted
+
+{os-thread}: worker-thread#7
+{config}:
+  HPX_HAVE_NATIVE_TLS=ON
+  HPX_HAVE_STACKTRACES=ON
+  HPX_HAVE_COMPRESSION_BZIP2=OFF
+  HPX_HAVE_COMPRESSION_SNAPPY=OFF
+  HPX_HAVE_COMPRESSION_ZLIB=OFF
+  HPX_HAVE_PARCEL_COALESCING=ON
+  HPX_PARCELPORT_TCP=OFF
+  HPX_PARCELPORT_MPI=ON (MPICH V3.1.2, MPI V3.0)
+  HPX_PARCELPORT_IPC=OFF
+  HPX_PARCELPORT_IBVERBS=OFF
+  HPX_HAVE_VERIFY_LOCKS=OFF
+  HPX_HAVE_HWLOC=ON
+  HPX_HAVE_ITTNOTIFY=OFF
+  HPX_RUN_MAIN_EVERYWHERE=OFF
+  HPX_LIMIT=5
+  HPX_PARCEL_MAX_CONNECTIONS=512
+  HPX_PARCEL_MAX_CONNECTIONS_PER_LOCALITY=4
+  HPX_INITIAL_AGAS_LOCAL_CACHE_SIZE=256
+  HPX_AGAS_LOCAL_CACHE_SIZE_PER_THREAD=32
+  HPX_PREFIX (configured)=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+  HPX_PREFIX=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+{version}: V0.9.10 (AGAS: V3.0), Git: 8a99361e2696cf8b2de903f3fc6b05dcad613979
+{boost}: V1.56.0
+{build-type}: release
+{date}: Mar 31 2015 03:39:25
+{platform}: linux
+{compiler}: Intel C++ C++0x mode version 1500
+{stdlib}: GNU libstdc++ version 20141030
+{what}: boost unique_lock doesn't own the mutex: Operation not permitted
+
+
+{os-thread}: worker-thread#23
+{config}:
+  HPX_HAVE_NATIVE_TLS=ON
+  HPX_HAVE_STACKTRACES=ON
+  HPX_HAVE_COMPRESSION_BZIP2=OFF
+  HPX_HAVE_COMPRESSION_SNAPPY=OFF
+  HPX_HAVE_COMPRESSION_ZLIB=OFF
+  HPX_HAVE_PARCEL_COALESCING=ON
+  HPX_PARCELPORT_TCP=OFF
+  HPX_PARCELPORT_MPI=ON (MPICH V3.1.2, MPI V3.0)
+  HPX_PARCELPORT_IPC=OFF
+  HPX_PARCELPORT_IBVERBS=OFF
+  HPX_HAVE_VERIFY_LOCKS=OFF
+  HPX_HAVE_HWLOC=ON
+  HPX_HAVE_ITTNOTIFY=OFF
+  HPX_RUN_MAIN_EVERYWHERE=OFF
+  HPX_LIMIT=5
+  HPX_PARCEL_MAX_CONNECTIONS=512
+  HPX_PARCEL_MAX_CONNECTIONS_PER_LOCALITY=4
+  HPX_INITIAL_AGAS_LOCAL_CACHE_SIZE=256
+  HPX_AGAS_LOCAL_CACHE_SIZE_PER_THREAD=32
+  HPX_PREFIX (configured)=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+  HPX_PREFIX=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+{version}: V0.9.10 (AGAS: V3.0), Git: 8a99361e2696cf8b2de903f3fc6b05dcad613979
+{boost}: V1.56.0
+{build-type}: release
+{date}: Mar 31 2015 03:39:25
+{platform}: linux
+{compiler}: Intel C++ C++0x mode version 1500
+{stdlib}: GNU libstdc++ version 20141030
+{what}: boost unique_lock doesn't own the mutex: Operation not permitted
+
+
+{os-thread}: worker-thread#6
+{config}:
+  HPX_HAVE_NATIVE_TLS=ON
+  HPX_HAVE_STACKTRACES=ON
+  HPX_HAVE_COMPRESSION_BZIP2=OFF
+  HPX_HAVE_COMPRESSION_SNAPPY=OFF
+  HPX_HAVE_COMPRESSION_ZLIB=OFF
+  HPX_HAVE_PARCEL_COALESCING=ON
+  HPX_PARCELPORT_TCP=OFF
+  HPX_PARCELPORT_MPI=ON (MPICH V3.1.2, MPI V3.0)
+  HPX_PARCELPORT_IPC=OFF
+  HPX_PARCELPORT_IBVERBS=OFF
+  HPX_HAVE_VERIFY_LOCKS=OFF
+  HPX_HAVE_HWLOC=ON
+  HPX_HAVE_ITTNOTIFY=OFF
+  HPX_RUN_MAIN_EVERYWHERE=OFF
+  HPX_LIMIT=5
+  HPX_PARCEL_MAX_CONNECTIONS=512
+  HPX_PARCEL_MAX_CONNECTIONS_PER_LOCALITY=4
+  HPX_INITIAL_AGAS_LOCAL_CACHE_SIZE=256
+  HPX_AGAS_LOCAL_CACHE_SIZE_PER_THREAD=32
+  HPX_PREFIX (configured)=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+  HPX_PREFIX=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+{version}: V0.9.10 (AGAS: V3.0), Git: 8a99361e2696cf8b2de903f3fc6b05dcad613979
+{boost}: V1.56.0
+{build-type}: release
+{date}: Mar 31 2015 03:39:25
+{platform}: linux
+{compiler}: Intel C++ C++0x mode version 1500
+{stdlib}: GNU libstdc++ version 20141030
+{what}: boost unique_lock doesn't own the mutex: Operation not permitted
+
+
+{os-thread}: worker-thread#17
+{config}:
+  HPX_HAVE_NATIVE_TLS=ON
+  HPX_HAVE_STACKTRACES=ON
+  HPX_HAVE_COMPRESSION_BZIP2=OFF
+  HPX_HAVE_COMPRESSION_SNAPPY=OFF
+  HPX_HAVE_COMPRESSION_ZLIB=OFF
+  HPX_HAVE_PARCEL_COALESCING=ON
+  HPX_PARCELPORT_TCP=OFF
+  HPX_PARCELPORT_MPI=ON (MPICH V3.1.2, MPI V3.0)
+  HPX_PARCELPORT_IPC=OFF
+  HPX_PARCELPORT_IBVERBS=OFF
+  HPX_HAVE_VERIFY_LOCKS=OFF
+  HPX_HAVE_HWLOC=ON
+  HPX_HAVE_ITTNOTIFY=OFF
+  HPX_RUN_MAIN_EVERYWHERE=OFF
+  HPX_LIMIT=5
+  HPX_PARCEL_MAX_CONNECTIONS=512
+  HPX_PARCEL_MAX_CONNECTIONS_PER_LOCALITY=4
+  HPX_INITIAL_AGAS_LOCAL_CACHE_SIZE=256
+  HPX_AGAS_LOCAL_CACHE_SIZE_PER_THREAD=32
+  HPX_PREFIX (configured)=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+  HPX_PREFIX=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+{version}: V0.9.10 (AGAS: V3.0), Git: 8a99361e2696cf8b2de903f3fc6b05dcad613979
+{boost}: V1.56.0
+{build-type}: release
+{date}: Mar 31 2015 03:39:25
+{platform}: linux
+{compiler}: Intel C++ C++0x mode version 1500
+{stdlib}: GNU libstdc++ version 20141030
+{what}: boost unique_lock doesn't own the mutex: Operation not permitted
+
+
+{os-thread}: worker-thread#10
+{config}:
+  HPX_HAVE_NATIVE_TLS=ON
+  HPX_HAVE_STACKTRACES=ON
+  HPX_HAVE_COMPRESSION_BZIP2=OFF
+  HPX_HAVE_COMPRESSION_SNAPPY=OFF
+  HPX_HAVE_COMPRESSION_ZLIB=OFF
+  HPX_HAVE_PARCEL_COALESCING=ON
+  HPX_PARCELPORT_TCP=OFF
+  HPX_PARCELPORT_MPI=ON (MPICH V3.1.2, MPI V3.0)
+  HPX_PARCELPORT_IPC=OFF
+  HPX_PARCELPORT_IBVERBS=OFF
+  HPX_HAVE_VERIFY_LOCKS=OFF
+  HPX_HAVE_HWLOC=ON
+  HPX_HAVE_ITTNOTIFY=OFF
+  HPX_RUN_MAIN_EVERYWHERE=OFF
+  HPX_LIMIT=5
+  HPX_PARCEL_MAX_CONNECTIONS=512
+  HPX_PARCEL_MAX_CONNECTIONS_PER_LOCALITY=4
+  HPX_INITIAL_AGAS_LOCAL_CACHE_SIZE=256
+  HPX_AGAS_LOCAL_CACHE_SIZE_PER_THREAD=32
+  HPX_PREFIX (configured)=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+  HPX_PREFIX=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+{version}: V0.9.10 (AGAS: V3.0), Git: 8a99361e2696cf8b2de903f3fc6b05dcad613979
+{boost}: V1.56.0
+{build-type}: release
+{date}: Mar 31 2015 03:39:25
+{platform}: linux
+{compiler}: Intel C++ C++0x mode version 1500
+{stdlib}: GNU libstdc++ version 20141030
+{what}: boost unique_lock doesn't own the mutex: Operation not permitted
+
+
+{os-thread}: worker-thread#4
+{config}:
+  HPX_HAVE_NATIVE_TLS=ON
+  HPX_HAVE_STACKTRACES=ON
+  HPX_HAVE_COMPRESSION_BZIP2=OFF
+  HPX_HAVE_COMPRESSION_SNAPPY=OFF
+  HPX_HAVE_COMPRESSION_ZLIB=OFF
+  HPX_HAVE_PARCEL_COALESCING=ON
+  HPX_PARCELPORT_TCP=OFF
+  HPX_PARCELPORT_MPI=ON (MPICH V3.1.2, MPI V3.0)
+  HPX_PARCELPORT_IPC=OFF
+  HPX_PARCELPORT_IBVERBS=OFF
+  HPX_HAVE_VERIFY_LOCKS=OFF
+  HPX_HAVE_HWLOC=ON
+  HPX_HAVE_ITTNOTIFY=OFF
+  HPX_RUN_MAIN_EVERYWHERE=OFF
+  HPX_LIMIT=5
+  HPX_PARCEL_MAX_CONNECTIONS=512
+  HPX_PARCEL_MAX_CONNECTIONS_PER_LOCALITY=4
+  HPX_INITIAL_AGAS_LOCAL_CACHE_SIZE=256
+  HPX_AGAS_LOCAL_CACHE_SIZE_PER_THREAD=32
+  HPX_PREFIX (configured)=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+  HPX_PREFIX=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+{version}: V0.9.10 (AGAS: V3.0), Git: 8a99361e2696cf8b2de903f3fc6b05dcad613979
+{boost}: V1.56.0
+{build-type}: release
+{date}: Mar 31 2015 03:39:25
+{platform}: linux
+{compiler}: Intel C++ C++0x mode version 1500
+{stdlib}: GNU libstdc++ version 20141030
+{what}: boost unique_lock doesn't own the mutex: Operation not permitted
+
+
+{locality-id}: 0
+{function}: 
+{file}: 
+{line}: 0
+{os-thread}: 0, worker-thread#11
+{state}: 
+{auxinfo}: 
+{config}:
+  HPX_HAVE_NATIVE_TLS=ON
+  HPX_HAVE_STACKTRACES=ON
+  HPX_HAVE_COMPRESSION_BZIP2=OFF
+  HPX_HAVE_COMPRESSION_SNAPPY=OFF
+  HPX_HAVE_COMPRESSION_ZLIB=OFF
+  HPX_HAVE_PARCEL_COALESCING=ON
+  HPX_PARCELPORT_TCP=OFF
+  HPX_PARCELPORT_MPI=ON (MPICH V3.1.2, MPI V3.0)
+  HPX_PARCELPORT_IPC=OFF
+  HPX_PARCELPORT_IBVERBS=OFF
+  HPX_HAVE_VERIFY_LOCKS=OFF
+  HPX_HAVE_HWLOC=ON
+  HPX_HAVE_ITTNOTIFY=OFF
+  HPX_RUN_MAIN_EVERYWHERE=OFF
+  HPX_LIMIT=5
+  HPX_PARCEL_MAX_CONNECTIONS=512
+  HPX_PARCEL_MAX_CONNECTIONS_PER_LOCALITY=4
+  HPX_INITIAL_AGAS_LOCAL_CACHE_SIZE=256
+  HPX_AGAS_LOCAL_CACHE_SIZE_PER_THREAD=32
+  HPX_PREFIX (configured)=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+  HPX_PREFIX=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+{version}: V0.9.10 (AGAS: V3.0), Git: 8a99361e2696cf8b2de903f3fc6b05dcad613979
+{boost}: V1.56.0
+{build-type}: release
+{date}: Mar 31 2015 03:39:25
+{platform}: linux
+{compiler}: Intel C++ C++0x mode version 1500
+{stdlib}: GNU libstdc++ version 20141030
+{what}: Operation not permitted: Operation not permitted
+
+
+{locality-id}: 0
+{function}: 
+{file}: 
+{line}: 0
+{os-thread}: 0, worker-thread#21
+{state}: 
+{auxinfo}: 
+{config}:
+  HPX_HAVE_NATIVE_TLS=ON
+  HPX_HAVE_STACKTRACES=ON
+  HPX_HAVE_COMPRESSION_BZIP2=OFF
+  HPX_HAVE_COMPRESSION_SNAPPY=OFF
+  HPX_HAVE_COMPRESSION_ZLIB=OFF
+  HPX_HAVE_PARCEL_COALESCING=ON
+  HPX_PARCELPORT_TCP=OFF
+  HPX_PARCELPORT_MPI=ON (MPICH V3.1.2, MPI V3.0)
+  HPX_PARCELPORT_IPC=OFF
+  HPX_PARCELPORT_IBVERBS=OFF
+  HPX_HAVE_VERIFY_LOCKS=OFF
+  HPX_HAVE_HWLOC=ON
+  HPX_HAVE_ITTNOTIFY=OFF
+  HPX_RUN_MAIN_EVERYWHERE=OFF
+  HPX_LIMIT=5
+  HPX_PARCEL_MAX_CONNECTIONS=512
+  HPX_PARCEL_MAX_CONNECTIONS_PER_LOCALITY=4
+  HPX_INITIAL_AGAS_LOCAL_CACHE_SIZE=256
+  HPX_AGAS_LOCAL_CACHE_SIZE_PER_THREAD=32
+  HPX_PREFIX (configured)=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+  HPX_PREFIX=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+{version}: V0.9.10 (AGAS: V3.0), Git: 8a99361e2696cf8b2de903f3fc6b05dcad613979
+{boost}: V1.56.0
+{build-type}: release
+{date}: Mar 31 2015 03:39:25
+{platform}: linux
+{compiler}: Intel C++ C++0x mode version 1500
+{stdlib}: GNU libstdc++ version 20141030
+{what}: Operation not permitted: Operation not permitted
+
+
+{locality-id}: 0
+{function}: 
+{file}: 
+{line}: 0
+{os-thread}: 0, worker-thread#14
+{state}: 
+{auxinfo}: 
+{config}:
+  HPX_HAVE_NATIVE_TLS=ON
+  HPX_HAVE_STACKTRACES=ON
+  HPX_HAVE_COMPRESSION_BZIP2=OFF
+  HPX_HAVE_COMPRESSION_SNAPPY=OFF
+  HPX_HAVE_COMPRESSION_ZLIB=OFF
+  HPX_HAVE_PARCEL_COALESCING=ON
+  HPX_PARCELPORT_TCP=OFF
+  HPX_PARCELPORT_MPI=ON (MPICH V3.1.2, MPI V3.0)
+  HPX_PARCELPORT_IPC=OFF
+  HPX_PARCELPORT_IBVERBS=OFF
+  HPX_HAVE_VERIFY_LOCKS=OFF
+  HPX_HAVE_HWLOC=ON
+  HPX_HAVE_ITTNOTIFY=OFF
+  HPX_RUN_MAIN_EVERYWHERE=OFF
+  HPX_LIMIT=5
+  HPX_PARCEL_MAX_CONNECTIONS=512
+  HPX_PARCEL_MAX_CONNECTIONS_PER_LOCALITY=4
+  HPX_INITIAL_AGAS_LOCAL_CACHE_SIZE=256
+  HPX_AGAS_LOCAL_CACHE_SIZE_PER_THREAD=32
+  HPX_PREFIX (configured)=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+  HPX_PREFIX=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+{version}: V0.9.10 (AGAS: V3.0), Git: 8a99361e2696cf8b2de903f3fc6b05dcad613979
+{boost}: V1.56.0
+{build-type}: release
+{date}: Mar 31 2015 03:39:25
+{platform}: linux
+{compiler}: Intel C++ C++0x mode version 1500
+{stdlib}: GNU libstdc++ version 20141030
+{what}: Operation not permitted: Operation not permitted
+
+
+{locality-id}: 0
+{function}: 
+{file}: 
+{line}: 0
+{os-thread}: 0, worker-thread#3
+{state}: 
+{auxinfo}: 
+{config}:
+  HPX_HAVE_NATIVE_TLS=ON
+  HPX_HAVE_STACKTRACES=ON
+  HPX_HAVE_COMPRESSION_BZIP2=OFF
+  HPX_HAVE_COMPRESSION_SNAPPY=OFF
+  HPX_HAVE_COMPRESSION_ZLIB=OFF
+  HPX_HAVE_PARCEL_COALESCING=ON
+  HPX_PARCELPORT_TCP=OFF
+  HPX_PARCELPORT_MPI=ON (MPICH V3.1.2, MPI V3.0)
+  HPX_PARCELPORT_IPC=OFF
+  HPX_PARCELPORT_IBVERBS=OFF
+  HPX_HAVE_VERIFY_LOCKS=OFF
+  HPX_HAVE_HWLOC=ON
+  HPX_HAVE_ITTNOTIFY=OFF
+  HPX_RUN_MAIN_EVERYWHERE=OFF
+  HPX_LIMIT=5
+  HPX_PARCEL_MAX_CONNECTIONS=512
+  HPX_PARCEL_MAX_CONNECTIONS_PER_LOCALITY=4
+  HPX_INITIAL_AGAS_LOCAL_CACHE_SIZE=256
+  HPX_AGAS_LOCAL_CACHE_SIZE_PER_THREAD=32
+  HPX_PREFIX (configured)=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+  HPX_PREFIX=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+{version}: V0.9.10 (AGAS: V3.0), Git: 8a99361e2696cf8b2de903f3fc6b05dcad613979
+{boost}: V1.56.0
+{build-type}: release
+{date}: Mar 31 2015 03:39:25
+{platform}: linux
+{compiler}: Intel C++ C++0x mode version 1500
+{stdlib}: GNU libstdc++ version 20141030
+{what}: Operation not permitted: Operation not permitted
+
+
+{locality-id}: 0
+{function}: 
+{file}: 
+{line}: 0
+{os-thread}: 0, worker-thread#15
+{state}: 
+{auxinfo}: 
+{config}:
+  HPX_HAVE_NATIVE_TLS=ON
+  HPX_HAVE_STACKTRACES=ON
+  HPX_HAVE_COMPRESSION_BZIP2=OFF
+  HPX_HAVE_COMPRESSION_SNAPPY=OFF
+  HPX_HAVE_COMPRESSION_ZLIB=OFF
+  HPX_HAVE_PARCEL_COALESCING=ON
+  HPX_PARCELPORT_TCP=OFF
+  HPX_PARCELPORT_MPI=ON (MPICH V3.1.2, MPI V3.0)
+  HPX_PARCELPORT_IPC=OFF
+  HPX_PARCELPORT_IBVERBS=OFF
+  HPX_HAVE_VERIFY_LOCKS=OFF
+  HPX_HAVE_HWLOC=ON
+  HPX_HAVE_ITTNOTIFY=OFF
+  HPX_RUN_MAIN_EVERYWHERE=OFF
+  HPX_LIMIT=5
+  HPX_PARCEL_MAX_CONNECTIONS=512
+  HPX_PARCEL_MAX_CONNECTIONS_PER_LOCALITY=4
+  HPX_INITIAL_AGAS_LOCAL_CACHE_SIZE=256
+  HPX_AGAS_LOCAL_CACHE_SIZE_PER_THREAD=32
+  HPX_PREFIX (configured)=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+  HPX_PREFIX=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+{version}: V0.9.10 (AGAS: V3.0), Git: 8a99361e2696cf8b2de903f3fc6b05dcad613979
+{boost}: V1.56.0
+{build-type}: release
+{date}: Mar 31 2015 03:39:25
+{platform}: linux
+{compiler}: Intel C++ C++0x mode version 1500
+{stdlib}: GNU libstdc++ version 20141030
+{what}: Operation not permitted: Operation not permitted
+
+
+{locality-id}: 0
+{function}: 
+{file}: 
+{line}: 0
+{os-thread}: 0, worker-thread#2
+{state}: 
+{auxinfo}: 
+{config}:
+  HPX_HAVE_NATIVE_TLS=ON
+  HPX_HAVE_STACKTRACES=ON
+  HPX_HAVE_COMPRESSION_BZIP2=OFF
+  HPX_HAVE_COMPRESSION_SNAPPY=OFF
+  HPX_HAVE_COMPRESSION_ZLIB=OFF
+  HPX_HAVE_PARCEL_COALESCING=ON
+  HPX_PARCELPORT_TCP=OFF
+  HPX_PARCELPORT_MPI=ON (MPICH V3.1.2, MPI V3.0)
+  HPX_PARCELPORT_IPC=OFF
+  HPX_PARCELPORT_IBVERBS=OFF
+  HPX_HAVE_VERIFY_LOCKS=OFF
+  HPX_HAVE_HWLOC=ON
+  HPX_HAVE_ITTNOTIFY=OFF
+  HPX_RUN_MAIN_EVERYWHERE=OFF
+  HPX_LIMIT=5
+  HPX_PARCEL_MAX_CONNECTIONS=512
+  HPX_PARCEL_MAX_CONNECTIONS_PER_LOCALITY=4
+  HPX_INITIAL_AGAS_LOCAL_CACHE_SIZE=256
+  HPX_AGAS_LOCAL_CACHE_SIZE_PER_THREAD=32
+  HPX_PREFIX (configured)=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+  HPX_PREFIX=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+{version}: V0.9.10 (AGAS: V3.0), Git: 8a99361e2696cf8b2de903f3fc6b05dcad613979
+{boost}: V1.56.0
+{build-type}: release
+{date}: Mar 31 2015 03:39:25
+{platform}: linux
+{compiler}: Intel C++ C++0x mode version 1500
+{stdlib}: GNU libstdc++ version 20141030
+{what}: Operation not permitted: Operation not permitted
+
+_pmiu_daemon(SIGCHLD): [NID 05844] [c6-3c1s5n0] [Thu Apr 23 12:54:23 2015] PE RANK 21 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05836] [c6-3c1s3n0] [Thu Apr 23 12:54:23 2015] PE RANK 13 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05845] [c6-3c1s5n1] [Thu Apr 23 12:54:23 2015] PE RANK 22 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05821] [c6-3c0s15n1] [Thu Apr 23 12:54:23 2015] PE RANK 2 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05849] [c6-3c1s6n1] [Thu Apr 23 12:54:23 2015] PE RANK 26 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05838] [c6-3c1s3n2] [Thu Apr 23 12:54:23 2015] PE RANK 15 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05827] [c6-3c1s0n3] [Thu Apr 23 12:54:23 2015] PE RANK 8 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05842] [c6-3c1s4n2] [Thu Apr 23 12:54:23 2015] PE RANK 19 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05823] [c6-3c0s15n3] [Thu Apr 23 12:54:23 2015] PE RANK 4 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05909] [c6-3c2s5n1] [Thu Apr 23 12:54:23 2015] PE RANK 29 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05833] [c6-3c1s2n1] [Thu Apr 23 12:54:23 2015] PE RANK 10 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05847] [c6-3c1s5n3] [Thu Apr 23 12:54:23 2015] PE RANK 24 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05825] [c6-3c1s0n1] [Thu Apr 23 12:54:23 2015] PE RANK 6 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05846] [c6-3c1s5n2] [Thu Apr 23 12:54:23 2015] PE RANK 23 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05850] [c6-3c1s6n2] [Thu Apr 23 12:54:23 2015] PE RANK 27 exit signal Aborted
+[NID 05845] 2015-04-23 12:54:23 Apid 11965862: initiated application termination
+_pmiu_daemon(SIGCHLD): [NID 05834] [c6-3c1s2n2] [Thu Apr 23 12:54:23 2015] PE RANK 11 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05824] [c6-3c1s0n0] [Thu Apr 23 12:54:23 2015] PE RANK 5 exit signal Aborted
+
+{os-thread}: worker-thread#0
+{config}:
+  HPX_HAVE_NATIVE_TLS=ON
+  HPX_HAVE_STACKTRACES=ON
+  HPX_HAVE_COMPRESSION_BZIP2=OFF
+  HPX_HAVE_COMPRESSION_SNAPPY=OFF
+  HPX_HAVE_COMPRESSION_ZLIB=OFF
+  HPX_HAVE_PARCEL_COALESCING=ON
+  HPX_PARCELPORT_TCP=OFF
+  HPX_PARCELPORT_MPI=ON (MPICH V3.1.2, MPI V3.0)
+  HPX_PARCELPORT_IPC=OFF
+  HPX_PARCELPORT_IBVERBS=OFF
+  HPX_HAVE_VERIFY_LOCKS=OFF
+  HPX_HAVE_HWLOC=ON
+  HPX_HAVE_ITTNOTIFY=OFF
+  HPX_RUN_MAIN_EVERYWHERE=OFF
+  HPX_LIMIT=5
+  HPX_PARCEL_MAX_CONNECTIONS=512
+  HPX_PARCEL_MAX_CONNECTIONS_PER_LOCALITY=4
+  HPX_INITIAL_AGAS_LOCAL_CACHE_SIZE=256
+  HPX_AGAS_LOCAL_CACHE_SIZE_PER_THREAD=32
+  HPX_PREFIX (configured)=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+  HPX_PREFIX=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+{version}: V0.9.10 (AGAS: V3.0), Git: 8a99361e2696cf8b2de903f3fc6b05dcad613979
+{boost}: V1.56.0
+{build-type}: release
+{date}: Mar 31 2015 03:39:25
+{platform}: linux
+{compiler}: Intel C++ C++0x mode version 1500
+{stdlib}: GNU libstdc++ version 20141030
+{what}: boost unique_lock doesn't own the mutex: Operation not permitted
+
+
+{os-thread}: worker-thread#9
+{config}:
+  HPX_HAVE_NATIVE_TLS=ON
+  HPX_HAVE_STACKTRACES=ON
+  HPX_HAVE_COMPRESSION_BZIP2=OFF
+  HPX_HAVE_COMPRESSION_SNAPPY=OFF
+  HPX_HAVE_COMPRESSION_ZLIB=OFF
+  HPX_HAVE_PARCEL_COALESCING=ON
+  HPX_PARCELPORT_TCP=OFF
+  HPX_PARCELPORT_MPI=ON (MPICH V3.1.2, MPI V3.0)
+  HPX_PARCELPORT_IPC=OFF
+  HPX_PARCELPORT_IBVERBS=OFF
+  HPX_HAVE_VERIFY_LOCKS=OFF
+  HPX_HAVE_HWLOC=ON
+  HPX_HAVE_ITTNOTIFY=OFF
+  HPX_RUN_MAIN_EVERYWHERE=OFF
+  HPX_LIMIT=5
+  HPX_PARCEL_MAX_CONNECTIONS=512
+  HPX_PARCEL_MAX_CONNECTIONS_PER_LOCALITY=4
+  HPX_INITIAL_AGAS_LOCAL_CACHE_SIZE=256
+  HPX_AGAS_LOCAL_CACHE_SIZE_PER_THREAD=32
+  HPX_PREFIX (configured)=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+  HPX_PREFIX=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+{version}: V0.9.10 (AGAS: V3.0), Git: 8a99361e2696cf8b2de903f3fc6b05dcad613979
+{boost}: V1.56.0
+{build-type}: release
+{date}: Mar 31 2015 03:39:25
+{platform}: linux
+{compiler}: Intel C++ C++0x mode version 1500
+{stdlib}: GNU libstdc++ version 20141030
+{what}: boost unique_lock doesn't own the mutex: Operation not permitted
+
+
+{locality-id}: 0
+{function}: 
+{file}: 
+{line}: 0
+{os-thread}: 0, worker-thread#11
+{state}: 
+{auxinfo}: 
+{config}:
+  HPX_HAVE_NATIVE_TLS=ON
+  HPX_HAVE_STACKTRACES=ON
+  HPX_HAVE_COMPRESSION_BZIP2=OFF
+  HPX_HAVE_COMPRESSION_SNAPPY=OFF
+  HPX_HAVE_COMPRESSION_ZLIB=OFF
+  HPX_HAVE_PARCEL_COALESCING=ON
+  HPX_PARCELPORT_TCP=OFF
+  HPX_PARCELPORT_MPI=ON (MPICH V3.1.2, MPI V3.0)
+  HPX_PARCELPORT_IPC=OFF
+  HPX_PARCELPORT_IBVERBS=OFF
+  HPX_HAVE_VERIFY_LOCKS=OFF
+  HPX_HAVE_HWLOC=ON
+  HPX_HAVE_ITTNOTIFY=OFF
+  HPX_RUN_MAIN_EVERYWHERE=OFF
+  HPX_LIMIT=5
+  HPX_PARCEL_MAX_CONNECTIONS=512
+  HPX_PARCEL_MAX_CONNECTIONS_PER_LOCALITY=4
+  HPX_INITIAL_AGAS_LOCAL_CACHE_SIZE=256
+  HPX_AGAS_LOCAL_CACHE_SIZE_PER_THREAD=32
+  HPX_PREFIX (configured)=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+  HPX_PREFIX=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+{version}: V0.9.10 (AGAS: V3.0), Git: 8a99361e2696cf8b2de903f3fc6b05dcad613979
+{boost}: V1.56.0
+{build-type}: release
+{date}: Mar 31 2015 03:39:25
+{platform}: linux
+{compiler}: Intel C++ C++0x mode version 1500
+{stdlib}: GNU libstdc++ version 20141030
+{what}: Operation not permitted: Operation not permitted
+
+
+{locality-id}: 0
+{function}: 
+{file}: 
+{line}: 0
+{os-thread}: 0, worker-thread#23
+{state}: 
+{auxinfo}: 
+{config}:
+  HPX_HAVE_NATIVE_TLS=ON
+  HPX_HAVE_STACKTRACES=ON
+  HPX_HAVE_COMPRESSION_BZIP2=OFF
+  HPX_HAVE_COMPRESSION_SNAPPY=OFF
+  HPX_HAVE_COMPRESSION_ZLIB=OFF
+  HPX_HAVE_PARCEL_COALESCING=ON
+  HPX_PARCELPORT_TCP=OFF
+  HPX_PARCELPORT_MPI=ON (MPICH V3.1.2, MPI V3.0)
+  HPX_PARCELPORT_IPC=OFF
+  HPX_PARCELPORT_IBVERBS=OFF
+  HPX_HAVE_VERIFY_LOCKS=OFF
+  HPX_HAVE_HWLOC=ON
+  HPX_HAVE_ITTNOTIFY=OFF
+  HPX_RUN_MAIN_EVERYWHERE=OFF
+  HPX_LIMIT=5
+  HPX_PARCEL_MAX_CONNECTIONS=512
+  HPX_PARCEL_MAX_CONNECTIONS_PER_LOCALITY=4
+  HPX_INITIAL_AGAS_LOCAL_CACHE_SIZE=256
+  HPX_AGAS_LOCAL_CACHE_SIZE_PER_THREAD=32
+  HPX_PREFIX (configured)=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+  HPX_PREFIX=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+{version}: V0.9.10 (AGAS: V3.0), Git: 8a99361e2696cf8b2de903f3fc6b05dcad613979
+{boost}: V1.56.0
+{build-type}: release
+{date}: Mar 31 2015 03:39:25
+{platform}: linux
+{compiler}: Intel C++ C++0x mode version 1500
+{stdlib}: GNU libstdc++ version 20141030
+{what}: Operation not permitted: Operation not permitted
+
+_pmiu_daemon(SIGCHLD): [NID 05911] [c6-3c2s5n3] [Thu Apr 23 12:54:33 2015] PE RANK 31 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05847] [c6-3c1s5n3] [Thu Apr 23 12:54:33 2015] PE RANK 24 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05834] [c6-3c1s2n2] [Thu Apr 23 12:54:33 2015] PE RANK 11 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05820] [c6-3c0s15n0] [Thu Apr 23 12:54:33 2015] PE RANK 1 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05838] [c6-3c1s3n2] [Thu Apr 23 12:54:33 2015] PE RANK 15 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05910] [c6-3c2s5n2] [Thu Apr 23 12:54:33 2015] PE RANK 30 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05822] [c6-3c0s15n2] [Thu Apr 23 12:54:33 2015] PE RANK 3 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05833] [c6-3c1s2n1] [Thu Apr 23 12:54:33 2015] PE RANK 10 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05823] [c6-3c0s15n3] [Thu Apr 23 12:54:33 2015] PE RANK 4 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05840] [c6-3c1s4n0] [Thu Apr 23 12:54:33 2015] PE RANK 17 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05848] [c6-3c1s6n0] [Thu Apr 23 12:54:33 2015] PE RANK 25 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05824] [c6-3c1s0n0] [Thu Apr 23 12:54:33 2015] PE RANK 5 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05849] [c6-3c1s6n1] [Thu Apr 23 12:54:33 2015] PE RANK 26 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05842] [c6-3c1s4n2] [Thu Apr 23 12:54:33 2015] PE RANK 19 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05844] [c6-3c1s5n0] [Thu Apr 23 12:54:33 2015] PE RANK 21 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05821] [c6-3c0s15n1] [Thu Apr 23 12:54:33 2015] PE RANK 2 exit signal Aborted
+[NID 05820] 2015-04-23 12:54:33 Apid 11965868: initiated application termination
+_pmiu_daemon(SIGCHLD): [NID 05841] [c6-3c1s4n1] [Thu Apr 23 12:54:33 2015] PE RANK 18 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05845] [c6-3c1s5n1] [Thu Apr 23 12:54:33 2015] PE RANK 22 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05837] [c6-3c1s3n1] [Thu Apr 23 12:54:33 2015] PE RANK 14 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05827] [c6-3c1s0n3] [Thu Apr 23 12:54:33 2015] PE RANK 8 exit signal Aborted
+
+{os-thread}: worker-thread#20
+{config}:
+  HPX_HAVE_NATIVE_TLS=ON
+  HPX_HAVE_STACKTRACES=ON
+  HPX_HAVE_COMPRESSION_BZIP2=OFF
+  HPX_HAVE_COMPRESSION_SNAPPY=OFF
+  HPX_HAVE_COMPRESSION_ZLIB=OFF
+  HPX_HAVE_PARCEL_COALESCING=ON
+  HPX_PARCELPORT_TCP=OFF
+  HPX_PARCELPORT_MPI=ON (MPICH V3.1.2, MPI V3.0)
+  HPX_PARCELPORT_IPC=OFF
+  HPX_PARCELPORT_IBVERBS=OFF
+  HPX_HAVE_VERIFY_LOCKS=OFF
+  HPX_HAVE_HWLOC=ON
+  HPX_HAVE_ITTNOTIFY=OFF
+  HPX_RUN_MAIN_EVERYWHERE=OFF
+  HPX_LIMIT=5
+  HPX_PARCEL_MAX_CONNECTIONS=512
+  HPX_PARCEL_MAX_CONNECTIONS_PER_LOCALITY=4
+  HPX_INITIAL_AGAS_LOCAL_CACHE_SIZE=256
+  HPX_AGAS_LOCAL_CACHE_SIZE_PER_THREAD=32
+  HPX_PREFIX (configured)=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+  HPX_PREFIX=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+{version}: V0.9.10 (AGAS: V3.0), Git: 8a99361e2696cf8b2de903f3fc6b05dcad613979
+{boost}: V1.56.0
+{build-type}: release
+{date}: Mar 31 2015 03:39:25
+{platform}: linux
+{compiler}: Intel C++ C++0x mode version 1500
+{stdlib}: GNU libstdc++ version 20141030
+{what}: boost unique_lock doesn't own the mutex: Operation not permitted
+
+
+{locality-id}: 0
+{function}: 
+{file}: 
+{line}: 0
+{os-thread}: 0, worker-thread#10
+{state}: 
+{auxinfo}: 
+{config}:
+  HPX_HAVE_NATIVE_TLS=ON
+  HPX_HAVE_STACKTRACES=ON
+  HPX_HAVE_COMPRESSION_BZIP2=OFF
+  HPX_HAVE_COMPRESSION_SNAPPY=OFF
+  HPX_HAVE_COMPRESSION_ZLIB=OFF
+  HPX_HAVE_PARCEL_COALESCING=ON
+  HPX_PARCELPORT_TCP=OFF
+  HPX_PARCELPORT_MPI=ON (MPICH V3.1.2, MPI V3.0)
+  HPX_PARCELPORT_IPC=OFF
+  HPX_PARCELPORT_IBVERBS=OFF
+  HPX_HAVE_VERIFY_LOCKS=OFF
+  HPX_HAVE_HWLOC=ON
+  HPX_HAVE_ITTNOTIFY=OFF
+  HPX_RUN_MAIN_EVERYWHERE=OFF
+  HPX_LIMIT=5
+  HPX_PARCEL_MAX_CONNECTIONS=512
+  HPX_PARCEL_MAX_CONNECTIONS_PER_LOCALITY=4
+  HPX_INITIAL_AGAS_LOCAL_CACHE_SIZE=256
+  HPX_AGAS_LOCAL_CACHE_SIZE_PER_THREAD=32
+  HPX_PREFIX (configured)=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+  HPX_PREFIX=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+{version}: V0.9.10 (AGAS: V3.0), Git: 8a99361e2696cf8b2de903f3fc6b05dcad613979
+{boost}: V1.56.0
+{build-type}: release
+{date}: Mar 31 2015 03:39:25
+{platform}: linux
+{compiler}: Intel C++ C++0x mode version 1500
+{stdlib}: GNU libstdc++ version 20141030
+{what}: Operation not permitted: Operation not permitted
+
+_pmiu_daemon(SIGCHLD): [NID 05911] [c6-3c2s5n3] [Thu Apr 23 12:54:43 2015] PE RANK 31 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05846] [c6-3c1s5n2] [Thu Apr 23 12:54:43 2015] PE RANK 23 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05843] [c6-3c1s4n3] [Thu Apr 23 12:54:43 2015] PE RANK 20 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05834] [c6-3c1s2n2] [Thu Apr 23 12:54:43 2015] PE RANK 11 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05824] [c6-3c1s0n0] [Thu Apr 23 12:54:43 2015] PE RANK 5 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05910] [c6-3c2s5n2] [Thu Apr 23 12:54:43 2015] PE RANK 30 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05823] [c6-3c0s15n3] [Thu Apr 23 12:54:43 2015] PE RANK 4 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05845] [c6-3c1s5n1] [Thu Apr 23 12:54:43 2015] PE RANK 22 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05833] [c6-3c1s2n1] [Thu Apr 23 12:54:43 2015] PE RANK 10 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05909] [c6-3c2s5n1] [Thu Apr 23 12:54:43 2015] PE RANK 29 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05844] [c6-3c1s5n0] [Thu Apr 23 12:54:43 2015] PE RANK 21 exit signal Aborted
+[NID 05846] 2015-04-23 12:54:43 Apid 11965872: initiated application termination
+_pmiu_daemon(SIGCHLD): [NID 05826] [c6-3c1s0n2] [Thu Apr 23 12:54:43 2015] PE RANK 7 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05849] [c6-3c1s6n1] [Thu Apr 23 12:54:43 2015] PE RANK 26 exit signal Aborted
+
+{os-thread}: worker-thread#0
+{config}:
+  HPX_HAVE_NATIVE_TLS=ON
+  HPX_HAVE_STACKTRACES=ON
+  HPX_HAVE_COMPRESSION_BZIP2=OFF
+  HPX_HAVE_COMPRESSION_SNAPPY=OFF
+  HPX_HAVE_COMPRESSION_ZLIB=OFF
+  HPX_HAVE_PARCEL_COALESCING=ON
+  HPX_PARCELPORT_TCP=OFF
+  HPX_PARCELPORT_MPI=ON (MPICH V3.1.2, MPI V3.0)
+  HPX_PARCELPORT_IPC=OFF
+  HPX_PARCELPORT_IBVERBS=OFF
+  HPX_HAVE_VERIFY_LOCKS=OFF
+  HPX_HAVE_HWLOC=ON
+  HPX_HAVE_ITTNOTIFY=OFF
+  HPX_RUN_MAIN_EVERYWHERE=OFF
+  HPX_LIMIT=5
+  HPX_PARCEL_MAX_CONNECTIONS=512
+  HPX_PARCEL_MAX_CONNECTIONS_PER_LOCALITY=4
+  HPX_INITIAL_AGAS_LOCAL_CACHE_SIZE=256
+  HPX_AGAS_LOCAL_CACHE_SIZE_PER_THREAD=32
+  HPX_PREFIX (configured)=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+  HPX_PREFIX=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+{version}: V0.9.10 (AGAS: V3.0), Git: 8a99361e2696cf8b2de903f3fc6b05dcad613979
+{boost}: V1.56.0
+{build-type}: release
+{date}: Mar 31 2015 03:39:25
+{platform}: linux
+{compiler}: Intel C++ C++0x mode version 1500
+{stdlib}: GNU libstdc++ version 20141030
+{what}: boost unique_lock doesn't own the mutex: Operation not permitted
+
+
+{os-thread}: worker-thread#0
+{config}:
+  HPX_HAVE_NATIVE_TLS=ON
+  HPX_HAVE_STACKTRACES=ON
+  HPX_HAVE_COMPRESSION_BZIP2=OFF
+  HPX_HAVE_COMPRESSION_SNAPPY=OFF
+  HPX_HAVE_COMPRESSION_ZLIB=OFF
+  HPX_HAVE_PARCEL_COALESCING=ON
+  HPX_PARCELPORT_TCP=OFF
+  HPX_PARCELPORT_MPI=ON (MPICH V3.1.2, MPI V3.0)
+  HPX_PARCELPORT_IPC=OFF
+  HPX_PARCELPORT_IBVERBS=OFF
+  HPX_HAVE_VERIFY_LOCKS=OFF
+  HPX_HAVE_HWLOC=ON
+  HPX_HAVE_ITTNOTIFY=OFF
+  HPX_RUN_MAIN_EVERYWHERE=OFF
+  HPX_LIMIT=5
+  HPX_PARCEL_MAX_CONNECTIONS=512
+  HPX_PARCEL_MAX_CONNECTIONS_PER_LOCALITY=4
+  HPX_INITIAL_AGAS_LOCAL_CACHE_SIZE=256
+  HPX_AGAS_LOCAL_CACHE_SIZE_PER_THREAD=32
+  HPX_PREFIX (configured)=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+  HPX_PREFIX=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+{version}: V0.9.10 (AGAS: V3.0), Git: 8a99361e2696cf8b2de903f3fc6b05dcad613979
+{boost}: V1.56.0
+{build-type}: release
+{date}: Mar 31 2015 03:39:25
+{platform}: linux
+{compiler}: Intel C++ C++0x mode version 1500
+{stdlib}: GNU libstdc++ version 20141030
+{what}: boost unique_lock doesn't own the mutex: Operation not permitted
+
+
+{os-thread}: worker-thread#22
+{config}:
+  HPX_HAVE_NATIVE_TLS=ON
+  HPX_HAVE_STACKTRACES=ON
+  HPX_HAVE_COMPRESSION_BZIP2=OFF
+  HPX_HAVE_COMPRESSION_SNAPPY=OFF
+  HPX_HAVE_COMPRESSION_ZLIB=OFF
+  HPX_HAVE_PARCEL_COALESCING=ON
+  HPX_PARCELPORT_TCP=OFF
+  HPX_PARCELPORT_MPI=ON (MPICH V3.1.2, MPI V3.0)
+  HPX_PARCELPORT_IPC=OFF
+  HPX_PARCELPORT_IBVERBS=OFF
+  HPX_HAVE_VERIFY_LOCKS=OFF
+  HPX_HAVE_HWLOC=ON
+  HPX_HAVE_ITTNOTIFY=OFF
+  HPX_RUN_MAIN_EVERYWHERE=OFF
+  HPX_LIMIT=5
+  HPX_PARCEL_MAX_CONNECTIONS=512
+  HPX_PARCEL_MAX_CONNECTIONS_PER_LOCALITY=4
+  HPX_INITIAL_AGAS_LOCAL_CACHE_SIZE=256
+  HPX_AGAS_LOCAL_CACHE_SIZE_PER_THREAD=32
+  HPX_PREFIX (configured)=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+  HPX_PREFIX=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+{version}: V0.9.10 (AGAS: V3.0), Git: 8a99361e2696cf8b2de903f3fc6b05dcad613979
+{boost}: V1.56.0
+{build-type}: release
+{date}: Mar 31 2015 03:39:25
+{platform}: linux
+{compiler}: Intel C++ C++0x mode version 1500
+{stdlib}: GNU libstdc++ version 20141030
+{what}: boost unique_lock doesn't own the mutex: Operation not permitted
+
+
+{os-thread}: worker-thread#18
+{config}:
+  HPX_HAVE_NATIVE_TLS=ON
+  HPX_HAVE_STACKTRACES=ON
+  HPX_HAVE_COMPRESSION_BZIP2=OFF
+  HPX_HAVE_COMPRESSION_SNAPPY=OFF
+  HPX_HAVE_COMPRESSION_ZLIB=OFF
+  HPX_HAVE_PARCEL_COALESCING=ON
+  HPX_PARCELPORT_TCP=OFF
+  HPX_PARCELPORT_MPI=ON (MPICH V3.1.2, MPI V3.0)
+  HPX_PARCELPORT_IPC=OFF
+  HPX_PARCELPORT_IBVERBS=OFF
+  HPX_HAVE_VERIFY_LOCKS=OFF
+  HPX_HAVE_HWLOC=ON
+  HPX_HAVE_ITTNOTIFY=OFF
+  HPX_RUN_MAIN_EVERYWHERE=OFF
+  HPX_LIMIT=5
+  HPX_PARCEL_MAX_CONNECTIONS=512
+  HPX_PARCEL_MAX_CONNECTIONS_PER_LOCALITY=4
+  HPX_INITIAL_AGAS_LOCAL_CACHE_SIZE=256
+  HPX_AGAS_LOCAL_CACHE_SIZE_PER_THREAD=32
+  HPX_PREFIX (configured)=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+  HPX_PREFIX=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+{version}: V0.9.10 (AGAS: V3.0), Git: 8a99361e2696cf8b2de903f3fc6b05dcad613979
+{boost}: V1.56.0
+{build-type}: release
+{date}: Mar 31 2015 03:39:25
+{platform}: linux
+{compiler}: Intel C++ C++0x mode version 1500
+{stdlib}: GNU libstdc++ version 20141030
+{what}: boost unique_lock doesn't own the mutex: Operation not permitted
+
+
+{os-thread}: worker-thread#4
+{config}:
+  HPX_HAVE_NATIVE_TLS=ON
+  HPX_HAVE_STACKTRACES=ON
+  HPX_HAVE_COMPRESSION_BZIP2=OFF
+  HPX_HAVE_COMPRESSION_SNAPPY=OFF
+  HPX_HAVE_COMPRESSION_ZLIB=OFF
+  HPX_HAVE_PARCEL_COALESCING=ON
+  HPX_PARCELPORT_TCP=OFF
+  HPX_PARCELPORT_MPI=ON (MPICH V3.1.2, MPI V3.0)
+  HPX_PARCELPORT_IPC=OFF
+  HPX_PARCELPORT_IBVERBS=OFF
+  HPX_HAVE_VERIFY_LOCKS=OFF
+  HPX_HAVE_HWLOC=ON
+  HPX_HAVE_ITTNOTIFY=OFF
+  HPX_RUN_MAIN_EVERYWHERE=OFF
+  HPX_LIMIT=5
+  HPX_PARCEL_MAX_CONNECTIONS=512
+  HPX_PARCEL_MAX_CONNECTIONS_PER_LOCALITY=4
+  HPX_INITIAL_AGAS_LOCAL_CACHE_SIZE=256
+  HPX_AGAS_LOCAL_CACHE_SIZE_PER_THREAD=32
+  HPX_PREFIX (configured)=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+  HPX_PREFIX=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+{version}: V0.9.10 (AGAS: V3.0), Git: 8a99361e2696cf8b2de903f3fc6b05dcad613979
+{boost}: V1.56.0
+{build-type}: release
+{date}: Mar 31 2015 03:39:25
+{platform}: linux
+{compiler}: Intel C++ C++0x mode version 1500
+{stdlib}: GNU libstdc++ version 20141030
+{what}: boost unique_lock doesn't own the mutex: Operation not permitted
+
+
+{locality-id}: 0
+{function}: 
+{file}: 
+{line}: 0
+{os-thread}: 0, worker-thread#12
+{state}: 
+{auxinfo}: 
+{config}:
+  HPX_HAVE_NATIVE_TLS=ON
+  HPX_HAVE_STACKTRACES=ON
+  HPX_HAVE_COMPRESSION_BZIP2=OFF
+  HPX_HAVE_COMPRESSION_SNAPPY=OFF
+  HPX_HAVE_COMPRESSION_ZLIB=OFF
+  HPX_HAVE_PARCEL_COALESCING=ON
+  HPX_PARCELPORT_TCP=OFF
+  HPX_PARCELPORT_MPI=ON (MPICH V3.1.2, MPI V3.0)
+  HPX_PARCELPORT_IPC=OFF
+  HPX_PARCELPORT_IBVERBS=OFF
+  HPX_HAVE_VERIFY_LOCKS=OFF
+  HPX_HAVE_HWLOC=ON
+  HPX_HAVE_ITTNOTIFY=OFF
+  HPX_RUN_MAIN_EVERYWHERE=OFF
+  HPX_LIMIT=5
+  HPX_PARCEL_MAX_CONNECTIONS=512
+  HPX_PARCEL_MAX_CONNECTIONS_PER_LOCALITY=4
+  HPX_INITIAL_AGAS_LOCAL_CACHE_SIZE=256
+  HPX_AGAS_LOCAL_CACHE_SIZE_PER_THREAD=32
+  HPX_PREFIX (configured)=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+  HPX_PREFIX=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+{version}: V0.9.10 (AGAS: V3.0), Git: 8a99361e2696cf8b2de903f3fc6b05dcad613979
+{boost}: V1.56.0
+{build-type}: release
+{date}: Mar 31 2015 03:39:25
+{platform}: linux
+{compiler}: Intel C++ C++0x mode version 1500
+{stdlib}: GNU libstdc++ version 20141030
+{what}: Operation not permitted: Operation not permitted
+
+
+{locality-id}: 0
+{function}: 
+{file}: 
+{line}: 0
+{os-thread}: 0, worker-thread#15
+{state}: 
+{auxinfo}: 
+{config}:
+  HPX_HAVE_NATIVE_TLS=ON
+  HPX_HAVE_STACKTRACES=ON
+  HPX_HAVE_COMPRESSION_BZIP2=OFF
+  HPX_HAVE_COMPRESSION_SNAPPY=OFF
+  HPX_HAVE_COMPRESSION_ZLIB=OFF
+  HPX_HAVE_PARCEL_COALESCING=ON
+  HPX_PARCELPORT_TCP=OFF
+  HPX_PARCELPORT_MPI=ON (MPICH V3.1.2, MPI V3.0)
+  HPX_PARCELPORT_IPC=OFF
+  HPX_PARCELPORT_IBVERBS=OFF
+  HPX_HAVE_VERIFY_LOCKS=OFF
+  HPX_HAVE_HWLOC=ON
+  HPX_HAVE_ITTNOTIFY=OFF
+  HPX_RUN_MAIN_EVERYWHERE=OFF
+  HPX_LIMIT=5
+  HPX_PARCEL_MAX_CONNECTIONS=512
+  HPX_PARCEL_MAX_CONNECTIONS_PER_LOCALITY=4
+  HPX_INITIAL_AGAS_LOCAL_CACHE_SIZE=256
+  HPX_AGAS_LOCAL_CACHE_SIZE_PER_THREAD=32
+  HPX_PREFIX (configured)=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+  HPX_PREFIX=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+{version}: V0.9.10 (AGAS: V3.0), Git: 8a99361e2696cf8b2de903f3fc6b05dcad613979
+{boost}: V1.56.0
+{build-type}: release
+{date}: Mar 31 2015 03:39:25
+{platform}: linux
+{compiler}: Intel C++ C++0x mode version 1500
+{stdlib}: GNU libstdc++ version 20141030
+{what}: Operation not permitted: Operation not permitted
+
+
+{locality-id}: 0
+{function}: 
+{file}: 
+{line}: 0
+{os-thread}: 0, worker-thread#18
+{state}: 
+{auxinfo}: 
+{config}:
+  HPX_HAVE_NATIVE_TLS=ON
+  HPX_HAVE_STACKTRACES=ON
+  HPX_HAVE_COMPRESSION_BZIP2=OFF
+  HPX_HAVE_COMPRESSION_SNAPPY=OFF
+  HPX_HAVE_COMPRESSION_ZLIB=OFF
+  HPX_HAVE_PARCEL_COALESCING=ON
+  HPX_PARCELPORT_TCP=OFF
+  HPX_PARCELPORT_MPI=ON (MPICH V3.1.2, MPI V3.0)
+  HPX_PARCELPORT_IPC=OFF
+  HPX_PARCELPORT_IBVERBS=OFF
+  HPX_HAVE_VERIFY_LOCKS=OFF
+  HPX_HAVE_HWLOC=ON
+  HPX_HAVE_ITTNOTIFY=OFF
+  HPX_RUN_MAIN_EVERYWHERE=OFF
+  HPX_LIMIT=5
+  HPX_PARCEL_MAX_CONNECTIONS=512
+  HPX_PARCEL_MAX_CONNECTIONS_PER_LOCALITY=4
+  HPX_INITIAL_AGAS_LOCAL_CACHE_SIZE=256
+  HPX_AGAS_LOCAL_CACHE_SIZE_PER_THREAD=32
+  HPX_PREFIX (configured)=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+  HPX_PREFIX=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+{version}: V0.9.10 (AGAS: V3.0), Git: 8a99361e2696cf8b2de903f3fc6b05dcad613979
+{boost}: V1.56.0
+{build-type}: release
+{date}: Mar 31 2015 03:39:25
+{platform}: linux
+{compiler}: Intel C++ C++0x mode version 1500
+{stdlib}: GNU libstdc++ version 20141030
+{what}: Operation not permitted: Operation not permitted
+
+
+{locality-id}: 0
+{function}: 
+{file}: 
+{line}: 0
+{os-thread}: 0, worker-thread#11
+{state}: 
+{auxinfo}: 
+{config}:
+  HPX_HAVE_NATIVE_TLS=ON
+  HPX_HAVE_STACKTRACES=ON
+  HPX_HAVE_COMPRESSION_BZIP2=OFF
+  HPX_HAVE_COMPRESSION_SNAPPY=OFF
+  HPX_HAVE_COMPRESSION_ZLIB=OFF
+  HPX_HAVE_PARCEL_COALESCING=ON
+  HPX_PARCELPORT_TCP=OFF
+  HPX_PARCELPORT_MPI=ON (MPICH V3.1.2, MPI V3.0)
+  HPX_PARCELPORT_IPC=OFF
+  HPX_PARCELPORT_IBVERBS=OFF
+  HPX_HAVE_VERIFY_LOCKS=OFF
+  HPX_HAVE_HWLOC=ON
+  HPX_HAVE_ITTNOTIFY=OFF
+  HPX_RUN_MAIN_EVERYWHERE=OFF
+  HPX_LIMIT=5
+  HPX_PARCEL_MAX_CONNECTIONS=512
+  HPX_PARCEL_MAX_CONNECTIONS_PER_LOCALITY=4
+  HPX_INITIAL_AGAS_LOCAL_CACHE_SIZE=256
+  HPX_AGAS_LOCAL_CACHE_SIZE_PER_THREAD=32
+  HPX_PREFIX (configured)=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+  HPX_PREFIX=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+{version}: V0.9.10 (AGAS: V3.0), Git: 8a99361e2696cf8b2de903f3fc6b05dcad613979
+{boost}: V1.56.0
+{build-type}: release
+{date}: Mar 31 2015 03:39:25
+{platform}: linux
+{compiler}: Intel C++ C++0x mode version 1500
+{stdlib}: GNU libstdc++ version 20141030
+{what}: Operation not permitted: Operation not permitted
+
+
+{locality-id}: 0
+{function}: 
+{file}: 
+{line}: 0
+{os-thread}: 0, worker-thread#23
+{state}: 
+{auxinfo}: 
+{config}:
+  HPX_HAVE_NATIVE_TLS=ON
+  HPX_HAVE_STACKTRACES=ON
+  HPX_HAVE_COMPRESSION_BZIP2=OFF
+  HPX_HAVE_COMPRESSION_SNAPPY=OFF
+  HPX_HAVE_COMPRESSION_ZLIB=OFF
+  HPX_HAVE_PARCEL_COALESCING=ON
+  HPX_PARCELPORT_TCP=OFF
+  HPX_PARCELPORT_MPI=ON (MPICH V3.1.2, MPI V3.0)
+  HPX_PARCELPORT_IPC=OFF
+  HPX_PARCELPORT_IBVERBS=OFF
+  HPX_HAVE_VERIFY_LOCKS=OFF
+  HPX_HAVE_HWLOC=ON
+  HPX_HAVE_ITTNOTIFY=OFF
+  HPX_RUN_MAIN_EVERYWHERE=OFF
+  HPX_LIMIT=5
+  HPX_PARCEL_MAX_CONNECTIONS=512
+  HPX_PARCEL_MAX_CONNECTIONS_PER_LOCALITY=4
+  HPX_INITIAL_AGAS_LOCAL_CACHE_SIZE=256
+  HPX_AGAS_LOCAL_CACHE_SIZE_PER_THREAD=32
+  HPX_PREFIX (configured)=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+  HPX_PREFIX=/global/homes/s/sithhell/project/hpx/edison/hpx-release
+{version}: V0.9.10 (AGAS: V3.0), Git: 8a99361e2696cf8b2de903f3fc6b05dcad613979
+{boost}: V1.56.0
+{build-type}: release
+{date}: Mar 31 2015 03:39:25
+{platform}: linux
+{compiler}: Intel C++ C++0x mode version 1500
+{stdlib}: GNU libstdc++ version 20141030
+{what}: Operation not permitted: Operation not permitted
+
+_pmiu_daemon(SIGCHLD): [NID 05822] [c6-3c0s15n2] [Thu Apr 23 12:54:54 2015] PE RANK 3 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05847] [c6-3c1s5n3] [Thu Apr 23 12:54:54 2015] PE RANK 24 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05909] [c6-3c2s5n1] [Thu Apr 23 12:54:54 2015] PE RANK 29 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05833] [c6-3c1s2n1] [Thu Apr 23 12:54:54 2015] PE RANK 10 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05826] [c6-3c1s0n2] [Thu Apr 23 12:54:54 2015] PE RANK 7 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05839] [c6-3c1s3n3] [Thu Apr 23 12:54:54 2015] PE RANK 16 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05846] [c6-3c1s5n2] [Thu Apr 23 12:54:54 2015] PE RANK 23 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05851] [c6-3c1s6n3] [Thu Apr 23 12:54:54 2015] PE RANK 28 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05843] [c6-3c1s4n3] [Thu Apr 23 12:54:54 2015] PE RANK 20 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05910] [c6-3c2s5n2] [Thu Apr 23 12:54:54 2015] PE RANK 30 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05842] [c6-3c1s4n2] [Thu Apr 23 12:54:54 2015] PE RANK 19 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05841] [c6-3c1s4n1] [Thu Apr 23 12:54:54 2015] PE RANK 18 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05823] [c6-3c0s15n3] [Thu Apr 23 12:54:54 2015] PE RANK 4 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05835] [c6-3c1s2n3] [Thu Apr 23 12:54:54 2015] PE RANK 12 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05832] [c6-3c1s2n0] [Thu Apr 23 12:54:54 2015] PE RANK 9 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05825] [c6-3c1s0n1] [Thu Apr 23 12:54:54 2015] PE RANK 6 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05834] [c6-3c1s2n2] [Thu Apr 23 12:54:54 2015] PE RANK 11 exit signal Aborted
+[NID 05839] 2015-04-23 12:54:54 Apid 11965877: initiated application termination
+_pmiu_daemon(SIGCHLD): [NID 05824] [c6-3c1s0n0] [Thu Apr 23 12:54:54 2015] PE RANK 5 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05821] [c6-3c0s15n1] [Thu Apr 23 12:54:54 2015] PE RANK 2 exit signal Aborted
+_pmiu_daemon(SIGCHLD): [NID 05820] [c6-3c0s15n0] [Thu Apr 23 12:54:54 2015] PE RANK 1 exit signal Aborted

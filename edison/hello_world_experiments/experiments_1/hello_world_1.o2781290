@@ -1,0 +1,648 @@
+run 0
+hello world from OS-thread 10 on locality 0
+hello world from OS-thread 19 on locality 0
+hello world from OS-thread 23 on locality 0
+hello world from OS-thread 3 on locality 0
+hello world from OS-thread 21 on locality 0
+hello world from OS-thread 18 on locality 0
+hello world from OS-thread 16 on locality 0
+hello world from OS-thread 1 on locality 0
+hello world from OS-thread 7 on locality 0
+hello world from OS-thread 17 on locality 0
+hello world from OS-thread 8 on locality 0
+hello world from OS-thread 15 on locality 0
+hello world from OS-thread 5 on locality 0
+hello world from OS-thread 2 on locality 0
+hello world from OS-thread 14 on locality 0
+hello world from OS-thread 0 on locality 0
+hello world from OS-thread 11 on locality 0
+hello world from OS-thread 4 on locality 0
+hello world from OS-thread 20 on locality 0
+hello world from OS-thread 13 on locality 0
+hello world from OS-thread 12 on locality 0
+hello world from OS-thread 22 on locality 0
+hello world from OS-thread 9 on locality 0
+hello world from OS-thread 6 on locality 0
+/agas{locality#0/total}/count/allocate,1,0.036937,[s],11
+/agas{locality#0/total}/count/bind,1,0.036539,[s],46
+/agas{locality#0/total}/count/bind_gid,1,0.037389,[s],19
+/agas{locality#0/total}/count/cache/evictions,1,0.038362,[s],0
+/agas{locality#0/total}/count/cache/hits,1,0.038281,[s],0
+/agas{locality#0/total}/count/cache/insertions,1,0.037422,[s],0
+/agas{locality#0/total}/count/cache/misses,1,0.036928,[s],1611
+/agas{locality#0/total}/count/cache/erase_entry,1,0.036876,[s],0
+/agas{locality#0/total}/count/cache/get_entry,1,0.038027,[s],1615
+/agas{locality#0/total}/count/cache/insert_entry,1,0.038360,[s],0
+/agas{locality#0/total}/count/cache/update_entry,1,0.036888,[s],0
+/agas{locality#0/total}/count/decrement_credit,1,0.037013,[s],775
+/agas{locality#0/total}/count/increment_credit,1,0.038515,[s],0
+/agas{locality#0/total}/count/route,1,0.036831,[s],0
+/agas{locality#0/total}/count/resolve,1,0.036914,[s],46
+/agas{locality#0/total}/count/resolve_gid,1,0.037315,[s],860
+/agas{locality#0/total}/primary/count,1,0.038179,[s],1672
+/data{locality#0/total}/count/mpi/received,1,0.037332,[s],0,[bytes]
+/data{locality#0/total}/count/mpi/sent,1,0.038529,[s],0,[bytes]
+/data{locality#0/total}/time/mpi/received,1,0.036848,[s],0,[ns]
+/data{locality#0/total}/time/mpi/sent,1,0.037031,[s],0,[ns]
+/messages{locality#0/total}/count/mpi/received,1,0.037955,[s],0
+/messages{locality#0/total}/count/mpi/sent,1,0.037389,[s],0
+/parcels{locality#0/total}/count/mpi/received,1,0.038467,[s],0
+/parcels{locality#0/total}/count/mpi/sent,1,0.038270,[s],0
+/serialize{locality#0/total}/count/mpi/received,1,0.037661,[s],0,[bytes]
+/serialize{locality#0/total}/count/mpi/sent,1,0.037106,[s],0,[bytes]
+/serialize{locality#0/total}/time/mpi/received,1,0.037316,[s],0,[ns]
+/serialize{locality#0/total}/time/mpi/sent,1,0.037236,[s],0,[ns]
+/threads{locality#0/total}/count/objects,1,0.037015,[s],29
+/threads{locality#0/total}/count/cumulative,1,0.037492,[s],987
+/threads{locality#0/total}/count/cumulative-phases,1,0.036996,[s],2000
+/threads{locality#0/total}/time/average,1,0.037521,[s],42572,[ns]
+/threads{locality#0/total}/time/average-overhead,1,0.038023,[s],578362,[ns]
+/threads{locality#0/total}/time/average-phase,1,0.037310,[s],21090,[ns]
+/threads{locality#0/total}/time/average-phase-overhead,1,0.037407,[s],286640,[ns]
+/threads{locality#0/total}/idle-rate,1,0.037552,[s],9313,[0.01%]
+Application 11971802 resources: utime ~0s, stime ~0s, Rss ~20324, inblocks ~1325, outblocks ~3222
+run 1
+hello world from OS-thread 19 on locality 0
+hello world from OS-thread 13 on locality 0
+hello world from OS-thread 7 on locality 0
+hello world from OS-thread 15 on locality 0
+hello world from OS-thread 18 on locality 0
+hello world from OS-thread 9 on locality 0
+hello world from OS-thread 14 on locality 0
+hello world from OS-thread 6 on locality 0
+hello world from OS-thread 8 on locality 0
+hello world from OS-thread 17 on locality 0
+hello world from OS-thread 20 on locality 0
+hello world from OS-thread 23 on locality 0
+hello world from OS-thread 11 on locality 0
+hello world from OS-thread 4 on locality 0
+hello world from OS-thread 16 on locality 0
+hello world from OS-thread 22 on locality 0
+hello world from OS-thread 2 on locality 0
+hello world from OS-thread 5 on locality 0
+hello world from OS-thread 10 on locality 0
+hello world from OS-thread 12 on locality 0
+hello world from OS-thread 0 on locality 0
+hello world from OS-thread 3 on locality 0
+hello world from OS-thread 21 on locality 0
+hello world from OS-thread 1 on locality 0
+/agas{locality#0/total}/count/allocate,1,0.033380,[s],12
+/agas{locality#0/total}/count/bind,1,0.032481,[s],46
+/agas{locality#0/total}/count/bind_gid,1,0.033074,[s],20
+/agas{locality#0/total}/count/cache/evictions,1,0.032383,[s],0
+/agas{locality#0/total}/count/cache/hits,1,0.033290,[s],0
+/agas{locality#0/total}/count/cache/insertions,1,0.033417,[s],0
+/agas{locality#0/total}/count/cache/misses,1,0.032855,[s],2681
+/agas{locality#0/total}/count/cache/erase_entry,1,0.032471,[s],0
+/agas{locality#0/total}/count/cache/get_entry,1,0.033121,[s],2686
+/agas{locality#0/total}/count/cache/insert_entry,1,0.033010,[s],0
+/agas{locality#0/total}/count/cache/update_entry,1,0.032994,[s],0
+/agas{locality#0/total}/count/decrement_credit,1,0.033167,[s],1310
+/agas{locality#0/total}/count/increment_credit,1,0.033237,[s],0
+/agas{locality#0/total}/count/route,1,0.033380,[s],0
+/agas{locality#0/total}/count/resolve,1,0.032980,[s],46
+/agas{locality#0/total}/count/resolve_gid,1,0.032952,[s],1397
+/agas{locality#0/total}/primary/count,1,0.033317,[s],2746
+/data{locality#0/total}/count/mpi/received,1,0.032651,[s],0,[bytes]
+/data{locality#0/total}/count/mpi/sent,1,0.033564,[s],0,[bytes]
+/data{locality#0/total}/time/mpi/received,1,0.033118,[s],0,[ns]
+/data{locality#0/total}/time/mpi/sent,1,0.033462,[s],0,[ns]
+/messages{locality#0/total}/count/mpi/received,1,0.033368,[s],0
+/messages{locality#0/total}/count/mpi/sent,1,0.033116,[s],0
+/parcels{locality#0/total}/count/mpi/received,1,0.033487,[s],0
+/parcels{locality#0/total}/count/mpi/sent,1,0.033391,[s],0
+/serialize{locality#0/total}/count/mpi/received,1,0.033615,[s],0,[bytes]
+/serialize{locality#0/total}/count/mpi/sent,1,0.033061,[s],0,[bytes]
+/serialize{locality#0/total}/time/mpi/received,1,0.033378,[s],0,[ns]
+/serialize{locality#0/total}/time/mpi/sent,1,0.033649,[s],0,[ns]
+/threads{locality#0/total}/count/objects,1,0.033650,[s],32
+/threads{locality#0/total}/count/cumulative,1,0.032982,[s],1677
+/threads{locality#0/total}/count/cumulative-phases,1,0.033456,[s],3203
+/threads{locality#0/total}/time/average,1,0.033680,[s],32526,[ns]
+/threads{locality#0/total}/time/average-overhead,1,0.033034,[s],422045,[ns]
+/threads{locality#0/total}/time/average-phase,1,0.033182,[s],17038,[ns]
+/threads{locality#0/total}/time/average-phase-overhead,1,0.033714,[s],221331,[ns]
+/threads{locality#0/total}/idle-rate,1,0.032820,[s],9285,[0.01%]
+Application 11971804 resources: utime ~0s, stime ~0s, Rss ~20544, inblocks ~1325, outblocks ~3222
+run 2
+hello world from OS-thread 12 on locality 0
+hello world from OS-thread 13 on locality 0
+hello world from OS-thread 17 on locality 0
+hello world from OS-thread 20 on locality 0
+hello world from OS-thread 2 on locality 0
+hello world from OS-thread 10 on locality 0
+hello world from OS-thread 22 on locality 0
+hello world from OS-thread 5 on locality 0
+hello world from OS-thread 18 on locality 0
+hello world from OS-thread 16 on locality 0
+hello world from OS-thread 7 on locality 0
+hello world from OS-thread 6 on locality 0
+hello world from OS-thread 21 on locality 0
+hello world from OS-thread 3 on locality 0
+hello world from OS-thread 23 on locality 0
+hello world from OS-thread 14 on locality 0
+hello world from OS-thread 8 on locality 0
+hello world from OS-thread 15 on locality 0
+hello world from OS-thread 9 on locality 0
+hello world from OS-thread 19 on locality 0
+hello world from OS-thread 11 on locality 0
+hello world from OS-thread 4 on locality 0
+hello world from OS-thread 1 on locality 0
+hello world from OS-thread 0 on locality 0
+/agas{locality#0/total}/count/allocate,1,0.047614,[s],11
+/agas{locality#0/total}/count/bind,1,0.047996,[s],46
+/agas{locality#0/total}/count/bind_gid,1,0.046521,[s],19
+/agas{locality#0/total}/count/cache/evictions,1,0.047536,[s],0
+/agas{locality#0/total}/count/cache/hits,1,0.032433,[s],0
+/agas{locality#0/total}/count/cache/insertions,1,0.047313,[s],0
+/agas{locality#0/total}/count/cache/misses,1,0.048161,[s],2073
+/agas{locality#0/total}/count/cache/erase_entry,1,0.046580,[s],0
+/agas{locality#0/total}/count/cache/get_entry,1,0.032503,[s],2081
+/agas{locality#0/total}/count/cache/insert_entry,1,0.046694,[s],0
+/agas{locality#0/total}/count/cache/update_entry,1,0.047626,[s],0
+/agas{locality#0/total}/count/decrement_credit,1,0.047959,[s],1006
+/agas{locality#0/total}/count/increment_credit,1,0.047653,[s],0
+/agas{locality#0/total}/count/route,1,0.047040,[s],0
+/agas{locality#0/total}/count/resolve,1,0.032652,[s],46
+/agas{locality#0/total}/count/resolve_gid,1,0.047684,[s],1093
+/agas{locality#0/total}/primary/count,1,0.032676,[s],2135
+/data{locality#0/total}/count/mpi/received,1,0.048325,[s],0,[bytes]
+/data{locality#0/total}/count/mpi/sent,1,0.047835,[s],0,[bytes]
+/data{locality#0/total}/time/mpi/received,1,0.046930,[s],0,[ns]
+/data{locality#0/total}/time/mpi/sent,1,0.048218,[s],0,[ns]
+/messages{locality#0/total}/count/mpi/received,1,0.048353,[s],0
+/messages{locality#0/total}/count/mpi/sent,1,0.046690,[s],0
+/parcels{locality#0/total}/count/mpi/received,1,0.048372,[s],0
+/parcels{locality#0/total}/count/mpi/sent,1,0.032679,[s],0
+/serialize{locality#0/total}/count/mpi/received,1,0.048418,[s],0,[bytes]
+/serialize{locality#0/total}/count/mpi/sent,1,0.032900,[s],0,[bytes]
+/serialize{locality#0/total}/time/mpi/received,1,0.047030,[s],0,[ns]
+/serialize{locality#0/total}/time/mpi/sent,1,0.046771,[s],0,[ns]
+/threads{locality#0/total}/count/objects,1,0.047851,[s],31
+/threads{locality#0/total}/count/cumulative,1,0.047266,[s],1301
+/threads{locality#0/total}/count/cumulative-phases,1,0.047528,[s],2513
+/threads{locality#0/total}/time/average,1,0.046964,[s],39569,[ns]
+/threads{locality#0/total}/time/average-overhead,1,0.047911,[s],545036,[ns]
+/threads{locality#0/total}/time/average-phase,1,0.047295,[s],20540,[ns]
+/threads{locality#0/total}/time/average-phase-overhead,1,0.047921,[s],283142,[ns]
+/threads{locality#0/total}/idle-rate,1,0.046936,[s],9323,[0.01%]
+Application 11971806 resources: utime ~0s, stime ~0s, Rss ~20564, inblocks ~1325, outblocks ~3222
+run 3
+hello world from OS-thread 22 on locality 0
+hello world from OS-thread 18 on locality 0
+hello world from OS-thread 19 on locality 0
+hello world from OS-thread 12 on locality 0
+hello world from OS-thread 15 on locality 0
+hello world from OS-thread 8 on locality 0
+hello world from OS-thread 16 on locality 0
+hello world from OS-thread 13 on locality 0
+hello world from OS-thread 10 on locality 0
+hello world from OS-thread 3 on locality 0
+hello world from OS-thread 14 on locality 0
+hello world from OS-thread 4 on locality 0
+hello world from OS-thread 20 on locality 0
+hello world from OS-thread 11 on locality 0
+hello world from OS-thread 9 on locality 0
+hello world from OS-thread 23 on locality 0
+hello world from OS-thread 5 on locality 0
+hello world from OS-thread 6 on locality 0
+hello world from OS-thread 21 on locality 0
+hello world from OS-thread 2 on locality 0
+hello world from OS-thread 7 on locality 0
+hello world from OS-thread 17 on locality 0
+hello world from OS-thread 1 on locality 0
+hello world from OS-thread 0 on locality 0
+/agas{locality#0/total}/count/allocate,1,0.027869,[s],11
+/agas{locality#0/total}/count/bind,1,0.027562,[s],46
+/agas{locality#0/total}/count/bind_gid,1,0.027683,[s],19
+/agas{locality#0/total}/count/cache/evictions,1,0.027489,[s],0
+/agas{locality#0/total}/count/cache/hits,1,0.027750,[s],0
+/agas{locality#0/total}/count/cache/insertions,1,0.027840,[s],0
+/agas{locality#0/total}/count/cache/misses,1,0.027556,[s],1862
+/agas{locality#0/total}/count/cache/erase_entry,1,0.027526,[s],0
+/agas{locality#0/total}/count/cache/get_entry,1,0.028043,[s],1868
+/agas{locality#0/total}/count/cache/insert_entry,1,0.027498,[s],0
+/agas{locality#0/total}/count/cache/update_entry,1,0.027562,[s],0
+/agas{locality#0/total}/count/decrement_credit,1,0.027611,[s],898
+/agas{locality#0/total}/count/increment_credit,1,0.027983,[s],0
+/agas{locality#0/total}/count/route,1,0.027363,[s],0
+/agas{locality#0/total}/count/resolve,1,0.027936,[s],46
+/agas{locality#0/total}/count/resolve_gid,1,0.028113,[s],986
+/agas{locality#0/total}/primary/count,1,0.027978,[s],1924
+/data{locality#0/total}/count/mpi/received,1,0.027341,[s],0,[bytes]
+/data{locality#0/total}/count/mpi/sent,1,0.028023,[s],0,[bytes]
+/data{locality#0/total}/time/mpi/received,1,0.027276,[s],0,[ns]
+/data{locality#0/total}/time/mpi/sent,1,0.027419,[s],0,[ns]
+/messages{locality#0/total}/count/mpi/received,1,0.027790,[s],0
+/messages{locality#0/total}/count/mpi/sent,1,0.027681,[s],0
+/parcels{locality#0/total}/count/mpi/received,1,0.028304,[s],0
+/parcels{locality#0/total}/count/mpi/sent,1,0.027836,[s],0
+/serialize{locality#0/total}/count/mpi/received,1,0.027700,[s],0,[bytes]
+/serialize{locality#0/total}/count/mpi/sent,1,0.027878,[s],0,[bytes]
+/serialize{locality#0/total}/time/mpi/received,1,0.028174,[s],0,[ns]
+/serialize{locality#0/total}/time/mpi/sent,1,0.028082,[s],0,[ns]
+/threads{locality#0/total}/count/objects,1,0.027747,[s],30
+/threads{locality#0/total}/count/cumulative,1,0.028213,[s],1102
+/threads{locality#0/total}/count/cumulative-phases,1,0.027913,[s],2094
+/threads{locality#0/total}/time/average,1,0.028178,[s],37951,[ns]
+/threads{locality#0/total}/time/average-overhead,1,0.028237,[s],540327,[ns]
+/threads{locality#0/total}/time/average-phase,1,0.027860,[s],19930,[ns]
+/threads{locality#0/total}/time/average-phase-overhead,1,0.027709,[s],281935,[ns]
+/threads{locality#0/total}/idle-rate,1,0.028284,[s],9339,[0.01%]
+Application 11971807 resources: utime ~0s, stime ~0s, Rss ~20412, inblocks ~1325, outblocks ~3221
+run 4
+hello world from OS-thread 3 on locality 0
+hello world from OS-thread 0 on locality 0
+hello world from OS-thread 19 on locality 0
+hello world from OS-thread 6 on locality 0
+hello world from OS-thread 2 on locality 0
+hello world from OS-thread 13 on locality 0
+hello world from OS-thread 20 on locality 0
+hello world from OS-thread 4 on locality 0
+hello world from OS-thread 5 on locality 0
+hello world from OS-thread 7 on locality 0
+hello world from OS-thread 21 on locality 0
+hello world from OS-thread 8 on locality 0
+hello world from OS-thread 10 on locality 0
+hello world from OS-thread 23 on locality 0
+hello world from OS-thread 22 on locality 0
+hello world from OS-thread 12 on locality 0
+hello world from OS-thread 18 on locality 0
+hello world from OS-thread 15 on locality 0
+hello world from OS-thread 11 on locality 0
+hello world from OS-thread 14 on locality 0
+hello world from OS-thread 9 on locality 0
+hello world from OS-thread 1 on locality 0
+hello world from OS-thread 16 on locality 0
+hello world from OS-thread 17 on locality 0
+/agas{locality#0/total}/count/allocate,1,0.043135,[s],11
+/agas{locality#0/total}/count/bind,1,0.042901,[s],46
+/agas{locality#0/total}/count/bind_gid,1,0.042671,[s],19
+/agas{locality#0/total}/count/cache/evictions,1,0.043258,[s],0
+/agas{locality#0/total}/count/cache/hits,1,0.043281,[s],0
+/agas{locality#0/total}/count/cache/insertions,1,0.029275,[s],0
+/agas{locality#0/total}/count/cache/misses,1,0.042834,[s],1643
+/agas{locality#0/total}/count/cache/erase_entry,1,0.043187,[s],0
+/agas{locality#0/total}/count/cache/get_entry,1,0.043082,[s],1647
+/agas{locality#0/total}/count/cache/insert_entry,1,0.043224,[s],0
+/agas{locality#0/total}/count/cache/update_entry,1,0.043310,[s],0
+/agas{locality#0/total}/count/decrement_credit,1,0.042717,[s],788
+/agas{locality#0/total}/count/increment_credit,1,0.042885,[s],0
+/agas{locality#0/total}/count/route,1,0.029378,[s],0
+/agas{locality#0/total}/count/resolve,1,0.043036,[s],46
+/agas{locality#0/total}/count/resolve_gid,1,0.042930,[s],877
+/agas{locality#0/total}/primary/count,1,0.043476,[s],1704
+/data{locality#0/total}/count/mpi/received,1,0.043087,[s],0,[bytes]
+/data{locality#0/total}/count/mpi/sent,1,0.042863,[s],0,[bytes]
+/data{locality#0/total}/time/mpi/received,1,0.043469,[s],0,[ns]
+/data{locality#0/total}/time/mpi/sent,1,0.043110,[s],0,[ns]
+/messages{locality#0/total}/count/mpi/received,1,0.042926,[s],0
+/messages{locality#0/total}/count/mpi/sent,1,0.043130,[s],0
+/parcels{locality#0/total}/count/mpi/received,1,0.043562,[s],0
+/parcels{locality#0/total}/count/mpi/sent,1,0.043412,[s],0
+/serialize{locality#0/total}/count/mpi/received,1,0.043465,[s],0,[bytes]
+/serialize{locality#0/total}/count/mpi/sent,1,0.043592,[s],0,[bytes]
+/serialize{locality#0/total}/time/mpi/received,1,0.042964,[s],0,[ns]
+/serialize{locality#0/total}/time/mpi/sent,1,0.043629,[s],0,[ns]
+/threads{locality#0/total}/count/objects,1,0.043041,[s],32
+/threads{locality#0/total}/count/cumulative,1,0.043194,[s],1033
+/threads{locality#0/total}/count/cumulative-phases,1,0.043664,[s],1985
+/threads{locality#0/total}/time/average,1,0.043154,[s],43882,[ns]
+/threads{locality#0/total}/time/average-overhead,1,0.029627,[s],620010,[ns]
+/threads{locality#0/total}/time/average-phase,1,0.043704,[s],22863,[ns]
+/threads{locality#0/total}/time/average-phase-overhead,1,0.043115,[s],322087,[ns]
+/threads{locality#0/total}/idle-rate,1,0.043363,[s],9337,[0.01%]
+Application 11971809 resources: utime ~0s, stime ~0s, Rss ~20352, inblocks ~1325, outblocks ~3222
+run 5
+hello world from OS-thread 6 on locality 0
+hello world from OS-thread 19 on locality 0
+hello world from OS-thread 9 on locality 0
+hello world from OS-thread 13 on locality 0
+hello world from OS-thread 8 on locality 0
+hello world from OS-thread 16 on locality 0
+hello world from OS-thread 4 on locality 0
+hello world from OS-thread 2 on locality 0
+hello world from OS-thread 14 on locality 0
+hello world from OS-thread 10 on locality 0
+hello world from OS-thread 23 on locality 0
+hello world from OS-thread 17 on locality 0
+hello world from OS-thread 1 on locality 0
+hello world from OS-thread 18 on locality 0
+hello world from OS-thread 21 on locality 0
+hello world from OS-thread 15 on locality 0
+hello world from OS-thread 5 on locality 0
+hello world from OS-thread 11 on locality 0
+hello world from OS-thread 7 on locality 0
+hello world from OS-thread 22 on locality 0
+hello world from OS-thread 3 on locality 0
+hello world from OS-thread 12 on locality 0
+hello world from OS-thread 20 on locality 0
+hello world from OS-thread 0 on locality 0
+/agas{locality#0/total}/count/allocate,1,0.028125,[s],11
+/agas{locality#0/total}/count/bind,1,0.027743,[s],46
+/agas{locality#0/total}/count/bind_gid,1,0.028328,[s],19
+/agas{locality#0/total}/count/cache/evictions,1,0.028405,[s],0
+/agas{locality#0/total}/count/cache/hits,1,0.027784,[s],0
+/agas{locality#0/total}/count/cache/insertions,1,0.028296,[s],0
+/agas{locality#0/total}/count/cache/misses,1,0.028696,[s],1777
+/agas{locality#0/total}/count/cache/erase_entry,1,0.027829,[s],0
+/agas{locality#0/total}/count/cache/get_entry,1,0.028925,[s],1783
+/agas{locality#0/total}/count/cache/insert_entry,1,0.028022,[s],0
+/agas{locality#0/total}/count/cache/update_entry,1,0.028728,[s],0
+/agas{locality#0/total}/count/decrement_credit,1,0.028055,[s],859
+/agas{locality#0/total}/count/increment_credit,1,0.028198,[s],0
+/agas{locality#0/total}/count/route,1,0.028778,[s],0
+/agas{locality#0/total}/count/resolve,1,0.028534,[s],46
+/agas{locality#0/total}/count/resolve_gid,1,0.028417,[s],943
+/agas{locality#0/total}/primary/count,1,0.028069,[s],1837
+/data{locality#0/total}/count/mpi/received,1,0.028249,[s],0,[bytes]
+/data{locality#0/total}/count/mpi/sent,1,0.028925,[s],0,[bytes]
+/data{locality#0/total}/time/mpi/received,1,0.028841,[s],0,[ns]
+/data{locality#0/total}/time/mpi/sent,1,0.028684,[s],0,[ns]
+/messages{locality#0/total}/count/mpi/received,1,0.028850,[s],0
+/messages{locality#0/total}/count/mpi/sent,1,0.028305,[s],0
+/parcels{locality#0/total}/count/mpi/received,1,0.028568,[s],0
+/parcels{locality#0/total}/count/mpi/sent,1,0.028728,[s],0
+/serialize{locality#0/total}/count/mpi/received,1,0.028164,[s],0,[bytes]
+/serialize{locality#0/total}/count/mpi/sent,1,0.028392,[s],0,[bytes]
+/serialize{locality#0/total}/time/mpi/received,1,0.029119,[s],0,[ns]
+/serialize{locality#0/total}/time/mpi/sent,1,0.028637,[s],0,[ns]
+/threads{locality#0/total}/count/objects,1,0.028382,[s],31
+/threads{locality#0/total}/count/cumulative,1,0.028757,[s],1100
+/threads{locality#0/total}/count/cumulative-phases,1,0.028400,[s],2029
+/threads{locality#0/total}/time/average,1,0.028911,[s],42751,[ns]
+/threads{locality#0/total}/time/average-overhead,1,0.028745,[s],548282,[ns]
+/threads{locality#0/total}/time/average-phase,1,0.028688,[s],23213,[ns]
+/threads{locality#0/total}/time/average-phase-overhead,1,0.028439,[s],297922,[ns]
+/threads{locality#0/total}/idle-rate,1,0.028283,[s],9277,[0.01%]
+Application 11971810 resources: utime ~0s, stime ~0s, Rss ~20380, inblocks ~1325, outblocks ~3222
+run 6
+hello world from OS-thread 17 on locality 0
+hello world from OS-thread 16 on locality 0
+hello world from OS-thread 13 on locality 0
+hello world from OS-thread 0 on locality 0
+hello world from OS-thread 19 on locality 0
+hello world from OS-thread 5 on locality 0
+hello world from OS-thread 3 on locality 0
+hello world from OS-thread 23 on locality 0
+hello world from OS-thread 6 on locality 0
+hello world from OS-thread 20 on locality 0
+hello world from OS-thread 11 on locality 0
+hello world from OS-thread 9 on locality 0
+hello world from OS-thread 4 on locality 0
+hello world from OS-thread 12 on locality 0
+hello world from OS-thread 10 on locality 0
+hello world from OS-thread 7 on locality 0
+hello world from OS-thread 8 on locality 0
+hello world from OS-thread 14 on locality 0
+hello world from OS-thread 21 on locality 0
+hello world from OS-thread 18 on locality 0
+hello world from OS-thread 2 on locality 0
+hello world from OS-thread 22 on locality 0
+hello world from OS-thread 15 on locality 0
+hello world from OS-thread 1 on locality 0
+/agas{locality#0/total}/count/allocate,1,0.042093,[s],12
+/agas{locality#0/total}/count/bind,1,0.042368,[s],46
+/agas{locality#0/total}/count/bind_gid,1,0.042294,[s],20
+/agas{locality#0/total}/count/cache/evictions,1,0.042782,[s],0
+/agas{locality#0/total}/count/cache/hits,1,0.030538,[s],0
+/agas{locality#0/total}/count/cache/insertions,1,0.042733,[s],0
+/agas{locality#0/total}/count/cache/misses,1,0.042291,[s],1809
+/agas{locality#0/total}/count/cache/erase_entry,1,0.042774,[s],0
+/agas{locality#0/total}/count/cache/get_entry,1,0.042387,[s],1817
+/agas{locality#0/total}/count/cache/insert_entry,1,0.042802,[s],0
+/agas{locality#0/total}/count/cache/update_entry,1,0.042614,[s],0
+/agas{locality#0/total}/count/decrement_credit,1,0.030620,[s],875
+/agas{locality#0/total}/count/increment_credit,1,0.042515,[s],0
+/agas{locality#0/total}/count/route,1,0.030642,[s],0
+/agas{locality#0/total}/count/resolve,1,0.042453,[s],46
+/agas{locality#0/total}/count/resolve_gid,1,0.042475,[s],960
+/agas{locality#0/total}/primary/count,1,0.030706,[s],1875
+/data{locality#0/total}/count/mpi/received,1,0.042984,[s],0,[bytes]
+/data{locality#0/total}/count/mpi/sent,1,0.042862,[s],0,[bytes]
+/data{locality#0/total}/time/mpi/received,1,0.042745,[s],0,[ns]
+/data{locality#0/total}/time/mpi/sent,1,0.042687,[s],0,[ns]
+/messages{locality#0/total}/count/mpi/received,1,0.043027,[s],0
+/messages{locality#0/total}/count/mpi/sent,1,0.042868,[s],0
+/parcels{locality#0/total}/count/mpi/received,1,0.042531,[s],0
+/parcels{locality#0/total}/count/mpi/sent,1,0.042590,[s],0
+/serialize{locality#0/total}/count/mpi/received,1,0.030814,[s],0,[bytes]
+/serialize{locality#0/total}/count/mpi/sent,1,0.031130,[s],0,[bytes]
+/serialize{locality#0/total}/time/mpi/received,1,0.031062,[s],0,[ns]
+/serialize{locality#0/total}/time/mpi/sent,1,0.031156,[s],0,[ns]
+/threads{locality#0/total}/count/objects,1,0.042950,[s],30
+/threads{locality#0/total}/count/cumulative,1,0.043138,[s],1137
+/threads{locality#0/total}/count/cumulative-phases,1,0.042811,[s],2327
+/threads{locality#0/total}/time/average,1,0.031212,[s],44151,[ns]
+/threads{locality#0/total}/time/average-overhead,1,0.042693,[s],582971,[ns]
+/threads{locality#0/total}/time/average-phase,1,0.042646,[s],21653,[ns]
+/threads{locality#0/total}/time/average-phase-overhead,1,0.042937,[s],286345,[ns]
+/threads{locality#0/total}/idle-rate,1,0.030926,[s],9296,[0.01%]
+Application 11971811 resources: utime ~0s, stime ~0s, Rss ~20524, inblocks ~1325, outblocks ~3222
+run 7
+hello world from OS-thread 20 on locality 0
+hello world from OS-thread 4 on locality 0
+hello world from OS-thread 1 on locality 0
+hello world from OS-thread 16 on locality 0
+hello world from OS-thread 2 on locality 0
+hello world from OS-thread 7 on locality 0
+hello world from OS-thread 23 on locality 0
+hello world from OS-thread 13 on locality 0
+hello world from OS-thread 21 on locality 0
+hello world from OS-thread 18 on locality 0
+hello world from OS-thread 19 on locality 0
+hello world from OS-thread 15 on locality 0
+hello world from OS-thread 22 on locality 0
+hello world from OS-thread 6 on locality 0
+hello world from OS-thread 14 on locality 0
+hello world from OS-thread 11 on locality 0
+hello world from OS-thread 17 on locality 0
+hello world from OS-thread 8 on locality 0
+hello world from OS-thread 10 on locality 0
+hello world from OS-thread 0 on locality 0
+hello world from OS-thread 12 on locality 0
+hello world from OS-thread 3 on locality 0
+hello world from OS-thread 9 on locality 0
+hello world from OS-thread 5 on locality 0
+/agas{locality#0/total}/count/allocate,1,0.042423,[s],12
+/agas{locality#0/total}/count/bind,1,0.027746,[s],46
+/agas{locality#0/total}/count/bind_gid,1,0.027941,[s],20
+/agas{locality#0/total}/count/cache/evictions,1,0.041780,[s],0
+/agas{locality#0/total}/count/cache/hits,1,0.041523,[s],0
+/agas{locality#0/total}/count/cache/insertions,1,0.027897,[s],0
+/agas{locality#0/total}/count/cache/misses,1,0.042740,[s],1637
+/agas{locality#0/total}/count/cache/erase_entry,1,0.043086,[s],0
+/agas{locality#0/total}/count/cache/get_entry,1,0.042526,[s],1642
+/agas{locality#0/total}/count/cache/insert_entry,1,0.041801,[s],0
+/agas{locality#0/total}/count/cache/update_entry,1,0.028050,[s],0
+/agas{locality#0/total}/count/decrement_credit,1,0.043118,[s],787
+/agas{locality#0/total}/count/increment_credit,1,0.041687,[s],0
+/agas{locality#0/total}/count/route,1,0.028027,[s],0
+/agas{locality#0/total}/count/resolve,1,0.042585,[s],46
+/agas{locality#0/total}/count/resolve_gid,1,0.041721,[s],873
+/agas{locality#0/total}/primary/count,1,0.042220,[s],1699
+/data{locality#0/total}/count/mpi/received,1,0.028071,[s],0,[bytes]
+/data{locality#0/total}/count/mpi/sent,1,0.027944,[s],0,[bytes]
+/data{locality#0/total}/time/mpi/received,1,0.041783,[s],0,[ns]
+/data{locality#0/total}/time/mpi/sent,1,0.042854,[s],0,[ns]
+/messages{locality#0/total}/count/mpi/received,1,0.042783,[s],0
+/messages{locality#0/total}/count/mpi/sent,1,0.028206,[s],0
+/parcels{locality#0/total}/count/mpi/received,1,0.028083,[s],0
+/parcels{locality#0/total}/count/mpi/sent,1,0.041873,[s],0
+/serialize{locality#0/total}/count/mpi/received,1,0.042539,[s],0,[bytes]
+/serialize{locality#0/total}/count/mpi/sent,1,0.028039,[s],0,[bytes]
+/serialize{locality#0/total}/time/mpi/received,1,0.028080,[s],0,[ns]
+/serialize{locality#0/total}/time/mpi/sent,1,0.042598,[s],0,[ns]
+/threads{locality#0/total}/count/objects,1,0.042052,[s],29
+/threads{locality#0/total}/count/cumulative,1,0.028298,[s],1010
+/threads{locality#0/total}/count/cumulative-phases,1,0.042627,[s],2048
+/threads{locality#0/total}/time/average,1,0.043070,[s],43998,[ns]
+/threads{locality#0/total}/time/average-overhead,1,0.041962,[s],599490,[ns]
+/threads{locality#0/total}/time/average-phase,1,0.042945,[s],21690,[ns]
+/threads{locality#0/total}/time/average-phase-overhead,1,0.042713,[s],296688,[ns]
+/threads{locality#0/total}/idle-rate,1,0.028314,[s],9318,[0.01%]
+Application 11971813 resources: utime ~0s, stime ~0s, Rss ~20512, inblocks ~1325, outblocks ~3222
+run 8
+hello world from OS-thread 21 on locality 0
+hello world from OS-thread 17 on locality 0
+hello world from OS-thread 11 on locality 0
+hello world from OS-thread 8 on locality 0
+hello world from OS-thread 7 on locality 0
+hello world from OS-thread 13 on locality 0
+hello world from OS-thread 19 on locality 0
+hello world from OS-thread 5 on locality 0
+hello world from OS-thread 9 on locality 0
+hello world from OS-thread 18 on locality 0
+hello world from OS-thread 3 on locality 0
+hello world from OS-thread 10 on locality 0
+hello world from OS-thread 16 on locality 0
+hello world from OS-thread 23 on locality 0
+hello world from OS-thread 1 on locality 0
+hello world from OS-thread 4 on locality 0
+hello world from OS-thread 14 on locality 0
+hello world from OS-thread 20 on locality 0
+hello world from OS-thread 0 on locality 0
+hello world from OS-thread 15 on locality 0
+hello world from OS-thread 6 on locality 0
+hello world from OS-thread 2 on locality 0
+hello world from OS-thread 22 on locality 0
+hello world from OS-thread 12 on locality 0
+/agas{locality#0/total}/count/allocate,1,0.059465,[s],11
+/agas{locality#0/total}/count/bind,1,0.060922,[s],46
+/agas{locality#0/total}/count/bind_gid,1,0.059322,[s],19
+/agas{locality#0/total}/count/cache/evictions,1,0.059617,[s],0
+/agas{locality#0/total}/count/cache/hits,1,0.060408,[s],0
+/agas{locality#0/total}/count/cache/insertions,1,0.059924,[s],0
+/agas{locality#0/total}/count/cache/misses,1,0.060962,[s],2094
+/agas{locality#0/total}/count/cache/erase_entry,1,0.060569,[s],0
+/agas{locality#0/total}/count/cache/get_entry,1,0.060416,[s],2100
+/agas{locality#0/total}/count/cache/insert_entry,1,0.059522,[s],0
+/agas{locality#0/total}/count/cache/update_entry,1,0.060929,[s],0
+/agas{locality#0/total}/count/decrement_credit,1,0.061033,[s],1016
+/agas{locality#0/total}/count/increment_credit,1,0.060074,[s],0
+/agas{locality#0/total}/count/route,1,0.060522,[s],0
+/agas{locality#0/total}/count/resolve,1,0.061070,[s],46
+/agas{locality#0/total}/count/resolve_gid,1,0.060655,[s],1103
+/agas{locality#0/total}/primary/count,1,0.059767,[s],2156
+/data{locality#0/total}/count/mpi/received,1,0.059841,[s],0,[bytes]
+/data{locality#0/total}/count/mpi/sent,1,0.060249,[s],0,[bytes]
+/data{locality#0/total}/time/mpi/received,1,0.059952,[s],0,[ns]
+/data{locality#0/total}/time/mpi/sent,1,0.060535,[s],0,[ns]
+/messages{locality#0/total}/count/mpi/received,1,0.060605,[s],0
+/messages{locality#0/total}/count/mpi/sent,1,0.060200,[s],0
+/parcels{locality#0/total}/count/mpi/received,1,0.060571,[s],0
+/parcels{locality#0/total}/count/mpi/sent,1,0.059635,[s],0
+/serialize{locality#0/total}/count/mpi/received,1,0.060323,[s],0,[bytes]
+/serialize{locality#0/total}/count/mpi/sent,1,0.060175,[s],0,[bytes]
+/serialize{locality#0/total}/time/mpi/received,1,0.059885,[s],0,[ns]
+/serialize{locality#0/total}/time/mpi/sent,1,0.059617,[s],0,[ns]
+/threads{locality#0/total}/count/objects,1,0.059704,[s],31
+/threads{locality#0/total}/count/cumulative,1,0.060398,[s],1330
+/threads{locality#0/total}/count/cumulative-phases,1,0.059953,[s],2395
+/threads{locality#0/total}/time/average,1,0.059781,[s],51970,[ns]
+/threads{locality#0/total}/time/average-overhead,1,0.060325,[s],795515,[ns]
+/threads{locality#0/total}/time/average-phase,1,0.059750,[s],28866,[ns]
+/threads{locality#0/total}/time/average-phase-overhead,1,0.060106,[s],442492,[ns]
+/threads{locality#0/total}/idle-rate,1,0.060285,[s],9387,[0.01%]
+Application 11971814 resources: utime ~0s, stime ~0s, Rss ~20456, inblocks ~1325, outblocks ~3222
+run 9
+hello world from OS-thread 10 on locality 0
+hello world from OS-thread 8 on locality 0
+hello world from OS-thread 11 on locality 0
+hello world from OS-thread 17 on locality 0
+hello world from OS-thread 9 on locality 0
+hello world from OS-thread 4 on locality 0
+hello world from OS-thread 16 on locality 0
+hello world from OS-thread 6 on locality 0
+hello world from OS-thread 3 on locality 0
+hello world from OS-thread 12 on locality 0
+hello world from OS-thread 19 on locality 0
+hello world from OS-thread 23 on locality 0
+hello world from OS-thread 5 on locality 0
+hello world from OS-thread 0 on locality 0
+hello world from OS-thread 21 on locality 0
+hello world from OS-thread 22 on locality 0
+hello world from OS-thread 20 on locality 0
+hello world from OS-thread 7 on locality 0
+hello world from OS-thread 2 on locality 0
+hello world from OS-thread 15 on locality 0
+hello world from OS-thread 13 on locality 0
+hello world from OS-thread 14 on locality 0
+hello world from OS-thread 1 on locality 0
+hello world from OS-thread 18 on locality 0
+/agas{locality#0/total}/count/allocate,1,0.043488,[s],11
+/agas{locality#0/total}/count/bind,1,0.043352,[s],46
+/agas{locality#0/total}/count/bind_gid,1,0.044077,[s],19
+/agas{locality#0/total}/count/cache/evictions,1,0.044078,[s],0
+/agas{locality#0/total}/count/cache/hits,1,0.043646,[s],0
+/agas{locality#0/total}/count/cache/insertions,1,0.044102,[s],0
+/agas{locality#0/total}/count/cache/misses,1,0.043489,[s],2107
+/agas{locality#0/total}/count/cache/erase_entry,1,0.043588,[s],0
+/agas{locality#0/total}/count/cache/get_entry,1,0.043952,[s],2111
+/agas{locality#0/total}/count/cache/insert_entry,1,0.043921,[s],0
+/agas{locality#0/total}/count/cache/update_entry,1,0.044367,[s],0
+/agas{locality#0/total}/count/decrement_credit,1,0.044181,[s],1020
+/agas{locality#0/total}/count/increment_credit,1,0.043724,[s],0
+/agas{locality#0/total}/count/route,1,0.044401,[s],0
+/agas{locality#0/total}/count/resolve,1,0.043577,[s],46
+/agas{locality#0/total}/count/resolve_gid,1,0.044204,[s],1109
+/agas{locality#0/total}/primary/count,1,0.044377,[s],2167
+/data{locality#0/total}/count/mpi/received,1,0.043439,[s],0,[bytes]
+/data{locality#0/total}/count/mpi/sent,1,0.043705,[s],0,[bytes]
+/data{locality#0/total}/time/mpi/received,1,0.043436,[s],0,[ns]
+/data{locality#0/total}/time/mpi/sent,1,0.043589,[s],0,[ns]
+/messages{locality#0/total}/count/mpi/received,1,0.043921,[s],0
+/messages{locality#0/total}/count/mpi/sent,1,0.043854,[s],0
+/parcels{locality#0/total}/count/mpi/received,1,0.044035,[s],0
+/parcels{locality#0/total}/count/mpi/sent,1,0.043629,[s],0
+/serialize{locality#0/total}/count/mpi/received,1,0.044189,[s],0,[bytes]
+/serialize{locality#0/total}/count/mpi/sent,1,0.044083,[s],0,[bytes]
+/serialize{locality#0/total}/time/mpi/received,1,0.043675,[s],0,[ns]
+/serialize{locality#0/total}/time/mpi/sent,1,0.044225,[s],0,[ns]
+/threads{locality#0/total}/count/objects,1,0.044506,[s],30
+/threads{locality#0/total}/count/cumulative,1,0.043809,[s],1303
+/threads{locality#0/total}/count/cumulative-phases,1,0.043605,[s],2627
+/threads{locality#0/total}/time/average,1,0.044352,[s],51073,[ns]
+/threads{locality#0/total}/time/average-overhead,1,0.044231,[s],731163,[ns]
+/threads{locality#0/total}/time/average-phase,1,0.044592,[s],25389,[ns]
+/threads{locality#0/total}/time/average-phase-overhead,1,0.044285,[s],364200,[ns]
+/threads{locality#0/total}/idle-rate,1,0.044499,[s],9348,[0.01%]
+Application 11971816 resources: utime ~0s, stime ~0s, Rss ~20468, inblocks ~1325, outblocks ~3222
+
+ + --------------------------------------------------------------------------
+ +        Job name: hello_world_1
+ +          Job Id: 2781290.edique02
+ +          System: edison
+ +     Queued Time: Thu Apr 23 19:49:57 2015
+ +      Start Time: Thu Apr 23 19:50:35 2015
+ + Completion Time: Thu Apr 23 19:51:31 2015
+ +            User: pagrubel
+ +        MOM Host: nid02432
+ +           Queue: debug
+ +  Req. Resources: mppnodect=1,mppnppn=24,mppwidth=24,walltime=00:10:00
+ +  Used Resources: cput=00:00:01,energy_used=0,mem=10744kb,vmem=92036kb,walltime=00:00:58
+ +     Acct String: xpress
+ +   PBS_O_WORKDIR: /global/u1/p/pagrubel/hello_world_experiments/experiments_1
+ +     Submit Args: run_test_weak_hpx_1.job
+ + --------------------------------------------------------------------------
+

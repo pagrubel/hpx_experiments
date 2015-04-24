@@ -1,0 +1,50 @@
+Rank 0 [Thu Apr 23 20:33:51 2015] [c4-0c2s1n0] Fatal error in MPI_Irecv: Message truncated, error stack:
+MPI_Irecv(160)......................: MPI_Irecv(buf=0x2aaac0c3399e, count=601, MPI_BYTE, src=16, tag=1, comm=0x84000000, request=0x2aaabb7fedf4) failed
+MPIDI_CH3U_Request_unpack_uebuf(618): Message truncated; 725 bytes received but buffer size is 601
+_pmiu_daemon(SIGCHLD): [NID 00900] [c4-0c2s1n0] [Thu Apr 23 20:33:52 2015] PE RANK 0 exit signal Aborted
+[NID 00900] 2015-04-23 20:33:51 Apid 11972166: initiated application termination
+Rank 0 [Thu Apr 23 20:34:01 2015] [c4-0c2s1n0] Fatal error in MPI_Irecv: Message truncated, error stack:
+MPI_Irecv(160)......................: MPI_Irecv(buf=0x2aaac2c48558, count=601, MPI_BYTE, src=16, tag=1, comm=0x84000000, request=0x2aaabf9fddf4) failed
+MPIDI_CH3U_Request_unpack_uebuf(618): Message truncated; 725 bytes received but buffer size is 601
+_pmiu_daemon(SIGCHLD): [NID 00900] [c4-0c2s1n0] [Thu Apr 23 20:34:01 2015] PE RANK 0 exit signal Aborted
+[NID 00900] 2015-04-23 20:34:01 Apid 11972169: initiated application termination
+Rank 0 [Thu Apr 23 20:34:11 2015] [c4-0c2s1n0] Fatal error in MPI_Irecv: Message truncated, error stack:
+MPI_Irecv(160)......................: MPI_Irecv(buf=0x2aaab601b008, count=506, MPI_BYTE, src=58, tag=1, comm=0x84000000, request=0x2aaabbdffdf4) failed
+MPIDI_CH3U_Request_unpack_uebuf(618): Message truncated; 690 bytes received but buffer size is 506
+_pmiu_daemon(SIGCHLD): [NID 00900] [c4-0c2s1n0] [Thu Apr 23 20:34:11 2015] PE RANK 0 exit signal Aborted
+[NID 00900] 2015-04-23 20:34:11 Apid 11972170: initiated application termination
+Rank 0 [Thu Apr 23 20:34:21 2015] [c4-0c2s1n0] Fatal error in MPI_Irecv: Message truncated, error stack:
+MPI_Irecv(160)......................: MPI_Irecv(buf=0x2aaabb83b2b0, count=610, MPI_BYTE, src=16, tag=2, comm=0x84000000, request=0x2aaabc9fedf4) failed
+MPIDI_CH3U_Request_unpack_uebuf(618): Message truncated; 725 bytes received but buffer size is 610
+_pmiu_daemon(SIGCHLD): [NID 00900] [c4-0c2s1n0] [Thu Apr 23 20:34:21 2015] PE RANK 0 exit signal Aborted
+[NID 00900] 2015-04-23 20:34:21 Apid 11972173: initiated application termination
+Rank 0 [Thu Apr 23 20:34:30 2015] [c4-0c2s1n0] Fatal error in MPI_Irecv: Message truncated, error stack:
+MPI_Irecv(160)......................: MPI_Irecv(buf=0x2aaac1848008, count=562, MPI_BYTE, src=58, tag=1, comm=0x84000000, request=0x2aaab8bfedf4) failed
+MPIDI_CH3U_Request_unpack_uebuf(618): Message truncated; 672 bytes received but buffer size is 562
+_pmiu_daemon(SIGCHLD): [NID 00900] [c4-0c2s1n0] [Thu Apr 23 20:34:30 2015] PE RANK 0 exit signal Aborted
+[NID 00900] 2015-04-23 20:34:31 Apid 11972176: initiated application termination
+Rank 0 [Thu Apr 23 20:34:40 2015] [c4-0c2s1n0] Fatal error in MPI_Irecv: Message truncated, error stack:
+MPI_Irecv(160)......................: MPI_Irecv(buf=0x2aaab9835008, count=672, MPI_BYTE, src=58, tag=1, comm=0x84000000, request=0x2aaaba1fddf4) failed
+MPIDI_CH3U_Request_unpack_uebuf(618): Message truncated; 690 bytes received but buffer size is 672
+_pmiu_daemon(SIGCHLD): [NID 00900] [c4-0c2s1n0] [Thu Apr 23 20:34:40 2015] PE RANK 0 exit signal Aborted
+[NID 00900] 2015-04-23 20:34:40 Apid 11972177: initiated application termination
+Rank 0 [Thu Apr 23 20:34:50 2015] [c4-0c2s1n0] Fatal error in MPI_Irecv: Message truncated, error stack:
+MPI_Irecv(160)......................: MPI_Irecv(buf=0x2aaabc443422, count=672, MPI_BYTE, src=37, tag=1, comm=0x84000000, request=0x2aaabc1ffdf4) failed
+MPIDI_CH3U_Request_unpack_uebuf(618): Message truncated; 690 bytes received but buffer size is 672
+_pmiu_daemon(SIGCHLD): [NID 00900] [c4-0c2s1n0] [Thu Apr 23 20:34:50 2015] PE RANK 0 exit signal Aborted
+[NID 00900] 2015-04-23 20:34:50 Apid 11972178: initiated application termination
+Rank 0 [Thu Apr 23 20:35:00 2015] [c4-0c2s1n0] Fatal error in MPI_Irecv: Message truncated, error stack:
+MPI_Irecv(160)......................: MPI_Irecv(buf=0x2aaabcc8a008, count=672, MPI_BYTE, src=58, tag=1, comm=0x84000000, request=0x2aaabdffedf4) failed
+MPIDI_CH3U_Request_unpack_uebuf(618): Message truncated; 690 bytes received but buffer size is 672
+_pmiu_daemon(SIGCHLD): [NID 00900] [c4-0c2s1n0] [Thu Apr 23 20:35:00 2015] PE RANK 0 exit signal Aborted
+[NID 00900] 2015-04-23 20:35:01 Apid 11972181: initiated application termination
+Rank 0 [Thu Apr 23 20:35:10 2015] [c4-0c2s1n0] Fatal error in MPI_Irecv: Message truncated, error stack:
+MPI_Irecv(160)......................: MPI_Irecv(buf=0x2aaac1478008, count=601, MPI_BYTE, src=16, tag=1, comm=0x84000000, request=0x2aaabe5fddf4) failed
+MPIDI_CH3U_Request_unpack_uebuf(618): Message truncated; 725 bytes received but buffer size is 601
+_pmiu_daemon(SIGCHLD): [NID 00900] [c4-0c2s1n0] [Thu Apr 23 20:35:10 2015] PE RANK 0 exit signal Aborted
+[NID 00900] 2015-04-23 20:35:10 Apid 11972182: initiated application termination
+Rank 0 [Thu Apr 23 20:35:20 2015] [c4-0c2s1n0] Fatal error in MPI_Irecv: Message truncated, error stack:
+MPI_Irecv(160)......................: MPI_Irecv(buf=0x2aaac204dc4f, count=601, MPI_BYTE, src=16, tag=2, comm=0x84000000, request=0x2aaabe5fddf4) failed
+MPIDI_CH3U_Request_unpack_uebuf(618): Message truncated; 725 bytes received but buffer size is 601
+_pmiu_daemon(SIGCHLD): [NID 00900] [c4-0c2s1n0] [Thu Apr 23 20:35:20 2015] PE RANK 0 exit signal Aborted
+[NID 00900] 2015-04-23 20:35:20 Apid 11972184: initiated application termination

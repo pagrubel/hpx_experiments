@@ -1,0 +1,1032 @@
+run 0
+Application 11971897 exit codes: 134
+Application 11971897 exit signals: Killed
+Application 11971897 resources: utime ~1s, stime ~1s, Rss ~27520, inblocks ~18460, outblocks ~51456
+run 1
+Application 11971903 exit codes: 134
+Application 11971903 exit signals: Killed
+Application 11971903 resources: utime ~0s, stime ~1s, Rss ~27516, inblocks ~18460, outblocks ~51456
+run 2
+Application 11971907 exit codes: 134
+Application 11971907 exit signals: Killed
+Application 11971907 resources: utime ~5s, stime ~1s, Rss ~27504, inblocks ~18460, outblocks ~51456
+run 3
+Application 11971914 exit codes: 134
+Application 11971914 exit signals: Killed
+Application 11971914 resources: utime ~0s, stime ~1s, Rss ~27564, inblocks ~18460, outblocks ~51456
+run 4
+Application 11971920 exit codes: 134
+Application 11971920 exit signals: Killed
+Application 11971920 resources: utime ~1s, stime ~1s, Rss ~27644, inblocks ~18460, outblocks ~51456
+run 5
+Application 11971928 exit codes: 134
+Application 11971928 exit signals: Killed
+Application 11971928 resources: utime ~1s, stime ~0s, Rss ~27700, inblocks ~18460, outblocks ~51456
+run 6
+Application 11971936 exit codes: 134
+Application 11971936 exit signals: Killed
+Application 11971936 resources: utime ~1s, stime ~1s, Rss ~27572, inblocks ~18460, outblocks ~51456
+run 7
+Application 11971939 exit codes: 134
+Application 11971939 exit signals: Killed
+Application 11971939 resources: utime ~5s, stime ~1s, Rss ~27540, inblocks ~18460, outblocks ~51456
+run 8
+Application 11971942 exit codes: 134
+Application 11971942 exit signals: Killed
+Application 11971942 resources: utime ~5s, stime ~1s, Rss ~27332, inblocks ~18460, outblocks ~51456
+run 9
+hello world from OS-thread 13 on locality 0
+hello world from OS-thread 12 on locality 0
+hello world from OS-thread 7 on locality 0
+hello world from OS-thread 20 on locality 0
+hello world from OS-thread 3 on locality 5
+hello world from OS-thread 3 on locality 0
+hello world from OS-thread 6 on locality 2
+hello world from OS-thread 9 on locality 2
+hello world from OS-thread 10 on locality 0
+hello world from OS-thread 17 on locality 0
+hello world from OS-thread 22 on locality 1
+hello world from OS-thread 19 on locality 0
+hello world from OS-thread 22 on locality 3
+hello world from OS-thread 13 on locality 3
+hello world from OS-thread 4 on locality 0
+hello world from OS-thread 19 on locality 1
+hello world from OS-thread 3 on locality 2
+hello world from OS-thread 11 on locality 2
+hello world from OS-thread 15 on locality 5
+hello world from OS-thread 1 on locality 3
+hello world from OS-thread 2 on locality 0
+hello world from OS-thread 6 on locality 0
+hello world from OS-thread 19 on locality 5
+hello world from OS-thread 20 on locality 4
+hello world from OS-thread 15 on locality 0
+hello world from OS-thread 5 on locality 0
+hello world from OS-thread 16 on locality 3
+hello world from OS-thread 7 on locality 3
+hello world from OS-thread 11 on locality 0
+hello world from OS-thread 23 on locality 4
+hello world from OS-thread 8 on locality 4
+hello world from OS-thread 4 on locality 4
+hello world from OS-thread 7 on locality 4
+hello world from OS-thread 10 on locality 4
+hello world from OS-thread 1 on locality 2
+hello world from OS-thread 20 on locality 2
+hello world from OS-thread 4 on locality 2
+hello world from OS-thread 18 on locality 0
+hello world from OS-thread 17 on locality 6
+hello world from OS-thread 19 on locality 6
+hello world from OS-thread 20 on locality 6
+hello world from OS-thread 11 on locality 5
+hello world from OS-thread 15 on locality 3
+hello world from OS-thread 6 on locality 3
+hello world from OS-thread 5 on locality 3
+hello world from OS-thread 21 on locality 4
+hello world from OS-thread 11 on locality 4
+hello world from OS-thread 11 on locality 3
+hello world from OS-thread 1 on locality 0
+hello world from OS-thread 13 on locality 1
+hello world from OS-thread 23 on locality 1
+hello world from OS-thread 4 on locality 3
+hello world from OS-thread 14 on locality 1
+hello world from OS-thread 2 on locality 1
+hello world from OS-thread 14 on locality 4
+hello world from OS-thread 18 on locality 7
+hello world from OS-thread 2 on locality 7
+hello world from OS-thread 6 on locality 10
+hello world from OS-thread 8 on locality 10
+hello world from OS-thread 14 on locality 7
+hello world from OS-thread 10 on locality 10
+hello world from OS-thread 1 on locality 10
+hello world from OS-thread 8 on locality 3
+hello world from OS-thread 21 on locality 0
+hello world from OS-thread 0 on locality 2
+hello world from OS-thread 23 on locality 6
+hello world from OS-thread 15 on locality 2
+hello world from OS-thread 7 on locality 6
+hello world from OS-thread 5 on locality 10
+hello world from OS-thread 7 on locality 8
+hello world from OS-thread 4 on locality 8
+hello world from OS-thread 19 on locality 8
+hello world from OS-thread 3 on locality 7
+hello world from OS-thread 23 on locality 7
+hello world from OS-thread 22 on locality 7
+hello world from OS-thread 16 on locality 4
+hello world from OS-thread 2 on locality 4
+hello world from OS-thread 16 on locality 9
+hello world from OS-thread 1 on locality 9
+hello world from OS-thread 9 on locality 9
+hello world from OS-thread 23 on locality 8
+hello world from OS-thread 9 on locality 8
+hello world from OS-thread 15 on locality 1
+hello world from OS-thread 6 on locality 4
+hello world from OS-thread 23 on locality 0
+hello world from OS-thread 8 on locality 9
+hello world from OS-thread 10 on locality 9
+hello world from OS-thread 9 on locality 0
+hello world from OS-thread 5 on locality 1
+hello world from OS-thread 21 on locality 2
+hello world from OS-thread 13 on locality 9
+hello world from OS-thread 9 on locality 10
+hello world from OS-thread 21 on locality 10
+hello world from OS-thread 3 on locality 4
+hello world from OS-thread 14 on locality 0
+hello world from OS-thread 7 on locality 7
+hello world from OS-thread 5 on locality 7
+hello world from OS-thread 17 on locality 8
+hello world from OS-thread 8 on locality 0
+hello world from OS-thread 4 on locality 1
+hello world from OS-thread 5 on locality 6
+hello world from OS-thread 13 on locality 6
+hello world from OS-thread 20 on locality 1
+hello world from OS-thread 15 on locality 6
+hello world from OS-thread 12 on locality 6
+hello world from OS-thread 22 on locality 9
+hello world from OS-thread 12 on locality 2
+hello world from OS-thread 19 on locality 7
+hello world from OS-thread 13 on locality 5
+hello world from OS-thread 1 on locality 8
+hello world from OS-thread 18 on locality 5
+hello world from OS-thread 17 on locality 5
+hello world from OS-thread 14 on locality 5
+hello world from OS-thread 9 on locality 4
+hello world from OS-thread 19 on locality 4
+hello world from OS-thread 8 on locality 2
+hello world from OS-thread 23 on locality 10
+hello world from OS-thread 17 on locality 2
+hello world from OS-thread 17 on locality 7
+hello world from OS-thread 22 on locality 0
+hello world from OS-thread 2 on locality 9
+hello world from OS-thread 12 on locality 9
+hello world from OS-thread 5 on locality 12
+hello world from OS-thread 4 on locality 9
+hello world from OS-thread 11 on locality 12
+hello world from OS-thread 21 on locality 12
+hello world from OS-thread 20 on locality 12
+hello world from OS-thread 3 on locality 12
+hello world from OS-thread 9 on locality 12
+hello world from OS-thread 4 on locality 12
+hello world from OS-thread 1 on locality 12
+hello world from OS-thread 16 on locality 11
+hello world from OS-thread 14 on locality 11
+hello world from OS-thread 13 on locality 11
+hello world from OS-thread 10 on locality 11
+hello world from OS-thread 19 on locality 11
+hello world from OS-thread 22 on locality 11
+hello world from OS-thread 2 on locality 12
+hello world from OS-thread 13 on locality 12
+hello world from OS-thread 23 on locality 12
+hello world from OS-thread 15 on locality 4
+hello world from OS-thread 6 on locality 1
+hello world from OS-thread 10 on locality 1
+hello world from OS-thread 8 on locality 1
+hello world from OS-thread 16 on locality 0
+hello world from OS-thread 3 on locality 1
+hello world from OS-thread 16 on locality 1
+hello world from OS-thread 8 on locality 11
+hello world from OS-thread 17 on locality 11
+hello world from OS-thread 3 on locality 11
+hello world from OS-thread 6 on locality 7
+hello world from OS-thread 16 on locality 7
+hello world from OS-thread 1 on locality 6
+hello world from OS-thread 5 on locality 11
+hello world from OS-thread 14 on locality 6
+hello world from OS-thread 10 on locality 5
+hello world from OS-thread 21 on locality 6
+hello world from OS-thread 2 on locality 6
+hello world from OS-thread 7 on locality 5
+hello world from OS-thread 13 on locality 7
+hello world from OS-thread 18 on locality 9
+hello world from OS-thread 13 on locality 2
+hello world from OS-thread 14 on locality 2
+hello world from OS-thread 8 on locality 12
+hello world from OS-thread 16 on locality 12
+hello world from OS-thread 12 on locality 12
+hello world from OS-thread 15 on locality 12
+hello world from OS-thread 19 on locality 9
+hello world from OS-thread 11 on locality 10
+hello world from OS-thread 7 on locality 10
+hello world from OS-thread 19 on locality 10
+hello world from OS-thread 6 on locality 8
+hello world from OS-thread 11 on locality 8
+hello world from OS-thread 15 on locality 8
+hello world from OS-thread 11 on locality 11
+hello world from OS-thread 18 on locality 11
+hello world from OS-thread 17 on locality 1
+hello world from OS-thread 13 on locality 8
+hello world from OS-thread 20 on locality 8
+hello world from OS-thread 1 on locality 13
+hello world from OS-thread 7 on locality 13
+hello world from OS-thread 16 on locality 13
+hello world from OS-thread 6 on locality 13
+hello world from OS-thread 2 on locality 5
+hello world from OS-thread 8 on locality 5
+hello world from OS-thread 16 on locality 5
+hello world from OS-thread 23 on locality 13
+hello world from OS-thread 18 on locality 13
+hello world from OS-thread 6 on locality 5
+hello world from OS-thread 15 on locality 13
+hello world from OS-thread 16 on locality 2
+hello world from OS-thread 14 on locality 13
+hello world from OS-thread 22 on locality 13
+hello world from OS-thread 9 on locality 1
+hello world from OS-thread 17 on locality 13
+hello world from OS-thread 10 on locality 12
+hello world from OS-thread 4 on locality 7
+hello world from OS-thread 21 on locality 1
+hello world from OS-thread 1 on locality 7
+hello world from OS-thread 20 on locality 7
+hello world from OS-thread 2 on locality 2
+hello world from OS-thread 18 on locality 1
+hello world from OS-thread 15 on locality 11
+hello world from OS-thread 1 on locality 11
+hello world from OS-thread 7 on locality 11
+hello world from OS-thread 10 on locality 8
+hello world from OS-thread 21 on locality 9
+hello world from OS-thread 20 on locality 13
+hello world from OS-thread 12 on locality 11
+hello world from OS-thread 12 on locality 4
+hello world from OS-thread 23 on locality 2
+hello world from OS-thread 6 on locality 15
+hello world from OS-thread 17 on locality 12
+hello world from OS-thread 10 on locality 15
+hello world from OS-thread 19 on locality 15
+hello world from OS-thread 1 on locality 15
+hello world from OS-thread 11 on locality 15
+hello world from OS-thread 4 on locality 6
+hello world from OS-thread 8 on locality 6
+hello world from OS-thread 10 on locality 6
+hello world from OS-thread 9 on locality 15
+hello world from OS-thread 16 on locality 15
+hello world from OS-thread 6 on locality 12
+hello world from OS-thread 18 on locality 3
+hello world from OS-thread 9 on locality 3
+hello world from OS-thread 23 on locality 15
+hello world from OS-thread 7 on locality 15
+hello world from OS-thread 21 on locality 13
+hello world from OS-thread 3 on locality 13
+hello world from OS-thread 19 on locality 13
+hello world from OS-thread 19 on locality 3
+hello world from OS-thread 20 on locality 5
+hello world from OS-thread 3 on locality 3
+hello world from OS-thread 20 on locality 9
+hello world from OS-thread 5 on locality 8
+hello world from OS-thread 21 on locality 3
+hello world from OS-thread 23 on locality 5
+hello world from OS-thread 7 on locality 1
+hello world from OS-thread 16 on locality 8
+hello world from OS-thread 20 on locality 10
+hello world from OS-thread 11 on locality 7
+hello world from OS-thread 8 on locality 7
+hello world from OS-thread 10 on locality 7
+hello world from OS-thread 12 on locality 7
+hello world from OS-thread 22 on locality 15
+hello world from OS-thread 14 on locality 15
+hello world from OS-thread 14 on locality 14
+hello world from OS-thread 10 on locality 14
+hello world from OS-thread 18 on locality 15
+hello world from OS-thread 21 on locality 7
+hello world from OS-thread 3 on locality 14
+hello world from OS-thread 11 on locality 14
+hello world from OS-thread 15 on locality 14
+hello world from OS-thread 6 on locality 6
+hello world from OS-thread 4 on locality 13
+hello world from OS-thread 6 on locality 9
+hello world from OS-thread 23 on locality 14
+hello world from OS-thread 18 on locality 14
+hello world from OS-thread 20 on locality 14
+hello world from OS-thread 21 on locality 14
+hello world from OS-thread 22 on locality 2
+hello world from OS-thread 5 on locality 2
+hello world from OS-thread 10 on locality 2
+hello world from OS-thread 19 on locality 2
+hello world from OS-thread 7 on locality 2
+hello world from OS-thread 16 on locality 6
+hello world from OS-thread 1 on locality 14
+hello world from OS-thread 1 on locality 5
+hello world from OS-thread 14 on locality 12
+hello world from OS-thread 14 on locality 9
+hello world from OS-thread 15 on locality 9
+hello world from OS-thread 10 on locality 3
+hello world from OS-thread 14 on locality 3
+hello world from OS-thread 17 on locality 3
+hello world from OS-thread 14 on locality 8
+hello world from OS-thread 12 on locality 8
+hello world from OS-thread 13 on locality 4
+hello world from OS-thread 17 on locality 4
+hello world from OS-thread 22 on locality 4
+hello world from OS-thread 3 on locality 10
+hello world from OS-thread 6 on locality 11
+hello world from OS-thread 17 on locality 10
+hello world from OS-thread 1 on locality 1
+hello world from OS-thread 9 on locality 7
+hello world from OS-thread 9 on locality 11
+hello world from OS-thread 12 on locality 1
+hello world from OS-thread 9 on locality 6
+hello world from OS-thread 3 on locality 6
+hello world from OS-thread 12 on locality 15
+hello world from OS-thread 15 on locality 15
+hello world from OS-thread 6 on locality 14
+hello world from OS-thread 16 on locality 14
+hello world from OS-thread 2 on locality 8
+hello world from OS-thread 5 on locality 14
+hello world from OS-thread 11 on locality 1
+hello world from OS-thread 18 on locality 8
+hello world from OS-thread 2 on locality 14
+hello world from OS-thread 23 on locality 3
+hello world from OS-thread 20 on locality 3
+hello world from OS-thread 5 on locality 9
+hello world from OS-thread 0 on locality 9
+hello world from OS-thread 12 on locality 14
+hello world from OS-thread 4 on locality 15
+hello world from OS-thread 8 on locality 14
+hello world from OS-thread 20 on locality 15
+hello world from OS-thread 22 on locality 8
+hello world from OS-thread 7 on locality 14
+hello world from OS-thread 0 on locality 1
+hello world from OS-thread 18 on locality 2
+hello world from OS-thread 0 on locality 4
+hello world from OS-thread 18 on locality 4
+hello world from OS-thread 5 on locality 4
+hello world from OS-thread 1 on locality 4
+hello world from OS-thread 3 on locality 9
+hello world from OS-thread 7 on locality 9
+hello world from OS-thread 11 on locality 6
+hello world from OS-thread 18 on locality 6
+hello world from OS-thread 22 on locality 6
+hello world from OS-thread 9 on locality 5
+hello world from OS-thread 0 on locality 5
+hello world from OS-thread 21 on locality 5
+hello world from OS-thread 4 on locality 5
+hello world from OS-thread 5 on locality 5
+hello world from OS-thread 2 on locality 3
+hello world from OS-thread 22 on locality 5
+hello world from OS-thread 12 on locality 5
+hello world from OS-thread 12 on locality 3
+hello world from OS-thread 0 on locality 3
+hello world from OS-thread 4 on locality 10
+hello world from OS-thread 18 on locality 12
+hello world from OS-thread 14 on locality 10
+hello world from OS-thread 22 on locality 12
+hello world from OS-thread 9 on locality 13
+hello world from OS-thread 21 on locality 8
+hello world from OS-thread 23 on locality 11
+hello world from OS-thread 16 on locality 10
+hello world from OS-thread 19 on locality 12
+hello world from OS-thread 2 on locality 13
+hello world from OS-thread 10 on locality 13
+hello world from OS-thread 15 on locality 7
+hello world from OS-thread 0 on locality 12
+hello world from OS-thread 8 on locality 13
+hello world from OS-thread 0 on locality 6
+hello world from OS-thread 19 on locality 14
+hello world from OS-thread 3 on locality 15
+hello world from OS-thread 13 on locality 15
+hello world from OS-thread 2 on locality 11
+hello world from OS-thread 5 on locality 13
+hello world from OS-thread 9 on locality 14
+hello world from OS-thread 13 on locality 14
+hello world from OS-thread 8 on locality 8
+hello world from OS-thread 0 on locality 13
+hello world from OS-thread 12 on locality 13
+hello world from OS-thread 13 on locality 10
+hello world from OS-thread 21 on locality 11
+hello world from OS-thread 4 on locality 14
+hello world from OS-thread 22 on locality 14
+hello world from OS-thread 17 on locality 14
+hello world from OS-thread 17 on locality 9
+hello world from OS-thread 7 on locality 12
+hello world from OS-thread 5 on locality 15
+hello world from OS-thread 2 on locality 15
+hello world from OS-thread 21 on locality 15
+hello world from OS-thread 11 on locality 9
+hello world from OS-thread 13 on locality 13
+hello world from OS-thread 20 on locality 11
+hello world from OS-thread 4 on locality 11
+hello world from OS-thread 0 on locality 8
+hello world from OS-thread 3 on locality 8
+hello world from OS-thread 12 on locality 10
+hello world from OS-thread 0 on locality 15
+hello world from OS-thread 0 on locality 14
+hello world from OS-thread 8 on locality 15
+hello world from OS-thread 0 on locality 11
+hello world from OS-thread 0 on locality 0
+hello world from OS-thread 18 on locality 10
+hello world from OS-thread 0 on locality 7
+hello world from OS-thread 15 on locality 10
+hello world from OS-thread 17 on locality 15
+hello world from OS-thread 22 on locality 10
+hello world from OS-thread 0 on locality 10
+hello world from OS-thread 11 on locality 13
+hello world from OS-thread 23 on locality 9
+hello world from OS-thread 2 on locality 10
+/agas{locality#0/total}/count/allocate,1,0.728510,[s],13
+/agas{locality#1/total}/count/allocate,1,0.723608,[s],9
+/agas{locality#2/total}/count/allocate,1,0.710857,[s],9
+/agas{locality#3/total}/count/allocate,1,0.724041,[s],9
+/agas{locality#4/total}/count/allocate,1,0.710130,[s],9
+/agas{locality#5/total}/count/allocate,1,0.712254,[s],9
+/agas{locality#6/total}/count/allocate,1,0.723405,[s],10
+/agas{locality#7/total}/count/allocate,1,0.723922,[s],10
+/agas{locality#8/total}/count/allocate,1,0.724698,[s],10
+/agas{locality#9/total}/count/allocate,1,0.725770,[s],10
+/agas{locality#10/total}/count/allocate,1,0.725514,[s],10
+/agas{locality#11/total}/count/allocate,1,0.710977,[s],10
+/agas{locality#12/total}/count/allocate,1,0.724946,[s],10
+/agas{locality#13/total}/count/allocate,1,0.710745,[s],10
+/agas{locality#14/total}/count/allocate,1,0.725196,[s],10
+/agas{locality#15/total}/count/allocate,1,0.710769,[s],11
+/agas{locality#0/total}/count/bind,1,0.729841,[s],68
+/agas{locality#1/total}/count/bind,1,0.724879,[s],40
+/agas{locality#2/total}/count/bind,1,0.712123,[s],35
+/agas{locality#3/total}/count/bind,1,0.709901,[s],46
+/agas{locality#4/total}/count/bind,1,0.711571,[s],37
+/agas{locality#5/total}/count/bind,1,0.713299,[s],36
+/agas{locality#6/total}/count/bind,1,0.725571,[s],36
+/agas{locality#7/total}/count/bind,1,0.725396,[s],39
+/agas{locality#8/total}/count/bind,1,0.714026,[s],31
+/agas{locality#9/total}/count/bind,1,0.727284,[s],27
+/agas{locality#10/total}/count/bind,1,0.725623,[s],44
+/agas{locality#11/total}/count/bind,1,0.712022,[s],47
+/agas{locality#12/total}/count/bind,1,0.715678,[s],41
+/agas{locality#13/total}/count/bind,1,0.712178,[s],34
+/agas{locality#14/total}/count/bind,1,0.726837,[s],34
+/agas{locality#15/total}/count/bind,1,0.724291,[s],37
+/agas{locality#0/total}/count/bind_gid,1,0.731120,[s],66
+/agas{locality#1/total}/count/bind_gid,1,0.714646,[s],15
+/agas{locality#2/total}/count/bind_gid,1,0.713200,[s],15
+/agas{locality#3/total}/count/bind_gid,1,0.727003,[s],15
+/agas{locality#4/total}/count/bind_gid,1,0.713295,[s],15
+/agas{locality#5/total}/count/bind_gid,1,0.714497,[s],15
+/agas{locality#6/total}/count/bind_gid,1,0.710505,[s],16
+/agas{locality#7/total}/count/bind_gid,1,0.726378,[s],16
+/agas{locality#8/total}/count/bind_gid,1,0.714638,[s],16
+/agas{locality#9/total}/count/bind_gid,1,0.727217,[s],16
+/agas{locality#10/total}/count/bind_gid,1,0.728252,[s],16
+/agas{locality#11/total}/count/bind_gid,1,0.714197,[s],16
+/agas{locality#12/total}/count/bind_gid,1,0.727943,[s],16
+/agas{locality#13/total}/count/bind_gid,1,0.713193,[s],16
+/agas{locality#14/total}/count/bind_gid,1,0.728781,[s],16
+/agas{locality#15/total}/count/bind_gid,1,0.713686,[s],17
+/agas{locality#0/total}/count/cache/evictions,1,0.732708,[s],0
+/agas{locality#1/total}/count/cache/evictions,1,0.728194,[s],0
+/agas{locality#2/total}/count/cache/evictions,1,0.715062,[s],0
+/agas{locality#3/total}/count/cache/evictions,1,0.728555,[s],0
+/agas{locality#4/total}/count/cache/evictions,1,0.714154,[s],0
+/agas{locality#5/total}/count/cache/evictions,1,0.728407,[s],0
+/agas{locality#6/total}/count/cache/evictions,1,0.727951,[s],0
+/agas{locality#7/total}/count/cache/evictions,1,0.728601,[s],0
+/agas{locality#8/total}/count/cache/evictions,1,0.728434,[s],0
+/agas{locality#9/total}/count/cache/evictions,1,0.729467,[s],0
+/agas{locality#10/total}/count/cache/evictions,1,0.729927,[s],0
+/agas{locality#11/total}/count/cache/evictions,1,0.727841,[s],0
+/agas{locality#12/total}/count/cache/evictions,1,0.729517,[s],0
+/agas{locality#13/total}/count/cache/evictions,1,0.715160,[s],0
+/agas{locality#14/total}/count/cache/evictions,1,0.730010,[s],0
+/agas{locality#15/total}/count/cache/evictions,1,0.714744,[s],0
+/agas{locality#0/total}/count/cache/hits,1,0.733457,[s],3640
+/agas{locality#1/total}/count/cache/hits,1,0.729357,[s],181
+/agas{locality#2/total}/count/cache/hits,1,0.715571,[s],171
+/agas{locality#3/total}/count/cache/hits,1,0.714141,[s],193
+/agas{locality#4/total}/count/cache/hits,1,0.716454,[s],176
+/agas{locality#5/total}/count/cache/hits,1,0.716916,[s],205
+/agas{locality#6/total}/count/cache/hits,1,0.713118,[s],174
+/agas{locality#7/total}/count/cache/hits,1,0.729411,[s],179
+/agas{locality#8/total}/count/cache/hits,1,0.729858,[s],163
+/agas{locality#9/total}/count/cache/hits,1,0.728214,[s],156
+/agas{locality#10/total}/count/cache/hits,1,0.731091,[s],218
+/agas{locality#11/total}/count/cache/hits,1,0.716577,[s],196
+/agas{locality#12/total}/count/cache/hits,1,0.719434,[s],183
+/agas{locality#13/total}/count/cache/hits,1,0.715900,[s],169
+/agas{locality#14/total}/count/cache/hits,1,0.730306,[s],169
+/agas{locality#15/total}/count/cache/hits,1,0.728069,[s],175
+/agas{locality#0/total}/count/cache/insertions,1,0.734613,[s],130
+/agas{locality#1/total}/count/cache/insertions,1,0.730207,[s],14
+/agas{locality#2/total}/count/cache/insertions,1,0.717149,[s],15
+/agas{locality#3/total}/count/cache/insertions,1,0.730289,[s],15
+/agas{locality#4/total}/count/cache/insertions,1,0.717319,[s],14
+/agas{locality#5/total}/count/cache/insertions,1,0.718986,[s],52
+/agas{locality#6/total}/count/cache/insertions,1,0.731359,[s],14
+/agas{locality#7/total}/count/cache/insertions,1,0.732570,[s],15
+/agas{locality#8/total}/count/cache/insertions,1,0.720352,[s],15
+/agas{locality#9/total}/count/cache/insertions,1,0.734156,[s],14
+/agas{locality#10/total}/count/cache/insertions,1,0.733960,[s],52
+/agas{locality#11/total}/count/cache/insertions,1,0.718951,[s],14
+/agas{locality#12/total}/count/cache/insertions,1,0.732668,[s],15
+/agas{locality#13/total}/count/cache/insertions,1,0.718556,[s],15
+/agas{locality#14/total}/count/cache/insertions,1,0.733081,[s],15
+/agas{locality#15/total}/count/cache/insertions,1,0.719033,[s],14
+/agas{locality#0/total}/count/cache/misses,1,0.737479,[s],2815
+/agas{locality#1/total}/count/cache/misses,1,0.733229,[s],1333
+/agas{locality#2/total}/count/cache/misses,1,0.720210,[s],1253
+/agas{locality#3/total}/count/cache/misses,1,0.733583,[s],1753
+/agas{locality#4/total}/count/cache/misses,1,0.719895,[s],1281
+/agas{locality#5/total}/count/cache/misses,1,0.733940,[s],1958
+/agas{locality#6/total}/count/cache/misses,1,0.733512,[s],1457
+/agas{locality#7/total}/count/cache/misses,1,0.733224,[s],1440
+/agas{locality#8/total}/count/cache/misses,1,0.722334,[s],1560
+/agas{locality#9/total}/count/cache/misses,1,0.735385,[s],1794
+/agas{locality#10/total}/count/cache/misses,1,0.734670,[s],2617
+/agas{locality#11/total}/count/cache/misses,1,0.733016,[s],1389
+/agas{locality#12/total}/count/cache/misses,1,0.734100,[s],1156
+/agas{locality#13/total}/count/cache/misses,1,0.720095,[s],1584
+/agas{locality#14/total}/count/cache/misses,1,0.735365,[s],1800
+/agas{locality#15/total}/count/cache/misses,1,0.720199,[s],1808
+/agas{locality#0/total}/count/cache/erase_entry,1,0.738672,[s],619
+/agas{locality#1/total}/count/cache/erase_entry,1,0.734157,[s],0
+/agas{locality#2/total}/count/cache/erase_entry,1,0.733438,[s],0
+/agas{locality#3/total}/count/cache/erase_entry,1,0.735026,[s],0
+/agas{locality#4/total}/count/cache/erase_entry,1,0.721613,[s],0
+/agas{locality#5/total}/count/cache/erase_entry,1,0.723063,[s],0
+/agas{locality#6/total}/count/cache/erase_entry,1,0.735227,[s],0
+/agas{locality#7/total}/count/cache/erase_entry,1,0.735330,[s],0
+/agas{locality#8/total}/count/cache/erase_entry,1,0.735733,[s],0
+/agas{locality#9/total}/count/cache/erase_entry,1,0.736952,[s],0
+/agas{locality#10/total}/count/cache/erase_entry,1,0.735777,[s],0
+/agas{locality#11/total}/count/cache/erase_entry,1,0.721988,[s],0
+/agas{locality#12/total}/count/cache/erase_entry,1,0.737359,[s],0
+/agas{locality#13/total}/count/cache/erase_entry,1,0.722488,[s],0
+/agas{locality#14/total}/count/cache/erase_entry,1,0.736907,[s],0
+/agas{locality#15/total}/count/cache/erase_entry,1,0.734047,[s],0
+/agas{locality#0/total}/count/cache/get_entry,1,0.740785,[s],6367
+/agas{locality#1/total}/count/cache/get_entry,1,0.736432,[s],1501
+/agas{locality#2/total}/count/cache/get_entry,1,0.722680,[s],1410
+/agas{locality#3/total}/count/cache/get_entry,1,0.736169,[s],1930
+/agas{locality#4/total}/count/cache/get_entry,1,0.723359,[s],1440
+/agas{locality#5/total}/count/cache/get_entry,1,0.723937,[s],2085
+/agas{locality#6/total}/count/cache/get_entry,1,0.736189,[s],1615
+/agas{locality#7/total}/count/cache/get_entry,1,0.737314,[s],1600
+/agas{locality#8/total}/count/cache/get_entry,1,0.736997,[s],1702
+/agas{locality#9/total}/count/cache/get_entry,1,0.736865,[s],1930
+/agas{locality#10/total}/count/cache/get_entry,1,0.737754,[s],2765
+/agas{locality#11/total}/count/cache/get_entry,1,0.723290,[s],1558
+/agas{locality#12/total}/count/cache/get_entry,1,0.737410,[s],1309
+/agas{locality#13/total}/count/cache/get_entry,1,0.723548,[s],1723
+/agas{locality#14/total}/count/cache/get_entry,1,0.737763,[s],1936
+/agas{locality#15/total}/count/cache/get_entry,1,0.735179,[s],1954
+/agas{locality#0/total}/count/cache/insert_entry,1,0.742089,[s],130
+/agas{locality#1/total}/count/cache/insert_entry,1,0.737348,[s],14
+/agas{locality#2/total}/count/cache/insert_entry,1,0.723639,[s],15
+/agas{locality#3/total}/count/cache/insert_entry,1,0.737822,[s],15
+/agas{locality#4/total}/count/cache/insert_entry,1,0.724503,[s],14
+/agas{locality#5/total}/count/cache/insert_entry,1,0.725233,[s],52
+/agas{locality#6/total}/count/cache/insert_entry,1,0.737033,[s],14
+/agas{locality#7/total}/count/cache/insert_entry,1,0.737140,[s],15
+/agas{locality#8/total}/count/cache/insert_entry,1,0.737557,[s],15
+/agas{locality#9/total}/count/cache/insert_entry,1,0.739310,[s],14
+/agas{locality#10/total}/count/cache/insert_entry,1,0.737721,[s],52
+/agas{locality#11/total}/count/cache/insert_entry,1,0.737196,[s],14
+/agas{locality#12/total}/count/cache/insert_entry,1,0.738572,[s],15
+/agas{locality#13/total}/count/cache/insert_entry,1,0.732979,[s],15
+/agas{locality#14/total}/count/cache/insert_entry,1,0.739027,[s],15
+/agas{locality#15/total}/count/cache/insert_entry,1,0.725186,[s],14
+/agas{locality#0/total}/count/cache/update_entry,1,0.743309,[s],154
+/agas{locality#1/total}/count/cache/update_entry,1,0.739153,[s],19
+/agas{locality#2/total}/count/cache/update_entry,1,0.726132,[s],20
+/agas{locality#3/total}/count/cache/update_entry,1,0.739502,[s],22
+/agas{locality#4/total}/count/cache/update_entry,1,0.726195,[s],23
+/agas{locality#5/total}/count/cache/update_entry,1,0.727604,[s],84
+/agas{locality#6/total}/count/cache/update_entry,1,0.738593,[s],22
+/agas{locality#7/total}/count/cache/update_entry,1,0.739881,[s],25
+/agas{locality#8/total}/count/cache/update_entry,1,0.739256,[s],27
+/agas{locality#9/total}/count/cache/update_entry,1,0.740242,[s],26
+/agas{locality#10/total}/count/cache/update_entry,1,0.739429,[s],76
+/agas{locality#11/total}/count/cache/update_entry,1,0.726006,[s],33
+/agas{locality#12/total}/count/cache/update_entry,1,0.739958,[s],36
+/agas{locality#13/total}/count/cache/update_entry,1,0.725720,[s],36
+/agas{locality#14/total}/count/cache/update_entry,1,0.740881,[s],39
+/agas{locality#15/total}/count/cache/update_entry,1,0.725848,[s],35
+/agas{locality#0/total}/count/decrement_credit,1,0.744158,[s],7647
+/agas{locality#1/total}/count/decrement_credit,1,0.739631,[s],775
+/agas{locality#2/total}/count/decrement_credit,1,0.726822,[s],717
+/agas{locality#3/total}/count/decrement_credit,1,0.740121,[s],944
+/agas{locality#4/total}/count/decrement_credit,1,0.726343,[s],741
+/agas{locality#5/total}/count/decrement_credit,1,0.728116,[s],961
+/agas{locality#6/total}/count/decrement_credit,1,0.724011,[s],834
+/agas{locality#7/total}/count/decrement_credit,1,0.740842,[s],785
+/agas{locality#8/total}/count/decrement_credit,1,0.740557,[s],879
+/agas{locality#9/total}/count/decrement_credit,1,0.740439,[s],966
+/agas{locality#10/total}/count/decrement_credit,1,0.740576,[s],1277
+/agas{locality#11/total}/count/decrement_credit,1,0.727213,[s],781
+/agas{locality#12/total}/count/decrement_credit,1,0.741627,[s],656
+/agas{locality#13/total}/count/decrement_credit,1,0.726856,[s],872
+/agas{locality#14/total}/count/decrement_credit,1,0.741568,[s],977
+/agas{locality#15/total}/count/decrement_credit,1,0.726525,[s],983
+/agas{locality#0/total}/count/increment_credit,1,0.745657,[s],30
+/agas{locality#1/total}/count/increment_credit,1,0.740766,[s],0
+/agas{locality#2/total}/count/increment_credit,1,0.727178,[s],0
+/agas{locality#3/total}/count/increment_credit,1,0.741061,[s],0
+/agas{locality#4/total}/count/increment_credit,1,0.727029,[s],0
+/agas{locality#5/total}/count/increment_credit,1,0.728665,[s],0
+/agas{locality#6/total}/count/increment_credit,1,0.740605,[s],0
+/agas{locality#7/total}/count/increment_credit,1,0.740498,[s],0
+/agas{locality#8/total}/count/increment_credit,1,0.729282,[s],0
+/agas{locality#9/total}/count/increment_credit,1,0.742462,[s],0
+/agas{locality#10/total}/count/increment_credit,1,0.741653,[s],0
+/agas{locality#11/total}/count/increment_credit,1,0.727358,[s],0
+/agas{locality#12/total}/count/increment_credit,1,0.741595,[s],0
+/agas{locality#13/total}/count/increment_credit,1,0.727663,[s],0
+/agas{locality#14/total}/count/increment_credit,1,0.741629,[s],0
+/agas{locality#15/total}/count/increment_credit,1,0.727827,[s],0
+/agas{locality#0/total}/count/route,1,0.745980,[s],646
+/agas{locality#1/total}/count/route,1,0.741720,[s],12
+/agas{locality#2/total}/count/route,1,0.728380,[s],11
+/agas{locality#3/total}/count/route,1,0.741820,[s],11
+/agas{locality#4/total}/count/route,1,0.728378,[s],11
+/agas{locality#5/total}/count/route,1,0.729329,[s],9
+/agas{locality#6/total}/count/route,1,0.741460,[s],12
+/agas{locality#7/total}/count/route,1,0.741718,[s],13
+/agas{locality#8/total}/count/route,1,0.730182,[s],13
+/agas{locality#9/total}/count/route,1,0.743592,[s],12
+/agas{locality#10/total}/count/route,1,0.743245,[s],11
+/agas{locality#11/total}/count/route,1,0.728587,[s],13
+/agas{locality#12/total}/count/route,1,0.742145,[s],14
+/agas{locality#13/total}/count/route,1,0.728108,[s],18
+/agas{locality#14/total}/count/route,1,0.742964,[s],18
+/agas{locality#15/total}/count/route,1,0.728370,[s],16
+/agas{locality#0/total}/count/resolve,1,0.746695,[s],189
+/agas{locality#1/total}/count/resolve,1,0.742066,[s],40
+/agas{locality#2/total}/count/resolve,1,0.729648,[s],35
+/agas{locality#3/total}/count/resolve,1,0.726926,[s],46
+/agas{locality#4/total}/count/resolve,1,0.729344,[s],37
+/agas{locality#5/total}/count/resolve,1,0.730347,[s],35
+/agas{locality#6/total}/count/resolve,1,0.742414,[s],36
+/agas{locality#7/total}/count/resolve,1,0.743259,[s],39
+/agas{locality#8/total}/count/resolve,1,0.742903,[s],31
+/agas{locality#9/total}/count/resolve,1,0.743226,[s],27
+/agas{locality#10/total}/count/resolve,1,0.743830,[s],43
+/agas{locality#11/total}/count/resolve,1,0.729414,[s],47
+/agas{locality#12/total}/count/resolve,1,0.732623,[s],41
+/agas{locality#13/total}/count/resolve,1,0.729511,[s],34
+/agas{locality#14/total}/count/resolve,1,0.743383,[s],34
+/agas{locality#15/total}/count/resolve,1,0.729249,[s],37
+/agas{locality#0/total}/count/resolve_gid,1,0.748160,[s],1963
+/agas{locality#1/total}/count/resolve_gid,1,0.743385,[s],830
+/agas{locality#2/total}/count/resolve_gid,1,0.742421,[s],810
+/agas{locality#3/total}/count/resolve_gid,1,0.743944,[s],1068
+/agas{locality#4/total}/count/resolve_gid,1,0.729755,[s],818
+/agas{locality#5/total}/count/resolve_gid,1,0.730906,[s],1282
+/agas{locality#6/total}/count/resolve_gid,1,0.742847,[s],903
+/agas{locality#7/total}/count/resolve_gid,1,0.744097,[s],925
+/agas{locality#8/total}/count/resolve_gid,1,0.731486,[s],961
+/agas{locality#9/total}/count/resolve_gid,1,0.744186,[s],1105
+/agas{locality#10/total}/count/resolve_gid,1,0.743549,[s],1638
+/agas{locality#11/total}/count/resolve_gid,1,0.743035,[s],890
+/agas{locality#12/total}/count/resolve_gid,1,0.745115,[s],793
+/agas{locality#13/total}/count/resolve_gid,1,0.738553,[s],1007
+/agas{locality#14/total}/count/resolve_gid,1,0.744512,[s],1126
+/agas{locality#15/total}/count/resolve_gid,1,0.729566,[s],1129
+/agas{locality#0/total}/primary/count,1,0.748364,[s],10636
+/agas{locality#1/total}/primary/count,1,0.744509,[s],1649
+/agas{locality#2/total}/primary/count,1,0.743410,[s],1570
+/agas{locality#3/total}/primary/count,1,0.744849,[s],2055
+/agas{locality#4/total}/primary/count,1,0.743567,[s],1602
+/agas{locality#5/total}/primary/count,1,0.732374,[s],2284
+/agas{locality#6/total}/primary/count,1,0.743907,[s],1783
+/agas{locality#7/total}/primary/count,1,0.744705,[s],1757
+/agas{locality#8/total}/primary/count,1,0.744657,[s],1887
+/agas{locality#9/total}/primary/count,1,0.745999,[s],2117
+/agas{locality#10/total}/primary/count,1,0.745130,[s],2960
+/agas{locality#11/total}/primary/count,1,0.731630,[s],1718
+/agas{locality#12/total}/primary/count,1,0.745977,[s],1497
+/agas{locality#13/total}/primary/count,1,0.731447,[s],1931
+/agas{locality#14/total}/primary/count,1,0.746604,[s],2155
+/agas{locality#15/total}/primary/count,1,0.743646,[s],2165
+/data{locality#0/total}/count/mpi/received,1,0.750827,[s],1.99928e+06,[bytes]
+/data{locality#1/total}/count/mpi/received,1,0.745780,[s],100018,[bytes]
+/data{locality#2/total}/count/mpi/received,1,0.731986,[s],97385,[bytes]
+/data{locality#3/total}/count/mpi/received,1,0.746165,[s],105991,[bytes]
+/data{locality#4/total}/count/mpi/received,1,0.732622,[s],100742,[bytes]
+/data{locality#5/total}/count/mpi/received,1,0.733710,[s],130766,[bytes]
+/data{locality#6/total}/count/mpi/received,1,0.746158,[s],99815,[bytes]
+/data{locality#7/total}/count/mpi/received,1,0.746669,[s],108220,[bytes]
+/data{locality#8/total}/count/mpi/received,1,0.735660,[s],99262,[bytes]
+/data{locality#9/total}/count/mpi/received,1,0.747192,[s],100589,[bytes]
+/data{locality#10/total}/count/mpi/received,1,0.748136,[s],140427,[bytes]
+/data{locality#11/total}/count/mpi/received,1,0.733980,[s],113281,[bytes]
+/data{locality#12/total}/count/mpi/received,1,0.748974,[s],112512,[bytes]
+/data{locality#13/total}/count/mpi/received,1,0.733794,[s],108424,[bytes]
+/data{locality#14/total}/count/mpi/received,1,0.748756,[s],109985,[bytes]
+/data{locality#15/total}/count/mpi/received,1,0.745686,[s],109417,[bytes]
+/data{locality#0/total}/count/mpi/sent,1,0.752433,[s],1.61237e+06,[bytes]
+/data{locality#1/total}/count/mpi/sent,1,0.736109,[s],131848,[bytes]
+/data{locality#2/total}/count/mpi/sent,1,0.747008,[s],126682,[bytes]
+/data{locality#3/total}/count/mpi/sent,1,0.748158,[s],137943,[bytes]
+/data{locality#4/total}/count/mpi/sent,1,0.734840,[s],129331,[bytes]
+/data{locality#5/total}/count/mpi/sent,1,0.736032,[s],152050,[bytes]
+/data{locality#6/total}/count/mpi/sent,1,0.747495,[s],128955,[bytes]
+/data{locality#7/total}/count/mpi/sent,1,0.748650,[s],132340,[bytes]
+/data{locality#8/total}/count/mpi/sent,1,0.736330,[s],124600,[bytes]
+/data{locality#9/total}/count/mpi/sent,1,0.748412,[s],120167,[bytes]
+/data{locality#10/total}/count/mpi/sent,1,0.747869,[s],161456,[bytes]
+/data{locality#11/total}/count/mpi/sent,1,0.734838,[s],143558,[bytes]
+/data{locality#12/total}/count/mpi/sent,1,0.749750,[s],138840,[bytes]
+/data{locality#13/total}/count/mpi/sent,1,0.742703,[s],135784,[bytes]
+/data{locality#14/total}/count/mpi/sent,1,0.749532,[s],135545,[bytes]
+/data{locality#15/total}/count/mpi/sent,1,0.734343,[s],137778,[bytes]
+/data{locality#0/total}/time/mpi/received,1,0.753366,[s],5.9412e+07,[ns]
+/data{locality#1/total}/time/mpi/received,1,0.736520,[s],669701,[ns]
+/data{locality#2/total}/time/mpi/received,1,0.735758,[s],1.21586e+06,[ns]
+/data{locality#3/total}/time/mpi/received,1,0.748749,[s],785561,[ns]
+/data{locality#4/total}/time/mpi/received,1,0.735590,[s],701049,[ns]
+/data{locality#5/total}/time/mpi/received,1,0.737083,[s],810363,[ns]
+/data{locality#6/total}/time/mpi/received,1,0.748610,[s],1.05999e+06,[ns]
+/data{locality#7/total}/time/mpi/received,1,0.748276,[s],725170,[ns]
+/data{locality#8/total}/time/mpi/received,1,0.749205,[s],1.85094e+06,[ns]
+/data{locality#9/total}/time/mpi/received,1,0.750278,[s],946475,[ns]
+/data{locality#10/total}/time/mpi/received,1,0.750445,[s],979405,[ns]
+/data{locality#11/total}/time/mpi/received,1,0.748150,[s],1.43098e+06,[ns]
+/data{locality#12/total}/time/mpi/received,1,0.749446,[s],951181,[ns]
+/data{locality#13/total}/time/mpi/received,1,0.735657,[s],1.12889e+06,[ns]
+/data{locality#14/total}/time/mpi/received,1,0.749930,[s],830030,[ns]
+/data{locality#15/total}/time/mpi/received,1,0.747534,[s],1.0536e+06,[ns]
+/data{locality#0/total}/time/mpi/sent,1,0.754323,[s],2.62135e+08,[ns]
+/data{locality#1/total}/time/mpi/sent,1,0.749504,[s],6.38574e+06,[ns]
+/data{locality#2/total}/time/mpi/sent,1,0.748534,[s],9.01817e+06,[ns]
+/data{locality#3/total}/time/mpi/sent,1,0.734206,[s],7.41462e+06,[ns]
+/data{locality#4/total}/time/mpi/sent,1,0.737423,[s],1.24815e+07,[ns]
+/data{locality#5/total}/time/mpi/sent,1,0.738694,[s],1.4748e+07,[ns]
+/data{locality#6/total}/time/mpi/sent,1,0.749757,[s],1.26778e+07,[ns]
+/data{locality#7/total}/time/mpi/sent,1,0.749763,[s],1.17826e+07,[ns]
+/data{locality#8/total}/time/mpi/sent,1,0.750562,[s],1.97908e+07,[ns]
+/data{locality#9/total}/time/mpi/sent,1,0.750488,[s],1.98513e+07,[ns]
+/data{locality#10/total}/time/mpi/sent,1,0.750327,[s],3.06406e+07,[ns]
+/data{locality#11/total}/time/mpi/sent,1,0.749646,[s],3.34683e+07,[ns]
+/data{locality#12/total}/time/mpi/sent,1,0.752060,[s],2.96438e+07,[ns]
+/data{locality#13/total}/time/mpi/sent,1,0.736706,[s],2.36929e+07,[ns]
+/data{locality#14/total}/time/mpi/sent,1,0.751481,[s],2.63599e+07,[ns]
+/data{locality#15/total}/time/mpi/sent,1,0.736886,[s],4.7816e+07,[ns]
+/messages{locality#0/total}/count/mpi/received,1,0.755929,[s],6794
+/messages{locality#1/total}/count/mpi/received,1,0.750832,[s],293
+/messages{locality#2/total}/count/mpi/received,1,0.737531,[s],287
+/messages{locality#3/total}/count/mpi/received,1,0.751033,[s],310
+/messages{locality#4/total}/count/mpi/received,1,0.738353,[s],296
+/messages{locality#5/total}/count/mpi/received,1,0.739036,[s],365
+/messages{locality#6/total}/count/mpi/received,1,0.734920,[s],293
+/messages{locality#7/total}/count/mpi/received,1,0.751956,[s],323
+/messages{locality#8/total}/count/mpi/received,1,0.739645,[s],291
+/messages{locality#9/total}/count/mpi/received,1,0.751530,[s],304
+/messages{locality#10/total}/count/mpi/received,1,0.751534,[s],398
+/messages{locality#11/total}/count/mpi/received,1,0.737920,[s],328
+/messages{locality#12/total}/count/mpi/received,1,0.752078,[s],327
+/messages{locality#13/total}/count/mpi/received,1,0.737709,[s],312
+/messages{locality#14/total}/count/mpi/received,1,0.752630,[s],317
+/messages{locality#15/total}/count/mpi/received,1,0.750354,[s],316
+/messages{locality#0/total}/count/mpi/sent,1,0.757270,[s],4680
+/messages{locality#1/total}/count/mpi/sent,1,0.740520,[s],461
+/messages{locality#2/total}/count/mpi/sent,1,0.739373,[s],441
+/messages{locality#3/total}/count/mpi/sent,1,0.752503,[s],482
+/messages{locality#4/total}/count/mpi/sent,1,0.738783,[s],448
+/messages{locality#5/total}/count/mpi/sent,1,0.740468,[s],484
+/messages{locality#6/total}/count/mpi/sent,1,0.751988,[s],447
+/messages{locality#7/total}/count/mpi/sent,1,0.752383,[s],456
+/messages{locality#8/total}/count/mpi/sent,1,0.740947,[s],425
+/messages{locality#9/total}/count/mpi/sent,1,0.752556,[s],410
+/messages{locality#10/total}/count/mpi/sent,1,0.752678,[s],521
+/messages{locality#11/total}/count/mpi/sent,1,0.739631,[s],492
+/messages{locality#12/total}/count/mpi/sent,1,0.754311,[s],470
+/messages{locality#13/total}/count/mpi/sent,1,0.739364,[s],455
+/messages{locality#14/total}/count/mpi/sent,1,0.754206,[s],452
+/messages{locality#15/total}/count/mpi/sent,1,0.751277,[s],465
+/parcels{locality#0/total}/count/mpi/received,1,0.757387,[s],6851
+/parcels{locality#1/total}/count/mpi/received,1,0.752856,[s],295
+/parcels{locality#2/total}/count/mpi/received,1,0.740190,[s],289
+/parcels{locality#3/total}/count/mpi/received,1,0.753257,[s],312
+/parcels{locality#4/total}/count/mpi/received,1,0.739990,[s],298
+/parcels{locality#5/total}/count/mpi/received,1,0.741486,[s],367
+/parcels{locality#6/total}/count/mpi/received,1,0.737110,[s],295
+/parcels{locality#7/total}/count/mpi/received,1,0.753601,[s],325
+/parcels{locality#8/total}/count/mpi/received,1,0.753777,[s],293
+/parcels{locality#9/total}/count/mpi/received,1,0.754399,[s],306
+/parcels{locality#10/total}/count/mpi/received,1,0.753643,[s],400
+/parcels{locality#11/total}/count/mpi/received,1,0.740161,[s],330
+/parcels{locality#12/total}/count/mpi/received,1,0.754073,[s],329
+/parcels{locality#13/total}/count/mpi/received,1,0.740287,[s],314
+/parcels{locality#14/total}/count/mpi/received,1,0.754873,[s],319
+/parcels{locality#15/total}/count/mpi/received,1,0.751970,[s],318
+/parcels{locality#0/total}/count/mpi/sent,1,0.758367,[s],4710
+/parcels{locality#1/total}/count/mpi/sent,1,0.754145,[s],465
+/parcels{locality#2/total}/count/mpi/sent,1,0.753158,[s],445
+/parcels{locality#3/total}/count/mpi/sent,1,0.738881,[s],486
+/parcels{locality#4/total}/count/mpi/sent,1,0.753345,[s],452
+/parcels{locality#5/total}/count/mpi/sent,1,0.754596,[s],488
+/parcels{locality#6/total}/count/mpi/sent,1,0.753687,[s],451
+/parcels{locality#7/total}/count/mpi/sent,1,0.754880,[s],460
+/parcels{locality#8/total}/count/mpi/sent,1,0.754468,[s],429
+/parcels{locality#9/total}/count/mpi/sent,1,0.754090,[s],414
+/parcels{locality#10/total}/count/mpi/sent,1,0.754422,[s],525
+/parcels{locality#11/total}/count/mpi/sent,1,0.753411,[s],496
+/parcels{locality#12/total}/count/mpi/sent,1,0.754792,[s],474
+/parcels{locality#13/total}/count/mpi/sent,1,0.740642,[s],459
+/parcels{locality#14/total}/count/mpi/sent,1,0.755659,[s],456
+/parcels{locality#15/total}/count/mpi/sent,1,0.740392,[s],469
+/serialize{locality#0/total}/count/mpi/received,1,0.759184,[s],2.08896e+06,[bytes]
+/serialize{locality#1/total}/count/mpi/received,1,0.755174,[s],102338,[bytes]
+/serialize{locality#2/total}/count/mpi/received,1,0.753991,[s],99705,[bytes]
+/serialize{locality#3/total}/count/mpi/received,1,0.739493,[s],108311,[bytes]
+/serialize{locality#4/total}/count/mpi/received,1,0.741439,[s],103062,[bytes]
+/serialize{locality#5/total}/count/mpi/received,1,0.743088,[s],133086,[bytes]
+/serialize{locality#6/total}/count/mpi/received,1,0.754444,[s],102135,[bytes]
+/serialize{locality#7/total}/count/mpi/received,1,0.754925,[s],110540,[bytes]
+/serialize{locality#8/total}/count/mpi/received,1,0.755315,[s],101582,[bytes]
+/serialize{locality#9/total}/count/mpi/received,1,0.755186,[s],102909,[bytes]
+/serialize{locality#10/total}/count/mpi/received,1,0.756585,[s],142747,[bytes]
+/serialize{locality#11/total}/count/mpi/received,1,0.742265,[s],115601,[bytes]
+/serialize{locality#12/total}/count/mpi/received,1,0.755581,[s],114832,[bytes]
+/serialize{locality#13/total}/count/mpi/received,1,0.741682,[s],110744,[bytes]
+/serialize{locality#14/total}/count/mpi/received,1,0.756603,[s],112305,[bytes]
+/serialize{locality#15/total}/count/mpi/received,1,0.753491,[s],111737,[bytes]
+/serialize{locality#0/total}/count/mpi/sent,1,0.760024,[s],1.64717e+06,[bytes]
+/serialize{locality#1/total}/count/mpi/sent,1,0.755815,[s],137896,[bytes]
+/serialize{locality#2/total}/count/mpi/sent,1,0.754785,[s],132730,[bytes]
+/serialize{locality#3/total}/count/mpi/sent,1,0.756118,[s],143991,[bytes]
+/serialize{locality#4/total}/count/mpi/sent,1,0.754898,[s],135379,[bytes]
+/serialize{locality#5/total}/count/mpi/sent,1,0.743939,[s],158098,[bytes]
+/serialize{locality#6/total}/count/mpi/sent,1,0.739522,[s],135003,[bytes]
+/serialize{locality#7/total}/count/mpi/sent,1,0.756105,[s],138388,[bytes]
+/serialize{locality#8/total}/count/mpi/sent,1,0.743820,[s],130648,[bytes]
+/serialize{locality#9/total}/count/mpi/sent,1,0.755756,[s],126215,[bytes]
+/serialize{locality#10/total}/count/mpi/sent,1,0.756175,[s],167504,[bytes]
+/serialize{locality#11/total}/count/mpi/sent,1,0.742689,[s],149606,[bytes]
+/serialize{locality#12/total}/count/mpi/sent,1,0.756512,[s],144888,[bytes]
+/serialize{locality#13/total}/count/mpi/sent,1,0.750631,[s],141832,[bytes]
+/serialize{locality#14/total}/count/mpi/sent,1,0.757421,[s],141593,[bytes]
+/serialize{locality#15/total}/count/mpi/sent,1,0.754402,[s],143826,[bytes]
+/serialize{locality#0/total}/time/mpi/received,1,0.761457,[s],4.43425e+07,[ns]
+/serialize{locality#1/total}/time/mpi/received,1,0.744835,[s],2.42007e+06,[ns]
+/serialize{locality#2/total}/time/mpi/received,1,0.742927,[s],2.35082e+06,[ns]
+/serialize{locality#3/total}/time/mpi/received,1,0.757282,[s],2.5143e+06,[ns]
+/serialize{locality#4/total}/time/mpi/received,1,0.743052,[s],2.46639e+06,[ns]
+/serialize{locality#5/total}/time/mpi/received,1,0.744823,[s],2.99771e+06,[ns]
+/serialize{locality#6/total}/time/mpi/received,1,0.740551,[s],2.41658e+06,[ns]
+/serialize{locality#7/total}/time/mpi/received,1,0.756331,[s],2.59501e+06,[ns]
+/serialize{locality#8/total}/time/mpi/received,1,0.757487,[s],2.4443e+06,[ns]
+/serialize{locality#9/total}/time/mpi/received,1,0.757201,[s],2.50903e+06,[ns]
+/serialize{locality#10/total}/time/mpi/received,1,0.758789,[s],3.63153e+06,[ns]
+/serialize{locality#11/total}/time/mpi/received,1,0.756374,[s],2.7195e+06,[ns]
+/serialize{locality#12/total}/time/mpi/received,1,0.758914,[s],2.86855e+06,[ns]
+/serialize{locality#13/total}/time/mpi/received,1,0.744086,[s],2.67063e+06,[ns]
+/serialize{locality#14/total}/time/mpi/received,1,0.758640,[s],2.67739e+06,[ns]
+/serialize{locality#15/total}/time/mpi/received,1,0.755700,[s],2.61975e+06,[ns]
+/serialize{locality#0/total}/time/mpi/sent,1,0.762831,[s],2.45578e+07,[ns]
+/serialize{locality#1/total}/time/mpi/sent,1,0.758227,[s],1.96741e+06,[ns]
+/serialize{locality#2/total}/time/mpi/sent,1,0.744539,[s],1.89164e+06,[ns]
+/serialize{locality#3/total}/time/mpi/sent,1,0.758774,[s],2.06715e+06,[ns]
+/serialize{locality#4/total}/time/mpi/sent,1,0.757264,[s],1.94564e+06,[ns]
+/serialize{locality#5/total}/time/mpi/sent,1,0.746248,[s],2.22246e+06,[ns]
+/serialize{locality#6/total}/time/mpi/sent,1,0.757710,[s],5.70457e+06,[ns]
+/serialize{locality#7/total}/time/mpi/sent,1,0.758116,[s],5.9224e+06,[ns]
+/serialize{locality#8/total}/time/mpi/sent,1,0.746256,[s],5.68392e+06,[ns]
+/serialize{locality#9/total}/time/mpi/sent,1,0.758948,[s],5.90796e+06,[ns]
+/serialize{locality#10/total}/time/mpi/sent,1,0.759275,[s],6.56473e+06,[ns]
+/serialize{locality#11/total}/time/mpi/sent,1,0.745308,[s],1.05582e+07,[ns]
+/serialize{locality#12/total}/time/mpi/sent,1,0.759628,[s],1.38357e+07,[ns]
+/serialize{locality#13/total}/time/mpi/sent,1,0.753043,[s],2.86815e+07,[ns]
+/serialize{locality#14/total}/time/mpi/sent,1,0.759357,[s],2.48252e+07,[ns]
+/serialize{locality#15/total}/time/mpi/sent,1,0.756869,[s],2.3181e+07,[ns]
+/threads{locality#0/total}/count/objects,1,0.763977,[s],76
+/threads{locality#1/total}/count/objects,1,0.758981,[s],33
+/threads{locality#2/total}/count/objects,1,0.745933,[s],30
+/threads{locality#3/total}/count/objects,1,0.743574,[s],36
+/threads{locality#4/total}/count/objects,1,0.746144,[s],31
+/threads{locality#5/total}/count/objects,1,0.747009,[s],38
+/threads{locality#6/total}/count/objects,1,0.742961,[s],32
+/threads{locality#7/total}/count/objects,1,0.759036,[s],31
+/threads{locality#8/total}/count/objects,1,0.759330,[s],30
+/threads{locality#9/total}/count/objects,1,0.759266,[s],31
+/threads{locality#10/total}/count/objects,1,0.759266,[s],44
+/threads{locality#11/total}/count/objects,1,0.745984,[s],28
+/threads{locality#12/total}/count/objects,1,0.760170,[s],36
+/threads{locality#13/total}/count/objects,1,0.745356,[s],38
+/threads{locality#14/total}/count/objects,1,0.759959,[s],31
+/threads{locality#15/total}/count/objects,1,0.745960,[s],32
+/threads{locality#0/total}/count/cumulative,1,0.764684,[s],19655
+/threads{locality#1/total}/count/cumulative,1,0.759873,[s],1865
+/threads{locality#2/total}/count/cumulative,1,0.746608,[s],1804
+/threads{locality#3/total}/count/cumulative,1,0.759790,[s],2163
+/threads{locality#4/total}/count/cumulative,1,0.746256,[s],1842
+/threads{locality#5/total}/count/cumulative,1,0.748119,[s],2272
+/threads{locality#6/total}/count/cumulative,1,0.759575,[s],1915
+/threads{locality#7/total}/count/cumulative,1,0.760199,[s],2012
+/threads{locality#8/total}/count/cumulative,1,0.760256,[s],1937
+/threads{locality#9/total}/count/cumulative,1,0.761302,[s],2099
+/threads{locality#10/total}/count/cumulative,1,0.759766,[s],2750
+/threads{locality#11/total}/count/cumulative,1,0.746936,[s],2031
+/threads{locality#12/total}/count/cumulative,1,0.760287,[s],1906
+/threads{locality#13/total}/count/cumulative,1,0.746734,[s],2068
+/threads{locality#14/total}/count/cumulative,1,0.761394,[s],2187
+/threads{locality#15/total}/count/cumulative,1,0.758123,[s],2215
+/threads{locality#0/total}/count/cumulative-phases,1,0.765180,[s],61589
+/threads{locality#1/total}/count/cumulative-phases,1,0.749034,[s],3089
+/threads{locality#2/total}/count/cumulative-phases,1,0.746862,[s],3721
+/threads{locality#3/total}/count/cumulative-phases,1,0.760716,[s],3475
+/threads{locality#4/total}/count/cumulative-phases,1,0.747090,[s],4510
+/threads{locality#5/total}/count/cumulative-phases,1,0.749057,[s],5355
+/threads{locality#6/total}/count/cumulative-phases,1,0.760323,[s],4548
+/threads{locality#7/total}/count/cumulative-phases,1,0.761432,[s],4308
+/threads{locality#8/total}/count/cumulative-phases,1,0.749310,[s],5604
+/threads{locality#9/total}/count/cumulative-phases,1,0.762295,[s],6115
+/threads{locality#10/total}/count/cumulative-phases,1,0.760954,[s],8642
+/threads{locality#11/total}/count/cumulative-phases,1,0.747352,[s],5964
+/threads{locality#12/total}/count/cumulative-phases,1,0.762756,[s],5783
+/threads{locality#13/total}/count/cumulative-phases,1,0.747443,[s],5520
+/threads{locality#14/total}/count/cumulative-phases,1,0.762378,[s],7142
+/threads{locality#15/total}/count/cumulative-phases,1,0.747354,[s],8768
+/threads{locality#0/total}/time/average,1,0.766495,[s],32519,[ns]
+/threads{locality#1/total}/time/average,1,0.761879,[s],43689,[ns]
+/threads{locality#2/total}/time/average,1,0.748139,[s],45914,[ns]
+/threads{locality#3/total}/time/average,1,0.746260,[s],42633,[ns]
+/threads{locality#4/total}/time/average,1,0.748710,[s],43325,[ns]
+/threads{locality#5/total}/time/average,1,0.749551,[s],40521,[ns]
+/threads{locality#6/total}/time/average,1,0.745691,[s],44179,[ns]
+/threads{locality#7/total}/time/average,1,0.762211,[s],35839,[ns]
+/threads{locality#8/total}/time/average,1,0.749791,[s],43813,[ns]
+/threads{locality#9/total}/time/average,1,0.763215,[s],36351,[ns]
+/threads{locality#10/total}/time/average,1,0.762890,[s],41470,[ns]
+/threads{locality#11/total}/time/average,1,0.761161,[s],42253,[ns]
+/threads{locality#12/total}/time/average,1,0.763420,[s],37102,[ns]
+/threads{locality#13/total}/time/average,1,0.748455,[s],45445,[ns]
+/threads{locality#14/total}/time/average,1,0.763498,[s],38110,[ns]
+/threads{locality#15/total}/time/average,1,0.747747,[s],43149,[ns]
+/threads{locality#0/total}/time/average-overhead,1,0.767440,[s],880625,[ns]
+/threads{locality#1/total}/time/average-overhead,1,0.762781,[s],9.38022e+06,[ns]
+/threads{locality#2/total}/time/average-overhead,1,0.749415,[s],9.69916e+06,[ns]
+/threads{locality#3/total}/time/average-overhead,1,0.747389,[s],8.08362e+06,[ns]
+/threads{locality#4/total}/time/average-overhead,1,0.761672,[s],9.47718e+06,[ns]
+/threads{locality#5/total}/time/average-overhead,1,0.750470,[s],7.73374e+06,[ns]
+/threads{locality#6/total}/time/average-overhead,1,0.746338,[s],9.1081e+06,[ns]
+/threads{locality#7/total}/time/average-overhead,1,0.763309,[s],8.87637e+06,[ns]
+/threads{locality#8/total}/time/average-overhead,1,0.763016,[s],9.06687e+06,[ns]
+/threads{locality#9/total}/time/average-overhead,1,0.763986,[s],8.50701e+06,[ns]
+/threads{locality#10/total}/time/average-overhead,1,0.762720,[s],6.40944e+06,[ns]
+/threads{locality#11/total}/time/average-overhead,1,0.749498,[s],8.65022e+06,[ns]
+/threads{locality#12/total}/time/average-overhead,1,0.762881,[s],9.25224e+06,[ns]
+/threads{locality#13/total}/time/average-overhead,1,0.748723,[s],8.47637e+06,[ns]
+/threads{locality#14/total}/time/average-overhead,1,0.763257,[s],8.06343e+06,[ns]
+/threads{locality#15/total}/time/average-overhead,1,0.748747,[s],7.92293e+06,[ns]
+/threads{locality#0/total}/time/average-phase,1,0.767385,[s],10500,[ns]
+/threads{locality#1/total}/time/average-phase,1,0.763423,[s],26495,[ns]
+/threads{locality#2/total}/time/average-phase,1,0.750032,[s],22372,[ns]
+/threads{locality#3/total}/time/average-phase,1,0.747927,[s],26577,[ns]
+/threads{locality#4/total}/time/average-phase,1,0.750279,[s],17646,[ns]
+/threads{locality#5/total}/time/average-phase,1,0.751240,[s],17108,[ns]
+/threads{locality#6/total}/time/average-phase,1,0.763031,[s],18611,[ns]
+/threads{locality#7/total}/time/average-phase,1,0.763181,[s],16679,[ns]
+/threads{locality#8/total}/time/average-phase,1,0.751623,[s],15149,[ns]
+/threads{locality#9/total}/time/average-phase,1,0.763739,[s],12442,[ns]
+/threads{locality#10/total}/time/average-phase,1,0.764264,[s],13196,[ns]
+/threads{locality#11/total}/time/average-phase,1,0.750169,[s],14436,[ns]
+/threads{locality#12/total}/time/average-phase,1,0.765361,[s],12288,[ns]
+/threads{locality#13/total}/time/average-phase,1,0.750098,[s],17091,[ns]
+/threads{locality#14/total}/time/average-phase,1,0.765149,[s],11712,[ns]
+/threads{locality#15/total}/time/average-phase,1,0.749861,[s],10952,[ns]
+/threads{locality#0/total}/time/average-phase-overhead,1,0.768462,[s],282981,[ns]
+/threads{locality#1/total}/time/average-phase-overhead,1,0.764137,[s],5.68077e+06,[ns]
+/threads{locality#2/total}/time/average-phase-overhead,1,0.750860,[s],4.72527e+06,[ns]
+/threads{locality#3/total}/time/average-phase-overhead,1,0.764498,[s],5.03418e+06,[ns]
+/threads{locality#4/total}/time/average-phase-overhead,1,0.750448,[s],3.8583e+06,[ns]
+/threads{locality#5/total}/time/average-phase-overhead,1,0.752277,[s],3.25234e+06,[ns]
+/threads{locality#6/total}/time/average-phase-overhead,1,0.764065,[s],3.83485e+06,[ns]
+/threads{locality#7/total}/time/average-phase-overhead,1,0.764009,[s],4.12503e+06,[ns]
+/threads{locality#8/total}/time/average-phase-overhead,1,0.764708,[s],3.13649e+06,[ns]
+/threads{locality#9/total}/time/average-phase-overhead,1,0.765018,[s],2.90379e+06,[ns]
+/threads{locality#10/total}/time/average-phase-overhead,1,0.764920,[s],2.03536e+06,[ns]
+/threads{locality#11/total}/time/average-phase-overhead,1,0.750803,[s],2.95199e+06,[ns]
+/threads{locality#12/total}/time/average-phase-overhead,1,0.766149,[s],3.06045e+06,[ns]
+/threads{locality#13/total}/time/average-phase-overhead,1,0.751089,[s],3.18702e+06,[ns]
+/threads{locality#14/total}/time/average-phase-overhead,1,0.764998,[s],2.4683e+06,[ns]
+/threads{locality#15/total}/time/average-phase-overhead,1,0.750839,[s],2.00428e+06,[ns]
+/threads{locality#0/total}/idle-rate,1,0.769553,[s],9640,[0.01%]
+/threads{locality#1/total}/idle-rate,1,0.764928,[s],9953,[0.01%]
+/threads{locality#2/total}/idle-rate,1,0.764064,[s],9952,[0.01%]
+/threads{locality#3/total}/idle-rate,1,0.765239,[s],9947,[0.01%]
+/threads{locality#4/total}/idle-rate,1,0.752239,[s],9954,[0.01%]
+/threads{locality#5/total}/idle-rate,1,0.753591,[s],9947,[0.01%]
+/threads{locality#6/total}/idle-rate,1,0.749122,[s],9951,[0.01%]
+/threads{locality#7/total}/idle-rate,1,0.764822,[s],9959,[0.01%]
+/threads{locality#8/total}/idle-rate,1,0.765169,[s],9951,[0.01%]
+/threads{locality#9/total}/idle-rate,1,0.766405,[s],9957,[0.01%]
+/threads{locality#10/total}/idle-rate,1,0.765312,[s],9935,[0.01%]
+/threads{locality#11/total}/idle-rate,1,0.751901,[s],9951,[0.01%]
+/threads{locality#12/total}/idle-rate,1,0.766857,[s],9959,[0.01%]
+/threads{locality#13/total}/idle-rate,1,0.760035,[s],9946,[0.01%]
+/threads{locality#14/total}/idle-rate,1,0.766761,[s],9952,[0.01%]
+/threads{locality#15/total}/idle-rate,1,0.763934,[s],9945,[0.01%]
+Application 11971946 resources: utime ~80s, stime ~16s, Rss ~30204, inblocks ~34253, outblocks ~51565
+
+ + --------------------------------------------------------------------------
+ +        Job name: hello_world_16
+ +          Job Id: 2781301.edique02
+ +          System: edison
+ +     Queued Time: Thu Apr 23 20:00:28 2015
+ +      Start Time: Thu Apr 23 20:01:10 2015
+ + Completion Time: Thu Apr 23 20:02:42 2015
+ +            User: pagrubel
+ +        MOM Host: nid02048
+ +           Queue: reg_small
+ +  Req. Resources: mppnodect=16,mppnppn=24,mppwidth=384,walltime=00:10:00
+ +  Used Resources: cput=00:00:01,energy_used=0,mem=10584kb,vmem=157492kb,walltime=00:01:34
+ +     Acct String: xpress
+ +   PBS_O_WORKDIR: /global/u1/p/pagrubel/hello_world_experiments/experiments_1
+ +     Submit Args: run_hello_world_hpx_16.job
+ + --------------------------------------------------------------------------
+
